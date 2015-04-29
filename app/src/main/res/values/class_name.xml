@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classNames">
+        <item>Select Class</item>
+        <item>Sleeper</item>
+        <item>First AC</item>
+        <item>Second AC</item>
+        <item>Third AC</item>
+        <item>3 AC Economy</item>
+        <item>AC Chair Car</item>
+        <item>First Class</item>
+        <item>Second Seating</item>
+
+
+    </string-array>
+
+
+
+</resources>

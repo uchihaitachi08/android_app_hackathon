@@ -1,0 +1,4600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="station_names">
+        <item>A N DEV NAGAR - ACND</item>
+        <item>ABHAIPUR - AHA</item>
+        <item>ABOHAR - ABS</item>
+        <item>ABU ROAD - ABR</item>
+        <item>ACHALDA - ULD</item>
+        <item>ACHARAPAKKAM - ACK</item>
+        <item>ACHHNERA JN - AH</item>
+        <item>ADARSHNAGAR - AHO</item>
+        <item>ADAS ROAD - ADD</item>
+        <item>ADAVALI - ADVI</item>
+        <item>ADESAR - AAR</item>
+        <item>ADGAON BUZURG - ABZ</item>
+        <item>ADHARTAL - ADTL</item>
+        <item>ADILABAD - ADB</item>
+        <item>ADINA - ADF</item>
+        <item>ADIPUR - AI</item>
+        <item>ADITYAPUR - ADTP</item>
+        <item>ADONI - AD</item>
+        <item>ADRA JN - ADRA</item>
+        <item>ADRSH NGR DELHI - ANDI</item>
+        <item>ADUTURAI - ADT</item>
+        <item>AGARTALA - AGTL</item>
+        <item>AGAS - AGAS</item>
+        <item>AGASOD - AGD</item>
+        <item>AGHWANPUR - AWP</item>
+        <item>AGORI KHAS - AGY</item>
+        <item>AGRA CANTT - AGC</item>
+        <item>AGRA CITY - AGA</item>
+        <item>AGRA FORT - AF</item>
+        <item>AHALYAPUR - AHLR</item>
+        <item>AHERWADI - AHD</item>
+        <item>AHIRAN - AHN</item>
+        <item>AHMADGARH - AHH</item>
+        <item>AHMADNAGAR - ANG</item>
+        <item>AHMADPUR JN - AMP</item>
+        <item>AHMEDABAD JN - ADI</item>
+        <item>AHRAURA ROAD - ARW</item>
+        <item>AISHBAGH - ASH</item>
+        <item>AIT - AIT</item>
+        <item>AITHAL - ATMO</item>
+        <item>AJANTI - ANI</item>
+        <item>AJARAKA - AIA</item>
+        <item>AJGAIN - AJ</item>
+        <item>AJHAI - AJH</item>
+        <item>AJIT - AJIT</item>
+        <item>AJJAMPUR - AJP</item>
+        <item>AJMER JN - AII</item>
+        <item>AJNI - AJNI</item>
+        <item>AJNOD - AJN</item>
+        <item>AKALKOT ROAD - AKOR</item>
+        <item>AKALTARA - AKT</item>
+        <item>AKANAPET - AKE</item>
+        <item>AKATHUMURI - AMY</item>
+        <item>AKBARGANJ - AKJ</item>
+        <item>AKBARNAGAR - AKN</item>
+        <item>AKBARPUR - ABP</item>
+        <item>AKIVIDU - AKVD</item>
+        <item>AKKURTI - AKY</item>
+        <item>AKODIA - AKD</item>
+        <item>AKOLA JN - AK</item>
+        <item>AKOLNER - AKR</item>
+        <item>AKOT - AKOT</item>
+        <item>AKSHAYWAT R NGR - AYRN</item>
+        <item>AKURDI - AKRD</item>
+        <item>ALAI - ALAI</item>
+        <item>alai - ALJ</item>
+        <item>ALAMANDA - ALM</item>
+        <item>ALAMNAGAR - AMG</item>
+        <item>ALAMPUR - ALMR</item>
+        <item>ALAMPUR ROAD - ALPR</item>
+        <item>ALANDI - ALN</item>
+        <item>ALATTAMBADI - ATB</item>
+        <item>ALAWALPUR - AWL</item>
+        <item>ALER - ALER</item>
+        <item>ALGAWAN - AIG</item>
+        <item>ALIA BADA - ALB</item>
+        <item>ALIGARH JN - ALJN</item>
+        <item>ALIPUR DUAR - APD</item>
+        <item>ALIPUR DUAR JN - APDJ</item>
+        <item>ALIYABAD - AYB</item>
+        <item>ALLAHABAD CITY - ALY</item>
+        <item>ALLAHABAD JN - ALD</item>
+        <item>ALLEPPEY - ALLP</item>
+        <item>ALLURU ROAD - AXR</item>
+        <item>ALMATTI - LMT</item>
+        <item>ALNAVAR JN - LWR</item>
+        <item>ALNIYA - ALNI</item>
+        <item>ALUABARI ROAD - AUB</item>
+        <item>ALUVA - AWY</item>
+        <item>ALWAL - ALW</item>
+        <item>ALWAR - AWR</item>
+        <item>AMAGURA - AGZ</item>
+        <item>AMALNER - AN</item>
+        <item>AMALSAD - AML</item>
+        <item>AMAN VADI - AMW</item>
+        <item>AMARDA ROAD - ARD</item>
+        <item>AMARGARH - AGR</item>
+        <item>AMARPURA - APA</item>
+        <item>AMARPURA RATHAN - AMPR</item>
+        <item>AMARSAR - AXA</item>
+        <item>AMAUSI - AMS</item>
+        <item>AMBAGAON - AGB</item>
+        <item>AMBALA CANT JN - UMB</item>
+        <item>AMBALA CITY - UBC</item>
+        <item>AMBALAPUZHA - AMPA</item>
+        <item>AMBALE - ABLE</item>
+        <item>AMBARI FALAKATA - ABFC</item>
+        <item>AMBARNATH - ABH</item>
+        <item>AMBASA - ABSA</item>
+        <item>AMBATURAI - ABI</item>
+        <item>AMBIKA KALNA - ABKA</item>
+        <item>AMBIKA ROHINA - AMBR</item>
+        <item>AMBIKAPUR - ABKP</item>
+        <item>AMBLI ROAD - ABD</item>
+        <item>AMBLIYASAN - UMN</item>
+        <item>AMBODALA - AMB</item>
+        <item>AMBUR - AB</item>
+        <item>AMDARA - UDR</item>
+        <item>AMETHI - AME</item>
+        <item>AMGAON - AGN</item>
+        <item>AMGURI - AGI</item>
+        <item>AMIN - AMIN</item>
+        <item>AMLA JN - AMLA</item>
+        <item>AMLAI - AAL</item>
+        <item>AMLAKHURD - AMX</item>
+        <item>AMLI - AMLI</item>
+        <item>AMMANABROLU - ANB</item>
+        <item>AMMANUR - AMNR</item>
+        <item>AMMASANDRA - AMSA</item>
+        <item>AMMUGUDA - AMQ</item>
+        <item>AMRAVATI - AMI</item>
+        <item>AMRELI - AE</item>
+        <item>AMRELI PARA - AEP</item>
+        <item>AMRITAPURA - AMC</item>
+        <item>AMRITSAR JN - ASR</item>
+        <item>AMROHA - AMRO</item>
+        <item>ANAKAPALLE - AKP</item>
+        <item>ANAND JN - ANND</item>
+        <item>ANAND NAGAR - ANDN</item>
+        <item>ANAND VIHAR - ANVR</item>
+        <item>ANANDPUR SAHIB - ANSB</item>
+        <item>ANANDTANDAVPUR - ANP</item>
+        <item>ANANTAPUR - ATP</item>
+        <item>ANANTARAJUPET - ANE</item>
+        <item>ANAPARTI - APT</item>
+        <item>ANARA - ANR</item>
+        <item>ANAS - ANAS</item>
+        <item>ANAVARDIKHANPET - AVN</item>
+        <item>ANCHELI - ACL</item>
+        <item>ANDAL JN - UDL</item>
+        <item>ANDHERI - ADH</item>
+        <item>ANGAMALI - AFK</item>
+        <item>ANGAR - AAG</item>
+        <item>ANGUL - ANGL</item>
+        <item>ANJANI - ANO</item>
+        <item>ANJAR - AJE</item>
+        <item>ANJHI SHAHABAD - AJI</item>
+        <item>ANK MMR DIRECT - ANKX</item>
+        <item>ANKAI - ANK</item>
+        <item>ANKLESHWAR JN - AKV</item>
+        <item>ANKOLA - ANKL</item>
+        <item>ANKORAH AKORHA - ANH</item>
+        <item>ANNAVARAM - ANV</item>
+        <item>ANNIGERI - NGR</item>
+        <item>ANPARA - ANPR</item>
+        <item>ANTAH - ATH</item>
+        <item>ANTU - ANTU</item>
+        <item>ANUGRAHA N ROAD - AUBR</item>
+        <item>ANUPPUR JN - APR</item>
+        <item>ANUPSHAHR - AUS</item>
+        <item>AONLA - AO</item>
+        <item>APPIKATLA - APL</item>
+        <item>APTA - APTA</item>
+        <item>ARA - ARA</item>
+        <item>ARAKKONAM - AJJ</item>
+        <item>ARAKKU - ARK</item>
+        <item>ARALVAYMOZHI - AAY</item>
+        <item>ARAND - ARN</item>
+        <item>ARANG MAHANADI - ANMD</item>
+        <item>ARANTANGI - ATQ</item>
+        <item>ARARIYA COURT - ARQ</item>
+        <item>ARAVALI ROAD - AVRD</item>
+        <item>ARAVANKADU - AVK</item>
+        <item>ARIGADA - ARGD</item>
+        <item>ARIYALUR - ALU</item>
+        <item>ARJANSAR - AS</item>
+        <item>ARNETHA - ARE</item>
+        <item>ARNI ROAD - ARV</item>
+        <item>ARNIA - ARNA</item>
+        <item>ARSIKERE JN - ASK</item>
+        <item>ARTS COLLEGE - ATC</item>
+        <item>ARUMUGANERI - ANY</item>
+        <item>ARUNACHAL - ARCL</item>
+        <item>ASAFPUR - AFR</item>
+        <item>ASALPUR JOBNER - JOB</item>
+        <item>ASANGAON - ASO</item>
+        <item>ASANSOL JN - ASN</item>
+        <item>ASAOTI - AST</item>
+        <item>ASARVA JN - ASV</item>
+        <item>ASHAPURA GOMAT - AQG</item>
+        <item>ASHOK NAGAR - ASKN</item>
+        <item>ASIFABAD ROAD - ASAF</item>
+        <item>ASLANA - ANA</item>
+        <item>ASLAODA - ASL</item>
+        <item>ASNOTI - AT</item>
+        <item>ASOKHAR - AXK</item>
+        <item>ASRANADA - AAS</item>
+        <item>ASWANI HALT - AWS</item>
+        <item>ATARI - ATT</item>
+        <item>ATARRA - ATE</item>
+        <item>ATELI - AEL</item>
+        <item>ATHMAL GOLA - ATL</item>
+        <item>ATIRAMPATTINAM - AMM</item>
+        <item>ATRAMPUR - ARP</item>
+        <item>ATRAULI ROAD - AUR</item>
+        <item>ATRU - ATRU</item>
+        <item>ATTABIRA - ATS</item>
+        <item>ATTAR - ATR</item>
+        <item>ATTILI - AL</item>
+        <item>ATTIPPATTU - AIP</item>
+        <item>ATTUR - ATU</item>
+        <item>ATUL - ATUL</item>
+        <item>AULENDA - AED</item>
+        <item>AUNRIHAR JN - ARJ</item>
+        <item>AURANGABAD - AWB</item>
+        <item>AUSA ROAD - OSA</item>
+        <item>AUWA - AUWA</item>
+        <item>AVADI - AVD</item>
+        <item>AWATARNAGAR - ATNR</item>
+        <item>AYODHYA - AY</item>
+        <item>AYODHYAPATTANAM - APN</item>
+        <item>AZAMGARH - AMH</item>
+        <item>AZAMNAGAR ROAD - AZR</item>
+        <item>AZIMGANJ CITY - ACLE</item>
+        <item>AZIMGANJ JN - AZ</item>
+        <item>B CEMENT NAGAR - BEY</item>
+        <item>BABARPUR - BBDE</item>
+        <item>BABATPUR - BTP</item>
+        <item>BABHNAN - BV</item>
+        <item>BABINA - BAB</item>
+        <item>BABRALA - BBA</item>
+        <item>BABUGARH - BBO</item>
+        <item>BABUPETH - BUPH</item>
+        <item>BACHELI - BCHL</item>
+        <item>BACHHRAWAN - BCN</item>
+        <item>BACHWARA JN - BCA</item>
+        <item>BAD - BAD</item>
+        <item>BADABANDHA - BDBA</item>
+        <item>BADAMI - BDM</item>
+        <item>BADAMPUDI - BPY</item>
+        <item>BADARPUR JN - BPB</item>
+        <item>BADE ARAPUR - BDXX</item>
+        <item>BADHAL - BDHL</item>
+        <item>BADHWA BARA - BDWA</item>
+        <item>BADKULLA - BDZ</item>
+        <item>BADLA GHAT - BHB</item>
+        <item>BADLAPUR - BUD</item>
+        <item>BADLI - BHD</item>
+        <item>BADMAL - BUDM</item>
+        <item>BADNAPUR - BDU</item>
+        <item>BADNERA JN - BD</item>
+        <item>BADSHAHNAGAR - BNZ</item>
+        <item>BADSHAHPUR - BSE</item>
+        <item>BADULIPAR - BLPR</item>
+        <item>BADURPUR GHAT - BPG</item>
+        <item>BADWASI - BWS</item>
+        <item>BAGAHA - BUG</item>
+        <item>BAGAHAI ROAD - BGHI</item>
+        <item>BAGALIA - BGA</item>
+        <item>BAGALKOT - BGK</item>
+        <item>BAGBAHRA - BGBR</item>
+        <item>BAGDIHI - BEH</item>
+        <item>BAGETAR - BF</item>
+        <item>BAGEVADI RD - BSRX</item>
+        <item>BAGEWADI - BGWD</item>
+        <item>BAGHAULI - BGH</item>
+        <item>BAGHNAPARA - BGRA</item>
+        <item>BAGHORA - BJQ</item>
+        <item>BAGNAN - BZN</item>
+        <item>BAGRA TAWA - BGTA</item>
+        <item>BAGRI NAGAR - BQN</item>
+        <item>BAGRI SAJJANPUR - BGX</item>
+        <item>BAGUMRA - BGMR</item>
+        <item>BAGWALI - BWB</item>
+        <item>BAHADUR SINGH W - BSS</item>
+        <item>BAHADURGARH - BGZ</item>
+        <item>BAHADURPUR - BPD</item>
+        <item>BAHAWAL BASI - BFE</item>
+        <item>BAHERI - BHI</item>
+        <item>BAHJOI - BJ</item>
+        <item>BAHMAN DIWANA - BWX</item>
+        <item>BAHRAICH - BRK</item>
+        <item>BAIDYANATHDHAM - BDME</item>
+        <item>BAIGUDA - BGUA</item>
+        <item>BAIHATOLA - BATL</item>
+        <item>BAIJNATHPAPROLA - BJPL</item>
+        <item>BAIKUNTH - BKTH</item>
+        <item>BAIKUNTHPUR RD - BRH</item>
+        <item>BAINCHI - BOI</item>
+        <item>BAIRAGARH - BIH</item>
+        <item>BAIRAGNIA - BGU</item>
+        <item>BAITALPUR - BALR</item>
+        <item>BAITARANI ROAD - BTV</item>
+        <item>BAIYYAPPANAHALI - BYPL</item>
+        <item>BAJVA - BJW</item>
+        <item>BAKANIAN BHAUNR - BQE</item>
+        <item>BAKHLETA - BQQ</item>
+        <item>BAKHTIYARPUR JN - BKP</item>
+        <item>BAKRA ROAD - BK</item>
+        <item>BAKTAL - BKTL</item>
+        <item>BALA ROAD - BLRD</item>
+        <item>BALABHADRAPURAM - BBPM</item>
+        <item>BALABNRAMAPURAM - BRAM</item>
+        <item>BALAGARH - BGAE</item>
+        <item>BALAGHAT JN - BTC</item>
+        <item>BALAMU JN - BLM</item>
+        <item>BALANAGAR - BABR</item>
+        <item>BALANGIR - BLGR</item>
+        <item>BALASORE - BLS</item>
+        <item>BALAUDA TAKUN - BLDK</item>
+        <item>BALAWALI - BLW</item>
+        <item>BALE - BALE</item>
+        <item>BALGANUR - BLR</item>
+        <item>BALHARSHAH - BPQ</item>
+        <item>BALIAKHERI - BAE</item>
+        <item>BALICHAK - BCK</item>
+        <item>BALIPARA - BVU</item>
+        <item>BALLABGARH - BVH</item>
+        <item>BALLENAHALLI - BAHI</item>
+        <item>BALLI - BLLI</item>
+        <item>BALLIA - BUI</item>
+        <item>BALLY - BLY</item>
+        <item>BALOTRA JN - BLT</item>
+        <item>BALPUR HALT - BPRH</item>
+        <item>BALUGAN - BALU</item>
+        <item>BALURGHAT - BLGT</item>
+        <item>BALWARA - BAWA</item>
+        <item>BAMANHERI - BMHR</item>
+        <item>BAMHANI - BMW</item>
+        <item>BAMHRAULI - BMU</item>
+        <item>BAMLA - BMLL</item>
+        <item>BAMNIA - BMI</item>
+        <item>BAMRA - BMB</item>
+        <item>BAMSIN - BMSN</item>
+        <item>BANAHI - BYN</item>
+        <item>BANAPURA - BPF</item>
+        <item>BANAR - BNO</item>
+        <item>BANAS - BNS</item>
+        <item>BANASWADI - BAND</item>
+        <item>BANBASA - BNSA</item>
+        <item>BANDA JN - BNDA</item>
+        <item>BANDAKPUR - BNU</item>
+        <item>BANDANWARA - BDW</item>
+        <item>BANDARKHAL - BXK</item>
+        <item>BANDEL JN - BDC</item>
+        <item>BANDH BARETA - BR</item>
+        <item>BANDIKUI JN - BKI</item>
+        <item>BANDRA TERMINUS - BDTS</item>
+        <item>BANGALORE CANT - BNC</item>
+        <item>BANGALORE CY JN - SBC</item>
+        <item>BANGALORE EAST - BNCE</item>
+        <item>BANGARAPET - BWT</item>
+        <item>BANGARAPET - BWY</item>
+        <item>BANGROD - BOD</item>
+        <item>BANI - BANI</item>
+        <item>BANIYA SANDA DH - BSDA</item>
+        <item>BANKA - BAKA</item>
+        <item>BANKA GHAT - BKG</item>
+        <item>BANKATA - BTK</item>
+        <item>BANKHEDI - BKH</item>
+        <item>BANKURA - BQA</item>
+        <item>BANMANKHI JN - BNKI</item>
+        <item>BANMOR - BAO</item>
+        <item>BANNI KOPPA - BNA</item>
+        <item>BANO - BANO</item>
+        <item>BANPAS - BPS</item>
+        <item>BANSH BARIA - BSAE</item>
+        <item>BANSI PAHARPUR - BIQ</item>
+        <item>BANSIPUR - BSQP</item>
+        <item>BANSKHO - BSKO</item>
+        <item>BANSTHALI NIWAI - BNLW</item>
+        <item>BANTA RNATHGARH - BGG</item>
+        <item>BANTANAHAL - BLL</item>
+        <item>BANTAWALA - BNTL</item>
+        <item>BANTHRA - BTRA</item>
+        <item>BAORI THIKRIA - BOTI</item>
+        <item>BAP - BAF</item>
+        <item>BAPATLA - BPP</item>
+        <item>BAPUDM MOTIHARI - MKI</item>
+        <item>BAR - BAR</item>
+        <item>BARA JAMDA - BJMD</item>
+        <item>BARABAMBO - BRM</item>
+        <item>BARABANKI JN - BBK</item>
+        <item>BARABHUM - BBM</item>
+        <item>BARABIL - BBN</item>
+        <item>BARACHAK - BCQ</item>
+        <item>BARADIYA - BRDA</item>
+        <item>BARADWAR - BUA</item>
+        <item>BARAGAON - BNM</item>
+        <item>BARAGOPAL - BAGL</item>
+        <item>BARAHAT - BHLE</item>
+        <item>BARAKAR - BRR</item>
+        <item>BARAL - BARL</item>
+        <item>BARAN - BAZ</item>
+        <item>BARANG - BRAG</item>
+        <item>BARARA - RAA</item>
+        <item>BARAUNI JN - BJU</item>
+        <item>BARBATPUR - BBTR</item>
+        <item>BARCHI ROAD - BCRD</item>
+        <item>BARDDHAMAN JN - BWN</item>
+        <item>BARDHANA HALT - BRDH</item>
+        <item>BARDI HALT - BDHT</item>
+        <item>BARDOLI - BIY</item>
+        <item>BAREILLY - BE</item>
+        <item>BAREILLY - BRY</item>
+        <item>BAREILLY CITY - BC</item>
+        <item>BAREJADI - BJD</item>
+        <item>BARELIPUR - BQM</item>
+        <item>BARETA - BRZ</item>
+        <item>BARETH - BET</item>
+        <item>BARGARH - BRG</item>
+        <item>BARGARH ROAD - BRGA</item>
+        <item>BARGAWAN - BRGW</item>
+        <item>BARGI - BUQ</item>
+        <item>BARH - BARH</item>
+        <item>BARHARWA JN - BHW</item>
+        <item>BARHIYA - BRYA</item>
+        <item>BARI BRAHMAN - BBMN</item>
+        <item>BARIARPUR - BUP</item>
+        <item>BARIPADA - BPO</item>
+        <item>BARKA KANA - BRKA</item>
+        <item>BARKHERA - BKA</item>
+        <item>BARKISALALYA - BSYA</item>
+        <item>BARKUR - BKJ</item>
+        <item>BARLAI - BLAX</item>
+        <item>BARMER - BME</item>
+        <item>BARNAGAR - BNG</item>
+        <item>BARNALA - BNN</item>
+        <item>BAROG - BOF</item>
+        <item>BARPALI - BRPL</item>
+        <item>BARPATHAR - BXP</item>
+        <item>BARPETA ROAD - BPRD</item>
+        <item>BARRACKPORE - BP</item>
+        <item>BARRAJPUR - BJR</item>
+        <item>BARSALI - BYS</item>
+        <item>BARSATHI - BSY</item>
+        <item>BARSI TAKLI - BSQ</item>
+        <item>BARSI TOWN - BTW</item>
+        <item>BARSOI JN - BOE</item>
+        <item>BARSOLA - BZO</item>
+        <item>BARUA BAMUNGAON - BBGN</item>
+        <item>BARWA SAGAR - BWR</item>
+        <item>BARWADIH JN - BRWD</item>
+        <item>BARWAHA - BWW</item>
+        <item>BARWALA - BXC</item>
+        <item>BARYA RAM - BYHA</item>
+        <item>BASAI - BZY</item>
+        <item>BASAMPALLE - BSPL</item>
+        <item>BASAR - BSX</item>
+        <item>BASHARATGANJ - BTG</item>
+        <item>BASIN BRIDGE JN - BBQ</item>
+        <item>BASMAT - BMF</item>
+        <item>BASNI - BANE</item>
+        <item>BASSI - BAI</item>
+        <item>BASSI PATHANAM - BSPN</item>
+        <item>BASTA - BTS</item>
+        <item>BASTI - BST</item>
+        <item>BASWA - BU</item>
+        <item>BATALA JN - BAT</item>
+        <item>BATASPUR - BSLE</item>
+        <item>BAURIA JN - BVA</item>
+        <item>BAVLA - VLA</item>
+        <item>BAWAL - BWL</item>
+        <item>BAWANI KHERA - BWK</item>
+        <item>BAYANA JN - BXN</item>
+        <item>BAYTU - BUT</item>
+        <item>BAYYAVARAM - BVM</item>
+        <item>BAZARSAU - BZLE</item>
+        <item>BAZIDA JATAN - BZJT</item>
+        <item>BAZPUR - BPZ</item>
+        <item>BEAS - BEAS</item>
+        <item>BEAWAR - BER</item>
+        <item>BECHHIWARA - BHWA</item>
+        <item>BEDETTI - BVV</item>
+        <item>BEGAMPET - BMT</item>
+        <item>BEGDEWADI - BGW</item>
+        <item>BEGU SARAI - BGS</item>
+        <item>BEHTAGOKUL - BEG</item>
+        <item>BEHULA - BHLA</item>
+        <item>BEKAL FORT - BFR</item>
+        <item>BELA - BELA</item>
+        <item>BELA TAL - BTX</item>
+        <item>BELAKOBA - BLK</item>
+        <item>BELAMPALLI - BPA</item>
+        <item>BELAPUR - BAP</item>
+        <item>BELDA - BLDA</item>
+        <item>BELDANGA - BEB</item>
+        <item>BELGAHNA - BIG</item>
+        <item>BELGAUM - BGM</item>
+        <item>BELGHARIA - BLH</item>
+        <item>BELHA - BYL</item>
+        <item>BELLAMKONDA - BMKD</item>
+        <item>BELLARY CANT - BYC</item>
+        <item>BELLARY JN - BAY</item>
+        <item>BELLENAHALLI - BNHL</item>
+        <item>BELPAHAR - BPH</item>
+        <item>BELRAYAN - BXM</item>
+        <item>BELSIRI - BLRE</item>
+        <item>BELSONDA - BLSN</item>
+        <item>BELTHARA ROAD - BLTR</item>
+        <item>BELVANDI - BWD</item>
+        <item>BEOHARI - BEHR</item>
+        <item>BERCHHA - BCH</item>
+        <item>BERHAMPORE CRT - BPC</item>
+        <item>BERMO - BRMO</item>
+        <item>BESROLI - BSRL</item>
+        <item>BETAMCHERLA - BMH</item>
+        <item>BETAVAD - BEW</item>
+        <item>BETHAMPURDI - BTPD</item>
+        <item>BETHUADAHARI - BTY</item>
+        <item>BETNOTI - BTQ</item>
+        <item>BETTIAH - BTH</item>
+        <item>BETUL - BZU</item>
+        <item>BEVINAHALU - BNL</item>
+        <item>BEWAR BHOJAN - BWBN</item>
+        <item>BHABHAR - BAH</item>
+        <item>BHABTA - BFT</item>
+        <item>BHABUA ROAD - BBU</item>
+        <item>BHACHAU - BCO</item>
+        <item>BHACHAU BG - BCOB</item>
+        <item>BHADAN - BDN</item>
+        <item>BHADAURA - BWH</item>
+        <item>BHADBHADAGHAT - BVB</item>
+        <item>BHADBHUNJA - BBAI</item>
+        <item>BHADER - BADR</item>
+        <item>BHADLI - BDI</item>
+        <item>BHADOHI - BOY</item>
+        <item>BHADRACHALAM RD - BDCR</item>
+        <item>BHADRAKH - BHC</item>
+        <item>BHADRAVATI - BDVT</item>
+        <item>BHADRI - BHDR</item>
+        <item>BHADROLI - BBY</item>
+        <item>BHAGA JN - VAA</item>
+        <item>BHAGALPUR - BGP</item>
+        <item>BHAGALPUR - ZZZZ</item>
+        <item>BHAGAT KI KOTHI - BGKT</item>
+        <item>BHAGTANWALA - BGTN</item>
+        <item>BHAGWANGOLA - BQG</item>
+        <item>BHAGWANPUR - BNR</item>
+        <item>BHAGWANPURA - BGPR</item>
+        <item>BHAINI KHURD - BZK</item>
+        <item>BHAIROGANJ - BRU</item>
+        <item>BHAIRONGARH - BOG</item>
+        <item>BHAKARAPET - BKPT</item>
+        <item>BHAKTI NAGAR - BKNG</item>
+        <item>BHALKI - BHLK</item>
+        <item>BHALUI - BFM</item>
+        <item>BHALUKA ROAD F - BKRD</item>
+        <item>BHALUKMARA - BLMR</item>
+        <item>BHALULATA - BUL</item>
+        <item>BHALUMASKA - BLMK</item>
+        <item>BHALWANI - BLNI</item>
+        <item>BHAN KARI - BAK</item>
+        <item>BHANAPUR - BNP</item>
+        <item>BHANDAK - BUX</item>
+        <item>BHANDANA - BNDN</item>
+        <item>BHANDARA ROAD - BRD</item>
+        <item>BHANDARIDAH - BHME</item>
+        <item>BHANDU MOTIDAU - BHU</item>
+        <item>BHANSI - BHNS</item>
+        <item>BHANVAD - BNUD</item>
+        <item>BHANVAD - BNVD</item>
+        <item>BHANWAR TONK - BHTK</item>
+        <item>BHANWASA - BNWS</item>
+        <item>BHARAT KUP - BTKP</item>
+        <item>BHARATPUR JN - BTE</item>
+        <item>BHARTHANA - BNT</item>
+        <item>BHARUCH JN - BH</item>
+        <item>BHARWA SUMERPUR - BSZ</item>
+        <item>BHARWARI - BRE</item>
+        <item>BHATAPARA - BYT</item>
+        <item>BHATEL - BHTL</item>
+        <item>BHATINDA JN - BTI</item>
+        <item>BHATIYA - BHTA</item>
+        <item>BHATKAL - BTJL</item>
+        <item>BHATKAL - BTKL</item>
+        <item>BHATNI JN - BTT</item>
+        <item>BHATON KI GALI - BHG</item>
+        <item>BHATPAR RANI - BHTR</item>
+        <item>BHATTIPROLU - BQU</item>
+        <item>BHATTU - BHT</item>
+        <item>BHAVANAGAR PARA - BVP</item>
+        <item>BHAVANI NAGAR - BVNR</item>
+        <item>BHAVNAGAR TRMUS - BVC</item>
+        <item>BHAWANI MANDI - BWM</item>
+        <item>BHAYANDAR - BYR</item>
+        <item>BHEDIA - BDH</item>
+        <item>BHEEMPURA - BIPR</item>
+        <item>BHEJA - BHJA</item>
+        <item>BHERAGHAT - BRGT</item>
+        <item>BHESANA - BFY</item>
+        <item>BHESTAN - BHET</item>
+        <item>BHIGWAN - BGVN</item>
+        <item>BHIKNUR - BKU</item>
+        <item>BHILAD - BLD</item>
+        <item>BHILAI - BIA</item>
+        <item>BHILAI PWR HS - BPHB</item>
+        <item>BHILAINAGAR - BQR</item>
+        <item>BHILAVDI - BVQ</item>
+        <item>BHILDI - BLDI</item>
+        <item>BHILWARA - BHL</item>
+        <item>BHIMADOLU - BMD</item>
+        <item>BHIMAL - BIML</item>
+        <item>BHIMALGONDI - BMC</item>
+        <item>BHIMANA - BMN</item>
+        <item>BHIMARLAI - BMQ</item>
+        <item>BHIMASAR - BMSR</item>
+        <item>BHIMAVARAM JN - BVRM</item>
+        <item>BHIMAVARAM TOWN - BVRT</item>
+        <item>BHIMGARA - BMGA</item>
+        <item>BHIMKHOJ - BMKJ</item>
+        <item>BHIMSEN - BZM</item>
+        <item>BHIND - BIX</item>
+        <item>BHINWALIYA - BWA</item>
+        <item>BHIRA KHERI - BIK</item>
+        <item>BHITAURA - BTO</item>
+        <item>BHITONI - BHTN</item>
+        <item>BHIVPURI ROAD - BVS</item>
+        <item>BHIWANDI ROAD - BIRD</item>
+        <item>BHIWANI - BNW</item>
+        <item>BHIWANI CITY - BNWC</item>
+        <item>BHODWAL MAJRI - BDMJ</item>
+        <item>BHOGPUR SIRWAL - BPRS</item>
+        <item>BHOJIPURA JN - BPR</item>
+        <item>BHOJO - BOJ</item>
+        <item>BHOJRAS - BHAS</item>
+        <item>BHOJUDIH JN - BJE</item>
+        <item>BHOKAR - BOKR</item>
+        <item>BHOKE - BOKE</item>
+        <item>BHOMA - BHV</item>
+        <item>BHONE - BHNE</item>
+        <item>BHONGAON - BGQ</item>
+        <item>BHONGIR - BG</item>
+        <item>BHOnra - BON</item>
+        <item>BHOPAL JN - BPL</item>
+        <item>BHOPALKA - BPKA</item>
+        <item>BHORAS BUDRUKH - BFJ</item>
+        <item>BHORTEX - BRTK</item>
+        <item>BHUBANESWAR - BBS</item>
+        <item>BHUCHCHU - BCU</item>
+        <item>BHUGAON - BPK</item>
+        <item>BHUJ - BHUJ</item>
+        <item>BHULANPUR - BHLP</item>
+        <item>BHULON - BLO</item>
+        <item>BHUPALSAGAR - BSJ</item>
+        <item>BHUPDEOPUR - BEF</item>
+        <item>BHUPIA MAU - VPO</item>
+        <item>BHURKUNDA - BHKD</item>
+        <item>BHUSANDPUR - BSDP</item>
+        <item>BHUSAVAL JN - BSL</item>
+        <item>BHUTAKIA BHIMSA - BUBR</item>
+        <item>BIBINAGAR - BN</item>
+        <item>BICHIA - BIC</item>
+        <item>BIDADI - BID</item>
+        <item>BIDAR - BIDR</item>
+        <item>BIDHAN NAGAR - BNXR</item>
+        <item>BIDUPUR - BIU</item>
+        <item>BIGHAPUR - BQP</item>
+        <item>BIHAR SHARIF - BEHS</item>
+        <item>BIHARA - BHZ</item>
+        <item>BIHIYA - BEA</item>
+        <item>BIHTA - BTA</item>
+        <item>BIJAINAGAR - BJNR</item>
+        <item>BIJAPUR - BJP</item>
+        <item>BIJAULI - BJI</item>
+        <item>BIJAYSOTA - VST</item>
+        <item>BIJNOR - BJO</item>
+        <item>BIJOOR - BIJR</item>
+        <item>BIJORA - BJK</item>
+        <item>BIJROTHA - BJA</item>
+        <item>BIJULI HALT - BJIH</item>
+        <item>BIJURI - BJRI</item>
+        <item>BIJWASAN - BWSN</item>
+        <item>BIKANER JN - BKN</item>
+        <item>BIKKAVOLU - BVL</item>
+        <item>BIKRAM SHILA - BKSL</item>
+        <item>BIKRAMPUR - BMR</item>
+        <item>BILASPUR JN - BSP</item>
+        <item>BILASPUR ROAD - BLOR</item>
+        <item>BILASPUR ROAD - BLQR</item>
+        <item>BILDI - BILD</item>
+        <item>BILESHWAR - BLWR</item>
+        <item>BILGA - BZG</item>
+        <item>BILHAR GHAT - BLG</item>
+        <item>BILHAUR - BLU</item>
+        <item>BILIMORA JN - BIM</item>
+        <item>BILLI - BXLL</item>
+        <item>BILPUR - BLPU</item>
+        <item>BILWAI - BWI</item>
+        <item>BINA JN - BINA</item>
+        <item>BINAIKI - VNK</item>
+        <item>BINDKI ROAD - BKO</item>
+        <item>BINNAGURI - BNV</item>
+        <item>BIR - BIR</item>
+        <item>BIRADHWAL - BDWL</item>
+        <item>BIRAMBAD - BAMA</item>
+        <item>BIRAMDIH - BRMD</item>
+        <item>BIRANG KHERA - BMK</item>
+        <item>BIRAPATTI - BRPT</item>
+        <item>BIRLANAGAR - BLNR</item>
+        <item>BIRNAGAR - BIJ</item>
+        <item>BIROLIYA - BRLY</item>
+        <item>BIRSINGHPUR - BRS</item>
+        <item>BIRUR JN - RRB</item>
+        <item>BISALWAS KALAN - BIWK</item>
+        <item>BISANATTAM - BSM</item>
+        <item>BISAPURKALAN - BRKH</item>
+        <item>BISHENGARH - BISH</item>
+        <item>BISHNATHGANJ - BTJ</item>
+        <item>BISHNUPUR - VSU</item>
+        <item>BISHRAMPUR - BSPR</item>
+        <item>BISRA - BZR</item>
+        <item>BISSAMCUTTACK - BMCK</item>
+        <item>BISSAU - BUB</item>
+        <item>BISUGIRSHARIF - BGSF</item>
+        <item>BISWAN - BVN</item>
+        <item>BITRAGUNTA - BTTR</item>
+        <item>BIYAVRA RAJGARH - BRRG</item>
+        <item>BOBAS - BOBS</item>
+        <item>BOBBILI - VBL</item>
+        <item>BODARWAR - BBW</item>
+        <item>BODHADI BUJRUG - BHBK</item>
+        <item>BODWAD - BDWD</item>
+        <item>BOGOLU - BVO</item>
+        <item>BOHANI - BNE</item>
+        <item>BOINDA - BONA</item>
+        <item>BOISAR - BOR</item>
+        <item>BOJAWAS - BJWS</item>
+        <item>BOKAJAN - BXJ</item>
+        <item>BOKARO STL CITY - BKSC</item>
+        <item>BOKARO THERMAL - BKRO</item>
+        <item>BOLAI - BLX</item>
+        <item>BOLARUM - BMO</item>
+        <item>BOLARUM BAZAR - BOZ</item>
+        <item>BOLDA - BLC</item>
+        <item>BOLINNA DOABA - BLND</item>
+        <item>BOLPUR S NIKTN - BHP</item>
+        <item>BOLSA - BLSA</item>
+        <item>BOMADRA - BOM</item>
+        <item>BOMBAY VT - BB</item>
+        <item>BOMMASAMUDRAM - BUM</item>
+        <item>BOMMIDI - BQI</item>
+        <item>BONA KALU - BKL</item>
+        <item>BONDAMUNDA - BNDM</item>
+        <item>BONGAIGAON - BNGN</item>
+        <item>BONIDANGA - BDAG</item>
+        <item>BORAWAR - BOW</item>
+        <item>BORDHAL - BXY</item>
+        <item>BORDI - BIO</item>
+        <item>BORDI ROAD - BRRD</item>
+        <item>BORHAT - BFD</item>
+        <item>BORIBIAL - BRB</item>
+        <item>BORIDAND - BRND</item>
+        <item>BORIVALI - BVI</item>
+        <item>BORKHEDI - BOK</item>
+        <item>BOROTI - BOT</item>
+        <item>BORRAGUHALLU - BGHU</item>
+        <item>BORTALAO - BTL</item>
+        <item>BORVIHIR - BRVR</item>
+        <item>BOTAD JN - BTD</item>
+        <item>BPT STATION - XXXX</item>
+        <item>BRAHMANAGUDEM - BMGM</item>
+        <item>BRAHMANPALLI - BMPL</item>
+        <item>BRAHMAPUR - BAM</item>
+        <item>BRAJRAJNAGAR - BRJN</item>
+        <item>BRAYLA CHAURASI - BRLA</item>
+        <item>BUDALUR - BAL</item>
+        <item>BUDAUN - BEM</item>
+        <item>BUDDIREDDIPPATI - BDY</item>
+        <item>BUDHI - BDHY</item>
+        <item>BUDHLADA - BLZ</item>
+        <item>BUDNI - BNI</item>
+        <item>BUDVEL - BDVL</item>
+        <item>BULANDSHAHR - BSC</item>
+        <item>BUNDI - BUDI</item>
+        <item>BUNDKI - BEK</item>
+        <item>BUNIADPUR - BNDP</item>
+        <item>BURHANPUR - BAU</item>
+        <item>BURHAR - BUH</item>
+        <item>BURHWAL - BUW</item>
+        <item>BURNPUR - BURN</item>
+        <item>BUTARI - BTR</item>
+        <item>BUTEWALA - BWF</item>
+        <item>BUTI BORI - BTBR</item>
+        <item>BUXAR - BXR</item>
+        <item>BYADARAHALLI - BDRL</item>
+        <item>BYADGI - BYD</item>
+        <item>BYCULLA - BY</item>
+        <item>C BABUSAMUDRAM - CBU</item>
+        <item>C SHAHUMHARAJ T - KOP</item>
+        <item>CANCONA - CNO</item>
+        <item>CASTLE ROCK - CLR</item>
+        <item>CAVALRY BARRCKS - CVB</item>
+        <item>CHACHAURA BNGJ - CBK</item>
+        <item>CHACHER - CHCR</item>
+        <item>CHADOTAR - CDQ</item>
+        <item>CHAGALLU - CU</item>
+        <item>CHAIBASA - CBSA</item>
+        <item>CHAINPUR - CNPR</item>
+        <item>CHAINWA - CW</item>
+        <item>CHAJAWA - CJW</item>
+        <item>CHAJLI - CJL</item>
+        <item>CHAKARBHATHA - CHBT</item>
+        <item>CHAKARLAPALLI - CPL</item>
+        <item>CHAKARPUR - CKK</item>
+        <item>CHAKDAHA - CDH</item>
+        <item>CHAKDAYALA - CKDL</item>
+        <item>CHAKIA - CAA</item>
+        <item>CHAKKI BANK - CHKB</item>
+        <item>CHAKRADHARPUR - CKP</item>
+        <item>CHAKRAJ MAL - CAJ</item>
+        <item>CHAKROD - CKOD</item>
+        <item>CHAKSU - CKS</item>
+        <item>CHAKULIA - CKU</item>
+        <item>CHAKUR - CKX</item>
+        <item>CHALAKUDI - CKI</item>
+        <item>CHALALA - CLC</item>
+        <item>CHALAMA - CMZ</item>
+        <item>CHALGERI - CLI</item>
+        <item>CHALISGAON JN - CSN</item>
+        <item>CHALLAKERE - CHKE</item>
+        <item>CHALSA JN - CLD</item>
+        <item>CHALTHAN - CHM</item>
+        <item>CHAMAGRAM - CMX</item>
+        <item>CHAMARAJ - CJR</item>
+        <item>CHAMPA - CPH</item>
+        <item>CHAMPANER RD JN - CPN</item>
+        <item>CHAMUA - CAMU</item>
+        <item>CHAND SIAU - CPS</item>
+        <item>CHANDA FORT - CAF</item>
+        <item>CHANDAN NAGAR - CGR</item>
+        <item>CHANDAULI MJHWR - CDMR</item>
+        <item>CHANDAUSI JN - CH</item>
+        <item>CHANDAWAL - CNL</item>
+        <item>CHANDERIYA - CNA</item>
+        <item>CHANDI MANDIR - CNDM</item>
+        <item>CHANDIA ROAD - CHD</item>
+        <item>CHANDIGARH - CDG</item>
+        <item>CHANDIL JN - CNI</item>
+        <item>CHANDISAR - CDS</item>
+        <item>CHANDLODIYA - CLDY</item>
+        <item>CHANDOK - CNK</item>
+        <item>CHANDRAGIRI - CGI</item>
+        <item>CHANDRAKONA RD - CDGR</item>
+        <item>CHANDRANATHPUR - CNE</item>
+        <item>CHANDRAPUR - CD</item>
+        <item>CHANDRAPURA - CRP</item>
+        <item>CHANDRESAL - CDSL</item>
+        <item>CHANDUR - CND</item>
+        <item>CHANETI - CHTI</item>
+        <item>CHANGANASERI - CGY</item>
+        <item>CHANNANI - CHNN</item>
+        <item>CHANNAPATNA - CPT</item>
+        <item>CHANNARAYAPATNA - CNPA</item>
+        <item>CHANOL - CX</item>
+        <item>CHANPATIA - CAI</item>
+        <item>CHAPARMUKH JN - CPK</item>
+        <item>CHARAMULA KUSUM - CJS</item>
+        <item>CHARAUD - CRW</item>
+        <item>CHAREGAON - CRN</item>
+        <item>CHARGHAT PIPARI - CGE</item>
+        <item>CHARKHI DADRI - CKD</item>
+        <item>CHARLAPALLI - CHZ</item>
+        <item>CHARVATTUR - CHV</item>
+        <item>CHATA - CHJ</item>
+        <item>CHATRA - CTR</item>
+        <item>CHATRAPUR - CAP</item>
+        <item>CHATTRIPUT - CTS</item>
+        <item>CHAU MAHLA - CMU</item>
+        <item>CHAUKHANDI - CHH</item>
+        <item>CHAUNRAH - CNH</item>
+        <item>CHAURA - CUX</item>
+        <item>CHAURAKHERI - CRKR</item>
+        <item>CHAURI CHAURA - CC</item>
+        <item>CHAUSA - CSA</item>
+        <item>CHAUTH KA BRWRA - CKB</item>
+        <item>CHAVAJ - CVJ</item>
+        <item>CHAVALKHEDE - CHLK</item>
+        <item>CHAWAPALL - CHA</item>
+        <item>CHEBROL - CEL</item>
+        <item>CHENGALPATTU - CGL</item>
+        <item>CHENGANNUR - CNGR</item>
+        <item>CHENNAI BEACH - MSB</item>
+        <item>CHENNAI CENTRAL - MAS</item>
+        <item>CHENNAI EGMORE - MS</item>
+        <item>CHEOKI - COI</item>
+        <item>CHERIYANAD - CYN</item>
+        <item>CHETTINAD - CTND</item>
+        <item>CHHABRA GUGOR - CAG</item>
+        <item>CHHANDRAULI - CDRL</item>
+        <item>CHHANERA - CAER</item>
+        <item>CHHANSARA - CASA</item>
+        <item>CHHAPI - CHP</item>
+        <item>CHHAPRA - CPR</item>
+        <item>CHHAPRA KACHERI - CI</item>
+        <item>CHHARODI - CE</item>
+        <item>CHHARRA - CHRA</item>
+        <item>CHHATAINI - CTJ</item>
+        <item>CHHATNA - CJN</item>
+        <item>CHHINDWARA JN - CWA</item>
+        <item>CHHOTA GUDHA - COD</item>
+        <item>CHHOTI ODAI - COO</item>
+        <item>CHHULHA - CLF</item>
+        <item>CHICHAKI - CCK</item>
+        <item>CHIDAMBARAM - CDM</item>
+        <item>CHIGICHERLA - CCA</item>
+        <item>CHIK BANAVAR - BAW</item>
+        <item>CHIKALTHAN - CTH</item>
+        <item>CHIKJAJUR JN - JRU</item>
+        <item>CHIKNI ROAD - CKNI</item>
+        <item>CHIKODI ROAD - CKR</item>
+        <item>CHILAKALAPUDI - CLU</item>
+        <item>CHILBILA JN - CIL</item>
+        <item>CHILKA - CLKA</item>
+        <item>CHILKAHAR - CHR</item>
+        <item>CHILO - CLO</item>
+        <item>CHILUVUR - CLVR</item>
+        <item>CHIMA PAHAD - CMW</item>
+        <item>CHIMIDIPALLI - CMDP</item>
+        <item>CHINCHLI - CNC</item>
+        <item>CHINCHPADA - CPD</item>
+        <item>CHINCHVAD - CCH</item>
+        <item>CHINNA GANJAM - CJM</item>
+        <item>CHINNA SALEM - CHSM</item>
+        <item>CHINNARAVURU - CIV</item>
+        <item>CHINPAI - CPLE</item>
+        <item>CHIPLUN - CHI</item>
+        <item>CHIPURUPALLE - CPP</item>
+        <item>CHIRAI - CHII</item>
+        <item>CHIRALA - CLX</item>
+        <item>CHIRAWA - CRWA</item>
+        <item>CHIRAYINKIL - CRY</item>
+        <item>CHIRGAON - CGN</item>
+        <item>CHIRMIRI - CHRM</item>
+        <item>CHIT BARAGAON - CBN</item>
+        <item>CHITAHRA - CTHR</item>
+        <item>CHITALI - CIT</item>
+        <item>CHITGIDDA - CTF</item>
+        <item>CHITRADURG - CTA</item>
+        <item>CHITRAKOT - CKTD</item>
+        <item>CHITRASANI - CTT</item>
+        <item>CHITRAWAD - CTRD</item>
+        <item>CHITROD - COE</item>
+        <item>CHITTAPUR - CT</item>
+        <item>CHITTARANJAN - CRJ</item>
+        <item>CHITTAURGARH - COR</item>
+        <item>CHITTOOR - CTO</item>
+        <item>CHITYALA - CTYL</item>
+        <item>CHODIALA - CDL</item>
+        <item>CHOKI SORATH - CKE</item>
+        <item>CHOLA - CHL</item>
+        <item>CHOMUN SAMOD - COM</item>
+        <item>CHONDI - CWI</item>
+        <item>CHOPAN - CPU</item>
+        <item>CHORAL - CRL</item>
+        <item>CHORGHATPIPARIA - CRE</item>
+        <item>CHORGI - CHRG</item>
+        <item>CHORVAD ROAD - CVR</item>
+        <item>CHOUPALE - CUE</item>
+        <item>CHUCHURA - CNS</item>
+        <item>CHUDA - CDA</item>
+        <item>CHUDAWA - CRU</item>
+        <item>CHUNAR - CAR</item>
+        <item>CHURAIBARI - CBZ</item>
+        <item>CHURK - CUK</item>
+        <item>CHURU - CUR</item>
+        <item>CINNAMARA - CMA</item>
+        <item>CLUTTERBUCKGANJ - CBJ</item>
+        <item>COCHIN HRBR TMS - CHTS</item>
+        <item>COIMBATORE - CBEE</item>
+        <item>COIMBATORE JN - CBE</item>
+        <item>COIMBATORE NRTH - CBF</item>
+        <item>COLONELGANJ - CLJ</item>
+        <item>CONTAI ROAD - CNT</item>
+        <item>COONOOR - ONR</item>
+        <item>COSSIMBAZAR - CSZ</item>
+        <item>CUDDALORE JN - COT</item>
+        <item>CUDDALORE PORT - CUPJ</item>
+        <item>CUDDAPAH - HX</item>
+        <item>CUMBUM - CBM</item>
+        <item>CUTTACK - CTC</item>
+        <item>DABHAURA - DBR</item>
+        <item>DABHODA - DBO</item>
+        <item>DABILPUR - DBV</item>
+        <item>DABKA - DBKA</item>
+        <item>DABLA - DBLA</item>
+        <item>DABLI RATHAN - DBI</item>
+        <item>DABPAL - DBF</item>
+        <item>DABRA - DBA</item>
+        <item>DABTARA - DUB</item>
+        <item>DADAR - DDR</item>
+        <item>DADAR - DR</item>
+        <item>DADHAPARA - DPH</item>
+        <item>DADHDEVI - DDV</item>
+        <item>DADPUR - DPX</item>
+        <item>DADRI - DER</item>
+        <item>DAGHORA - DAO</item>
+        <item>DAGORI - DGS</item>
+        <item>DAHANU ROAD - DRD</item>
+        <item>DAHAR KA BALAJI - DKBJ</item>
+        <item>DAHINA ZAINABAD - DZB</item>
+        <item>DAHOD - DHD</item>
+        <item>DAILWARA - DWA</item>
+        <item>DAKANIYA TALAV - DKNT</item>
+        <item>DAKHINESWAR - DAKE</item>
+        <item>DALADI - DL</item>
+        <item>DALAUDA - DLD</item>
+        <item>DALELNAGAR - DLQ</item>
+        <item>DALGAON - DLO</item>
+        <item>DALIGANJ - DAL</item>
+        <item>DALKOLHA - DLK</item>
+        <item>DALMAU JN - DMW</item>
+        <item>DALMERA - DLC</item>
+        <item>DALPATPUR - DLP</item>
+        <item>DALSINGH SARAI - DSS</item>
+        <item>DALTONGANJ - DTO</item>
+        <item>DAMANJODI - DMNJ</item>
+        <item>DAMCHARA - DCA</item>
+        <item>DAMOH - DMO</item>
+        <item>DANAPUR - DNR</item>
+        <item>DANDUPUR - DND</item>
+        <item>DANEA - DNEA</item>
+        <item>DANGARWA - DNW</item>
+        <item>DANGOAPOSI - DPS</item>
+        <item>DANIYAWAN BZR H - DNWH</item>
+        <item>DANKUNI - DKAE</item>
+        <item>DANTAN - DNT</item>
+        <item>DANTEWARA - DWZ</item>
+        <item>DANTRA - DTRA</item>
+        <item>DAOTUHAJA - DJA</item>
+        <item>DAPODI - DAPD</item>
+        <item>DAPPAR - DHPR</item>
+        <item>DARA - DARA</item>
+        <item>DARBHANGA JN - DBG</item>
+        <item>DAREKASA - DKS</item>
+        <item>DARJEELING - DJ</item>
+        <item>DARLIPUT - DPC</item>
+        <item>DARRITOLA - DTL</item>
+        <item>DARSANA - DRSA</item>
+        <item>DARSANA BORDER - DSNB</item>
+        <item>DARYABAD - DYD</item>
+        <item>DASHARATHPUR - DRTP</item>
+        <item>DASNA - DS</item>
+        <item>DASUYA - DZA</item>
+        <item>DATIA - DAA</item>
+        <item>DAUDPUR - DDP</item>
+        <item>DAULA KOT BHAI - DQH</item>
+        <item>DAULATABAD - DLB</item>
+        <item>DAULATPUR HAT - DLPH</item>
+        <item>DAUND JN - DD</item>
+        <item>DAURAI - DOZ</item>
+        <item>DAURALA - DRLA</item>
+        <item>DAURAM MADHPURA - DMH</item>
+        <item>DAUSA - DO</item>
+        <item>DAUSNI - DSNI</item>
+        <item>DAVANGERE - DVG</item>
+        <item>DAYALPUR - DLPR</item>
+        <item>DAYANAND NAGAR - DYE</item>
+        <item>DEBAGRAM - DEB</item>
+        <item>DEBARI - DRB</item>
+        <item>DEGANA JN - DNA</item>
+        <item>DEHRADUN - DDN</item>
+        <item>DEHRI ON SONE - DOS</item>
+        <item>DEHU ROAD - DEHR</item>
+        <item>DEKAPAM - DKPM</item>
+        <item>DELANG - DEG</item>
+        <item>DELHI - DLI</item>
+        <item>DELHI AZADPUR - DAZ</item>
+        <item>DELHI CANTT - DEC</item>
+        <item>DELHI KISHANGNJ - DKZ</item>
+        <item>DELHI MG - DE</item>
+        <item>DELHI S ROHILLA - DEE</item>
+        <item>DELHI SAFDARJNG - DSJ</item>
+        <item>DELHI SHAHDARA - DSA</item>
+        <item>DENDULURU - DEL</item>
+        <item>DEOBAND - DBD</item>
+        <item>DEORAKOT - DELO</item>
+        <item>DEORI - DOE</item>
+        <item>DEORIA SADAR - DEOS</item>
+        <item>DEOTALA - DOTL</item>
+        <item>DEROL - DRL</item>
+        <item>DEROWAN P. H. - DRWN</item>
+        <item>DESARI - DES</item>
+        <item>DESHNOK - DSO</item>
+        <item>DESUR - DUR</item>
+        <item>DESWAL - DSL</item>
+        <item>DEVAKOTTAI ROAD - DKO</item>
+        <item>DEVALGAON AUCHR - DAV</item>
+        <item>DEVANGONTHI - DKN</item>
+        <item>DEVARAYI - DEV</item>
+        <item>DEVARGUDDA - DAD</item>
+        <item>DEVARKADRE - DKC</item>
+        <item>DEVBALODA CHRDA - DBEC</item>
+        <item>DEVGAM - DVGM</item>
+        <item>DEVI HALT - DVH</item>
+        <item>DEVLALI - DVL</item>
+        <item>DEVPURA - DPZ</item>
+        <item>DEWANGANJ - DWG</item>
+        <item>DEWAS - DWX</item>
+        <item>DHABAN - DABN</item>
+        <item>DHACA CANTT - DHCA</item>
+        <item>DHALAIBIL - DQL</item>
+        <item>DHAMANGAON - DMN</item>
+        <item>DHAMARA GHAT - DHT</item>
+        <item>DHAMNI - DNE</item>
+        <item>DHAMORA - DAM</item>
+        <item>DHAMPUR - DPR</item>
+        <item>DHANA KHERLI - DXK</item>
+        <item>DHANAKWADA - DKW</item>
+        <item>DHANAKYA - DNK</item>
+        <item>DHANAPUR ORISSA - DIR</item>
+        <item>DHANARI - DN</item>
+        <item>DHANAURI - DNRE</item>
+        <item>DHANBAD JN - DHN</item>
+        <item>DHANDARI KALAN - DDL</item>
+        <item>DHANDHERA - DNRA</item>
+        <item>DHANDHUKA - DCK</item>
+        <item>DHANERA - DQN</item>
+        <item>DHANETA - DAN</item>
+        <item>DHANMANDAL - DNM</item>
+        <item>DHANSU - DNX</item>
+        <item>DHANUVACHAPURAM - DAVM</item>
+        <item>DHAPEWARA - DPW</item>
+        <item>DHARANGAON - DXG</item>
+        <item>DHARESHWAR - DRS</item>
+        <item>DHAREWADA - DRW</item>
+        <item>DHARHARA - DRH</item>
+        <item>DHARI JN - DARI</item>
+        <item>DHARIWAL - DHW</item>
+        <item>DHARMABAD - DAB</item>
+        <item>DHARMANAGAR - DMR</item>
+        <item>DHARMAPURI - DPJ</item>
+        <item>DHARMAVARAM JN - DMM</item>
+        <item>DHARMPUR HMCHL - DMP</item>
+        <item>DHARNAODA - DHR</item>
+        <item>DHARUADIHI - DIH</item>
+        <item>DHARUR - DRR</item>
+        <item>DHARWAR - DWR</item>
+        <item>DHASA JN - DAS</item>
+        <item>DHATRIGRAM - DTAE</item>
+        <item>DHAULPUR - DHO</item>
+        <item>DHAUNI - DWLE</item>
+        <item>DHAURA - DUA</item>
+        <item>DHAVALAS - DHS</item>
+        <item>DHEENA - DHA</item>
+        <item>DHEKIAJILI ROAD - DKJR</item>
+        <item>DHEKVAD - DWD</item>
+        <item>DHEMAJI - DMC</item>
+        <item>DHENGLI PP GOAN - DGPP</item>
+        <item>DHENKANAL - DNKL</item>
+        <item>DHIGAWARA - DGW</item>
+        <item>DHILWAN - DIW</item>
+        <item>DHINDA - DHND</item>
+        <item>DHINDHORA HKMKD - DNHK</item>
+        <item>DHIRERA - DHRR</item>
+        <item>DHIRPUR - DPP</item>
+        <item>DHODA KHEDI - DHKR</item>
+        <item>DHODHAR - DOD</item>
+        <item>DHODRA MOHAR - DOH</item>
+        <item>DHOKI - DKY</item>
+        <item>DHOLA JN - DLJ</item>
+        <item>DHOLA MAZRA - DHMZ</item>
+        <item>DHOLI - DOL</item>
+        <item>DHOLIPAL - DPK</item>
+        <item>DHOLKA - DOK</item>
+        <item>DHONDI - DNDI</item>
+        <item>DHONE - DHNE</item>
+        <item>DHONE - DNC</item>
+        <item>DHRANGDHRA - DHG</item>
+        <item>DHUANKHERI - DKRA</item>
+        <item>DHUBRI - DBB</item>
+        <item>DHUBULIA - DHU</item>
+        <item>DHULE - DHI</item>
+        <item>DHULGHAT - DGT</item>
+        <item>DHULIAN GANGA - DGLE</item>
+        <item>DHULKOT - DKT</item>
+        <item>DHUPGURI - DQG</item>
+        <item>DHURI JN - DUI</item>
+        <item>DHURWASIN - DRSN</item>
+        <item>DHUTRA - DTV</item>
+        <item>DIBAI - DIB</item>
+        <item>DIBRUGARH TOWN - DBRT</item>
+        <item>DICHPALLI - DHP</item>
+        <item>DIDWANA - DIA</item>
+        <item>DIGARU - DGU</item>
+        <item>DIGBOI - DBY</item>
+        <item>DIGHA FLAG STN - DGHA</item>
+        <item>DIGHWARA - DGA</item>
+        <item>DIGOD - DXD</item>
+        <item>DIGSAR - DXR</item>
+        <item>DIGUVAMETTA - DMT</item>
+        <item>DIHAKHO - DKE</item>
+        <item>DIJAOBRA - DJB</item>
+        <item>DILAWARNAGAR - DIL</item>
+        <item>DILDARNAGAR JN - DLN</item>
+        <item>DILMILI - DMK</item>
+        <item>DILWA - DLW</item>
+        <item>DIMAPUR - DMV</item>
+        <item>DIMOW - DM</item>
+        <item>DINA NAGAR - DNN</item>
+        <item>DINDIGUL JN - DG</item>
+        <item>DING - DING</item>
+        <item>DIPA - DIPA</item>
+        <item>DIPHU - DPU</item>
+        <item>DIPLANA - DPLN</item>
+        <item>DISA - DISA</item>
+        <item>DITOKCHERRA - DTC</item>
+        <item>DIVA - DIVA</item>
+        <item>DIVINE NAGAR - DINR</item>
+        <item>DIVITI PALLI - DTP</item>
+        <item>DIWANA - DWNA</item>
+        <item>DIWANKHAVATI - DWV</item>
+        <item>DIYATARA ROAD - DTRD</item>
+        <item>DIYODAR - DEOR</item>
+        <item>DODBALLAPUR - DBU</item>
+        <item>DODBELE - DBL</item>
+        <item>DOHRIGHAT - DIT</item>
+        <item>DOIKALLU - DKLU</item>
+        <item>DOIWALA - DWO</item>
+        <item>DOKWA - DKWA</item>
+        <item>DOMINGARH - DMG</item>
+        <item>DONAKONDA - DKD</item>
+        <item>DONDAICHA - DDE</item>
+        <item>DONGARGARH - DGG</item>
+        <item>DONKINAVALASA - DNV</item>
+        <item>DORAHA - DOA</item>
+        <item>DORNAKAL JN - DKJ</item>
+        <item>DOSVADA - DSD</item>
+        <item>DUBAHA - DUBH</item>
+        <item>DUBIA - DBW</item>
+        <item>DUBRAJPUR - DUJ</item>
+        <item>DUDDHINAGAR - DXN</item>
+        <item>DUDHANI - DUD</item>
+        <item>DUDHWAKHARA - DKX</item>
+        <item>DUDWINDI - DDY</item>
+        <item>DUGANPUR - DUN</item>
+        <item>DUGDOL - DGQ</item>
+        <item>DUGGIRALA - DIG</item>
+        <item>DUHAI - DXH</item>
+        <item>DULIAJAN - DJG</item>
+        <item>DULLAHAPUR - DLR</item>
+        <item>DULRASAR - DUS</item>
+        <item>DUM DUM - DDJ</item>
+        <item>DUMARIYA - DY</item>
+        <item>DUMRAON - DURE</item>
+        <item>DUMRI BIHAR - DMBR</item>
+        <item>DUMRI HALT - DMRX</item>
+        <item>DUMURDAHA - DMLE</item>
+        <item>DUNDARA - DOR</item>
+        <item>DUNDI - DDCE</item>
+        <item>DUNDLOD MKDGRH - DOB</item>
+        <item>DUNGARPUR - DNRP</item>
+        <item>DUNGRI - DGI</item>
+        <item>DUPADU - DUU</item>
+        <item>DURAUNDHA JN - DDA</item>
+        <item>DURG - DURG</item>
+        <item>DURGADA GATE - DGDG</item>
+        <item>DURGAPUR - DGR</item>
+        <item>DURGAPURA - DPA</item>
+        <item>DURGAUTI - DGO</item>
+        <item>DUROJI - DAJ</item>
+        <item>DUSI - DUSI</item>
+        <item>DUVRI KALAN - BARD</item>
+        <item>DUVVADA - DVD</item>
+        <item>DWARAPUDI - DWP</item>
+        <item>DWARKA - DWK</item>
+        <item>EDAVAI - EVA</item>
+        <item>EDDULADODDI - EDD</item>
+        <item>EKAMBARAKUPPAM - EKM</item>
+        <item>EKANGARSARAI - EKR</item>
+        <item>EKCHARI - EKC</item>
+        <item>EKLAKHI - EKI</item>
+        <item>EKMA - EKMA</item>
+        <item>EKMA - EM</item>
+        <item>ELIMALA - ELM</item>
+        <item>ELLAMANCHILI - YLM</item>
+        <item>ELLENABAD - ENB</item>
+        <item>ELURU - EE</item>
+        <item>ERANAKULAM JN - ERS</item>
+        <item>ERANIEL - ERL</item>
+        <item>ERNAKULAM TOWN - ERN</item>
+        <item>ERODE JN - ED</item>
+        <item>ERRUPALEM - YP</item>
+        <item>ETAWAH - ETW</item>
+        <item>ETMADPUR - ETUE</item>
+        <item>ETTAPUR ROAD - ETP</item>
+        <item>ETTUMANUR - ETM</item>
+        <item>FAIZABAD JN - FD</item>
+        <item>FAIZULLAPUR - FYZ</item>
+        <item>FAKIRAGRAM JN - FKM</item>
+        <item>FALAKATA - FLK</item>
+        <item>FALNA - FA</item>
+        <item>FAQARSAR - FSR</item>
+        <item>FARAH TOWN - FHT</item>
+        <item>FARIDABAD - FDB</item>
+        <item>FARIDABAD NW TN - FDN</item>
+        <item>FARIDKOT - FDK</item>
+        <item>FARRUKHABAD - FBD</item>
+        <item>FARRUKHABAD - FKD</item>
+        <item>FATEH SINGHPURA - FSP</item>
+        <item>FATEHABAD CH.JN - FTD</item>
+        <item>FATEHGARH - FGR</item>
+        <item>FATEHGARH SAHIB - FGSB</item>
+        <item>FATEHNAGAR - FAN</item>
+        <item>FATEHPUR - FTP</item>
+        <item>FATEHPUR SIKRI - FTS</item>
+        <item>FATEHPUR SKHWTI - FPS</item>
+        <item>FATWA - FUT</item>
+        <item>FAZALPUR - FZL</item>
+        <item>FEROK - FK</item>
+        <item>FIROZABAD - FZD</item>
+        <item>FIROZPUR CANT - FZR</item>
+        <item>FORBESGANJ - FBG</item>
+        <item>FURKATING JN - FKG</item>
+        <item>FURSATGANJ - FTG</item>
+        <item>G POCHAMPALLI - GDPL</item>
+        <item>GACHHIPURA - GCH</item>
+        <item>GADADHARPUR - GHLE</item>
+        <item>GADAG JN - GDG</item>
+        <item>GADARWARA - GAR</item>
+        <item>GADIGANURU - GNR</item>
+        <item>GADWAL - GWD</item>
+        <item>GAHLOTA - GLTA</item>
+        <item>GAHMAR - GMR</item>
+        <item>GAJAPATINAGARAM - GPI</item>
+        <item>GAJARA BAHARA - GAJB</item>
+        <item>GAJJELAKONDA - GJJ</item>
+        <item>GAJNER - GJN</item>
+        <item>GAJRAULA JN - GJL</item>
+        <item>GALUDIH - GUD</item>
+        <item>GAMBHIRI ROAD - GRF</item>
+        <item>GAMHARIA - GMH</item>
+        <item>GANAGAPUR ROAD - GUR</item>
+        <item>GANAUR - GNU</item>
+        <item>GANDHI SMRAK RD - GSX</item>
+        <item>GANDHIDHAM BG - GIMB</item>
+        <item>GANDHIDHAM JN. - GIM</item>
+        <item>GANDHIGRAM - GG</item>
+        <item>GANDHINAGAR CAP - GNC</item>
+        <item>GANDHINAGAR JPR - GADJ</item>
+        <item>GANESHGANJ - GAJ</item>
+        <item>GANGADHARA - GGAR</item>
+        <item>GANGADHARPUR - GNGD</item>
+        <item>GANGAGANJ - GANG</item>
+        <item>GANGAJHARI - GJ</item>
+        <item>GANGAKHER - GNH</item>
+        <item>GANGAPUR CITY - GGC</item>
+        <item>GANGARAMPUR - GRMP</item>
+        <item>GANGATOLIA - GNGT</item>
+        <item>GANGAYAPLLE - GPY</item>
+        <item>GANGIWARA - GNW</item>
+        <item>GANGRAR - GGR</item>
+        <item>GANGSAR JAITU - GJUT</item>
+        <item>GANJ BASODA - BAQ</item>
+        <item>GANJAM - GAM</item>
+        <item>GANKAR - GALE</item>
+        <item>GANNAVARAM - GWM</item>
+        <item>GARH DHRUBESWAR - GRB</item>
+        <item>GARHARA - GHX</item>
+        <item>GARHBETA - GBA</item>
+        <item>GARHI HARSARU - GHH</item>
+        <item>GARHI MANIKPUR - GRMR</item>
+        <item>GARHMUKTESAR - GMS</item>
+        <item>GARHMUKTESAR BR - GGB</item>
+        <item>GARHWA - GHQ</item>
+        <item>GARIVIDI - GVI</item>
+        <item>GARLA - GLA</item>
+        <item>GARLADINNE - GDE</item>
+        <item>GAROT - GOH</item>
+        <item>GARPOS - GPH</item>
+        <item>GARUDUBILLI - GRBL</item>
+        <item>GARWA ROAD - GHD</item>
+        <item>GATORA - GTW</item>
+        <item>GAURA - GRX</item>
+        <item>GAURI BAZAR - GB</item>
+        <item>GAURIBIDANUR - GBD</item>
+        <item>GAURIGANJ - GNG</item>
+        <item>GAURIYAMAU - GMU</item>
+        <item>GAUSHALA - GWS</item>
+        <item>GAUTAMDHARA - GATD</item>
+        <item>GAUTAMPURA ROAD - GPX</item>
+        <item>GAVADAKA - GAV</item>
+        <item>GAYA JN - GAYA</item>
+        <item>GAYABARI - GBE</item>
+        <item>GAZOLE - GZO</item>
+        <item>GAZULAPALLI - GZL</item>
+        <item>GEDE - GEDE</item>
+        <item>GERATPUR - GER</item>
+        <item>GETOR JAGATPURA - GTJT</item>
+        <item>GEVRA ROAD - GAD</item>
+        <item>GHAGGHAR - GHG</item>
+        <item>GHAGWAL - GHGL</item>
+        <item>GHANAULI - GANL</item>
+        <item>GHANPUR - GNP</item>
+        <item>GHANTIKHAL NDPR - GHNH</item>
+        <item>GHARAUNDA - GRA</item>
+        <item>GHASO - GSO</item>
+        <item>GHAT NANDUR - GTU</item>
+        <item>GHATAKA VARANA - GKB</item>
+        <item>GHATAMPUR - GTM</item>
+        <item>GHATERA - GEA</item>
+        <item>GHATKESAR - GT</item>
+        <item>GHATPRABHA - GPB</item>
+        <item>GHATSILA - GTS</item>
+        <item>GHAZIABAD - GZB</item>
+        <item>GHAZIPUR CITY - GCT</item>
+        <item>GHOGA - GGA</item>
+        <item>GHOKSADANGA - GDX</item>
+        <item>GHOLVAD - GVD</item>
+        <item>GHONSOR - GNS</item>
+        <item>GHORADONGRI - GDYA</item>
+        <item>GHORAWADI - GRWD</item>
+        <item>GHORPURI - GPR</item>
+        <item>GHOSUNDA - GSD</item>
+        <item>GHUGHULI - GH</item>
+        <item>GHUM - GHUM</item>
+        <item>GHUNGHUTI - GGT</item>
+        <item>GHUTKU - GTK</item>
+        <item>GIDAM - GIZ</item>
+        <item>GIDARPINDI - GOD</item>
+        <item>GIDDALUR - GID</item>
+        <item>GIDDARBAHA - GDB</item>
+        <item>GIDHAUR - GHR</item>
+        <item>GILL - GILL</item>
+        <item>GINIGERA - GIN</item>
+        <item>GIRIDIH - GRD</item>
+        <item>GIRIMAIDAN - GMDN</item>
+        <item>GIRWAR - GW</item>
+        <item>GOALPARA TOWN - GLPT</item>
+        <item>GODAMGURA - GDQ</item>
+        <item>GODAVARI - GVN</item>
+        <item>GODHA - GDHA</item>
+        <item>GODHRA JN - GDA</item>
+        <item>GOGAMERI - GAMI</item>
+        <item>GOGAMUKH - GOM</item>
+        <item>GOHAD ROAD - GOA</item>
+        <item>GOHANA - GHNA</item>
+        <item>GOHPUR - GPZ</item>
+        <item>GOILKERA - GOL</item>
+        <item>GOKAK ROAD - GKK</item>
+        <item>GOKARNA ROAD - GOK</item>
+        <item>GOLA GOKARANATH - GK</item>
+        <item>GOLA ROAD - GRE</item>
+        <item>GOLAGHAT - GLGT</item>
+        <item>GOLDINGANJ - GJH</item>
+        <item>GOLDINGGANJ - GALG</item>
+        <item>GOLE - GOLE</item>
+        <item>GOLLAPALLY - GLY</item>
+        <item>GOLLAPROLU - GLP</item>
+        <item>GOLSAR - GOZ</item>
+        <item>GOMATI NAGAR - GTNR</item>
+        <item>GONDA JN - GD</item>
+        <item>GONDAL - GDL</item>
+        <item>GONDIA JN - G</item>
+        <item>GONDWANAVISAPUR - GNVR</item>
+        <item>GONEANA - GNA</item>
+        <item>GOOTY - GY</item>
+        <item>GOP JAM - GOP</item>
+        <item>GOPALAPATNAM - GPT</item>
+        <item>GOPALPUR - GPPR</item>
+        <item>GORA GHUMA - GGM</item>
+        <item>GORAKHNATH - GRKN</item>
+        <item>GORAKHPUR CANT - GKC</item>
+        <item>GORAKHPUR CITY - GKY</item>
+        <item>GORAKHPUR JN - GKP</item>
+        <item>GORAPUR - GPJ</item>
+        <item>GORAUL - GRL</item>
+        <item>GORAYA - GRY</item>
+        <item>GOREGAON ROAD - GNO</item>
+        <item>GORESUAR - GVR</item>
+        <item>GORINJA - GRJA</item>
+        <item>GORIYAN - GIO</item>
+        <item>GOSALPUR - GSPR</item>
+        <item>GOSHAINGANJ - GGJ</item>
+        <item>GOSSAIGAON HAT - GOGH</item>
+        <item>GOTAN - GOTN</item>
+        <item>GOTHAJ - GTE</item>
+        <item>GOTHANGAM - GTX</item>
+        <item>GOTLAM - GTLM</item>
+        <item>GOUR MALDA - GZM</item>
+        <item>GOVINDGARH - GVG</item>
+        <item>GOVINDGARH MALK - GND</item>
+        <item>GOVINDI MARWAR - GVMR</item>
+        <item>GOVINDPUR ROAD - GBX</item>
+        <item>GOVINDPURI - GOV</item>
+        <item>GOVINDPURI - GOY</item>
+        <item>GOWDAVALLI - GWV</item>
+        <item>GUBBI - GBB</item>
+        <item>GUDAPARTI - GDPT</item>
+        <item>GUDGERI - GDI</item>
+        <item>GUDHA - GA</item>
+        <item>GUDIMETTA - GMA</item>
+        <item>GUDIVADA JN - GDV</item>
+        <item>GUDIYATTAM - GYM</item>
+        <item>GUDLAVALLERU - GVL</item>
+        <item>GUDMA - GDM</item>
+        <item>GUDRU HALT - GDU</item>
+        <item>GUDUPULLI - GDP</item>
+        <item>GUDUR JN - GDR</item>
+        <item>GUJHANDI - GJD</item>
+        <item>GULABHGANJ - GLG</item>
+        <item>GULABPURA - GBP</item>
+        <item>GULAOTHI - GLH</item>
+        <item>GULARBHOJ - GUB</item>
+        <item>GULBARGA - GR</item>
+        <item>GULDHAR - GUH</item>
+        <item>GULEDAGUDDA RD - GED</item>
+        <item>GULLAGUDA - GGD</item>
+        <item>GULLIPADU - GLU</item>
+        <item>GULZARBAGH - GZH</item>
+        <item>GUMADA - GMDA</item>
+        <item>GUMANI - GMAN</item>
+        <item>GUMGAON - GMG</item>
+        <item>GUMIA - GMIA</item>
+        <item>GUMMAN - GMM</item>
+        <item>GUMMIDIPUNDI - GPD</item>
+        <item>GUMTHAL - GTF</item>
+        <item>GUNA - GUNA</item>
+        <item>GUNADALA - GALA</item>
+        <item>GUNDALUKAMMA - GKM</item>
+        <item>GUNERU BAMORI - GVB</item>
+        <item>GUNJI - GNJ</item>
+        <item>GUNTAKAL JN - GTL</item>
+        <item>GUNTUR JN - GNT</item>
+        <item>GUPTIPARA - GPAE</item>
+        <item>GURAMKHEDI - GMD</item>
+        <item>GURARU - GRRU</item>
+        <item>GURDASPUR - GSP</item>
+        <item>GURGAON - GGN</item>
+        <item>GURHA KEMLA - GRKA</item>
+        <item>GURHI - GUX</item>
+        <item>GURIYA - GRI</item>
+        <item>GURLA - GQL</item>
+        <item>GURLI RAMGARHWA - GRRG</item>
+        <item>GURNAY - GRN</item>
+        <item>GURPA - GAP</item>
+        <item>GURRA - GRO</item>
+        <item>GURSAHAIGANJ - GHJ</item>
+        <item>GURSAR SHNEWALA - GSW</item>
+        <item>GURUVAYUR - GUV</item>
+        <item>GUSKARA - GKH</item>
+        <item>GUWAHATI - GHY</item>
+        <item>GUWARIGHAT - GRG</item>
+        <item>GWALIOR - GWL</item>
+        <item>GYANPUR ROAD - GYN</item>
+        <item>H NIZAMUDDIN - NZM</item>
+        <item>H SAHIB NANDED - NED</item>
+        <item>HABIBGANJ - HBJ</item>
+        <item>HABIBWALA - HBW</item>
+        <item>HADAPSAR - HDP</item>
+        <item>HADDINAGUNDU - HDD</item>
+        <item>HADMADIYA - HRM</item>
+        <item>HADMATIYA JN - HM</item>
+        <item>HADYAL - HYL</item>
+        <item>HAFIZPETA - HFZ</item>
+        <item>HAFIZPUR - HZR</item>
+        <item>HAFLONG HILL - HFG</item>
+        <item>HAGARI - HGI</item>
+        <item>HAIAGHAT - HYT</item>
+        <item>HAIDARNAGAR - HDN</item>
+        <item>HAIDERGARH - HGH</item>
+        <item>HAJIPUR JN - HJP</item>
+        <item>HAKIMPUR - HKP</item>
+        <item>HALDAUR - HLDR</item>
+        <item>HALDI ROAD - HLDD</item>
+        <item>HALDIBARI - HDB</item>
+        <item>HALDWANI - HDW</item>
+        <item>HALISAHAR - HLR</item>
+        <item>HALVAD - HVD</item>
+        <item>HAMARAPUR - HMRR</item>
+        <item>HAMIRA - HMR</item>
+        <item>HAMIRGARH - HMG</item>
+        <item>HAMIRPUR ROAD - HAR</item>
+        <item>HAMSAVARAM - HVM</item>
+        <item>HANAKERE - HNK</item>
+        <item>HANDIA KHAS - HDK</item>
+        <item>HANSI - HNS</item>
+        <item>HANSIAWAS - HSWS</item>
+        <item>HANUMANGARH JN - HMH</item>
+        <item>HANUMANGARHTOWN - HMO</item>
+        <item>HANWANT - HWT</item>
+        <item>HAPA - HAPA</item>
+        <item>HAPUR - HPU</item>
+        <item>HARANGAJAO - HJO</item>
+        <item>HARANGUL - HGL</item>
+        <item>HARANYA KHERI - HKH</item>
+        <item>HARAUNI - HRN</item>
+        <item>HARCHANDPUR - HCP</item>
+        <item>HARDA - HD</item>
+        <item>HARDAS BIGHA - HDE</item>
+        <item>HARDATTPUR - HDT</item>
+        <item>HARDOI - HRI</item>
+        <item>HARDUA - HDU</item>
+        <item>HARDUAGANJ - HGJ</item>
+        <item>HARGAON - HA</item>
+        <item>HARICHANDANPUR - HCNR</item>
+        <item>HARIDWAR JN - HW</item>
+        <item>HARIHAR - HRR</item>
+        <item>HARINAGAR - HIR</item>
+        <item>HARIPPAD - HAD</item>
+        <item>HARIPUR - HP</item>
+        <item>HARISCHANDRPUR - HCR</item>
+        <item>HARISHANKER RD - HSK</item>
+        <item>HARISINGA - HRSN</item>
+        <item>HARKIA KHAL - HKL</item>
+        <item>HARLAPUR - RLP</item>
+        <item>HARMUTI - HMY</item>
+        <item>HARNAUT - HRT</item>
+        <item>HARPALGANJ - HRPG</item>
+        <item>HARPALPUR - HPP</item>
+        <item>HARPALU - HR</item>
+        <item>HARRAD - HRV</item>
+        <item>HARRAWALA - HRW</item>
+        <item>HARRI - HRB</item>
+        <item>HARSAULI - HSI</item>
+        <item>HARSUD - HRD</item>
+        <item>HARTHALA - HRH</item>
+        <item>HARWADA - HAA</item>
+        <item>HASANPARTHI RD - HSP</item>
+        <item>HASANPUR ROAD - HPO</item>
+        <item>HASIMARA - HSA</item>
+        <item>HASSAN - HAS</item>
+        <item>HASTAVARMU - HAQ</item>
+        <item>HATHBANDH - HN</item>
+        <item>HATHIDAH JN - HTZ</item>
+        <item>HATHIDAH UPPER - HTZU</item>
+        <item>HATHRAS CITY - HTC</item>
+        <item>HATHRAS JN - HRS</item>
+        <item>HATHRAS ROAD - HTJ</item>
+        <item>HATHURAN - HAT</item>
+        <item>HATIA - HTE</item>
+        <item>HATIKHALI - HTL</item>
+        <item>HATKANAGALE - HTK</item>
+        <item>HATPURAINI - HPLE</item>
+        <item>HATUNDI - HTD</item>
+        <item>HAVERI - HVR</item>
+        <item>HAZARIBAGH RD - HZD</item>
+        <item>HEBSUR - HBS</item>
+        <item>HEJJALA - HJL</item>
+        <item>HELEM - HML</item>
+        <item>HEMAGIRI - HGR</item>
+        <item>HER - HER</item>
+        <item>HILARA - HLX</item>
+        <item>HILLIGROVE - HLG</item>
+        <item>HILSA - HIL</item>
+        <item>HIMAYATNAGAR - HEM</item>
+        <item>HIMMATANA - HMI</item>
+        <item>HIMMATNAGAR - HMT</item>
+        <item>HINDAUN CITY - HAN</item>
+        <item>HINDUPUR - HUP</item>
+        <item>HINGANGHAT - HGT</item>
+        <item>HINGOLI DECCAN - HNL</item>
+        <item>HIRA NAGAR - HRNR</item>
+        <item>HIRAKUD - HKG</item>
+        <item>HIRDAGARH - HRG</item>
+        <item>HIRENANDURU - HQR</item>
+        <item>HIRNODA - HDA</item>
+        <item>HISAR - HSR</item>
+        <item>HITNAL - HTNL</item>
+        <item>HODAL - HDL</item>
+        <item>HOJAI - HJI</item>
+        <item>HOL - HOL</item>
+        <item>HOLALKERE - HLK</item>
+        <item>HOLAMBI KALAN - HUK</item>
+        <item>HOLE ALUR - HLAR</item>
+        <item>HOLE NARSIPUR - HLN</item>
+        <item>HOMBAL - HBL</item>
+        <item>HONNAVAR - HNA</item>
+        <item>HOSDURGA ROAD - HSD</item>
+        <item>HOSHANGABAD - HBD</item>
+        <item>HOSHIARPUR - HSX</item>
+        <item>HOSPET JN - HPT</item>
+        <item>HOSUR - HSRA</item>
+        <item>HOTGI - HG</item>
+        <item>HOWBADH JABLPUR - HBG</item>
+        <item>HOWRAH JN - HWH</item>
+        <item>HUBLI JN - UBL</item>
+        <item>HUGRAJULI - HJLI</item>
+        <item>HULKOTI - LKT</item>
+        <item>HUNSIHADGIL - HHD</item>
+        <item>HUPPUGUDA - HPG</item>
+        <item>HUSAINPUR - HSQ</item>
+        <item>HYDERABAD DECAN - HYB</item>
+        <item>IB - IB</item>
+        <item>IBRAHIMPUR - IMR</item>
+        <item>ICHAULI - ICL</item>
+        <item>ICHCHPURAM - IPM</item>
+        <item>IDALHOND - IDJ</item>
+        <item>IDAPLLI - IPL</item>
+        <item>IDGAH AGRA JN - IDH</item>
+        <item>IGATPURI - IGP</item>
+        <item>IKKAR - IKK</item>
+        <item>IKLEHRA - IKR</item>
+        <item>INCHHAPURI - IHP</item>
+        <item>INDALVAI - IDL</item>
+        <item>INDAPUR - INP</item>
+        <item>INDARA JN - IAA</item>
+        <item>INDARGARH - IDG</item>
+        <item>INDARGARH - IDGH</item>
+        <item>INDI ROAD - IDR</item>
+        <item>INDORE JN BG - INDB</item>
+        <item>INDORE JN MG - INDM</item>
+        <item>INDRABIL - IBL</item>
+        <item>INNANJE - INJ</item>
+        <item>IPURUPALEM - IPPM</item>
+        <item>IQBAL GADH - IQG</item>
+        <item>IQBALPUR - IQB</item>
+        <item>IRAVIPURAM - IRP</item>
+        <item>IRINJALAKUDA - IJK</item>
+        <item>ISAND - EN</item>
+        <item>ISARDA - ISA</item>
+        <item>ISARWARA - ISH</item>
+        <item>ISLAMPUR - IPR</item>
+        <item>ISMAILA HARYANA - ISM</item>
+        <item>ISMAILPUR - IMGE</item>
+        <item>ITARSI JN - ET</item>
+        <item>ITKYALA - IKI</item>
+        <item>ITOLA - ITA</item>
+        <item>ITWARI - ITR</item>
+        <item>IZZATNAGAR - IZN</item>
+        <item>JABALPUR - JBP</item>
+        <item>JABLI - JBL</item>
+        <item>JABRI - JBX</item>
+        <item>JADCHERLA - JCL</item>
+        <item>JAGADHRI - JUD</item>
+        <item>JAGADHRI WSHOP - JUDW</item>
+        <item>JAGADISHPUR - JGD</item>
+        <item>JAGATBELA - JTB</item>
+        <item>JAGDALPUR - JDB</item>
+        <item>JAGDEVWALA - JDL</item>
+        <item>JAGESHARGANJ - JGJ</item>
+        <item>JAGI ROAD - JID</item>
+        <item>JAGRAON - JGN</item>
+        <item>JAGUDAN - JDN</item>
+        <item>JAI SAMAND ROAD - JYM</item>
+        <item>JAIPUR - JP</item>
+        <item>JAIRAMNAGAR - JRMG</item>
+        <item>JAIS - JAIS</item>
+        <item>JAISALMER - JSM</item>
+        <item>JAITHARI - JTI</item>
+        <item>JAITIPUR - JTU</item>
+        <item>JAITWAR - JTW</item>
+        <item>JAJIWAL - JWL</item>
+        <item>JAJPUR K ROAD - JJKR</item>
+        <item>JAKHAL JN - JHL</item>
+        <item>JAKHALAUN - JLN</item>
+        <item>JAKHANIAN - JKN</item>
+        <item>JAKHAPURA - JKPR</item>
+        <item>JAKHAURA - JHA</item>
+        <item>JAKHIM - JHN</item>
+        <item>JAKHVADA - JKA</item>
+        <item>JAKKALACHERUVU - JKO</item>
+        <item>JALALGANJ - JLL</item>
+        <item>JALALPUR DHAI - JPD</item>
+        <item>JALAMB JN - JM</item>
+        <item>JALANDHAR CANT - JRC</item>
+        <item>JALANDHAR CITY - JUC</item>
+        <item>JALESAR ROAD - JLS</item>
+        <item>JALESWAR - JER</item>
+        <item>JALGAON JN - JL</item>
+        <item>JALILA ROAD - JIL</item>
+        <item>JALIYA - JA</item>
+        <item>JALIYA DEVANI - JALD</item>
+        <item>JALNA - J</item>
+        <item>JALOR - JOR</item>
+        <item>JALPAIGURI - JPG</item>
+        <item>JALPAIGURI ROAD - JPE</item>
+        <item>JALSU - JAC</item>
+        <item>JALSU NANAK - JACN</item>
+        <item>JAM WANTHALI - WTJ</item>
+        <item>JAMALPUR JN - JMP</item>
+        <item>JAMBARA - JMV</item>
+        <item>JAMDHA - JMD</item>
+        <item>JAMGA - JMG</item>
+        <item>JAMIKUNTA - JMKT</item>
+        <item>JAMIRGHATA - JMQ</item>
+        <item>JAMMU TAWI - JAT</item>
+        <item>JAMNAGAR - JAM</item>
+        <item>JAMSAR - JMS</item>
+        <item>JAMTARA - JMT</item>
+        <item>JAMUI - JMU</item>
+        <item>JAMUNAMUKH - JMK</item>
+        <item>JAMUNIA KALAN - JMKL</item>
+        <item>JANAKINAGAR - JNKR</item>
+        <item>JANAKPUR ROAD - JNR</item>
+        <item>JANDIALA - JNL</item>
+        <item>JANDRAPETA - JAQ</item>
+        <item>JANGAON - ZN</item>
+        <item>JANGHAI JN - JNH</item>
+        <item>JANGIPUR ROAD - JRLE</item>
+        <item>JANIYANA - JNE</item>
+        <item>JANKAMPET JN - JKM</item>
+        <item>JANWAL - JOA</item>
+        <item>JAORA - JAO</item>
+        <item>JAPLA - JPL</item>
+        <item>JARAIKELA - JRA</item>
+        <item>JARANDESHWAR - JSV</item>
+        <item>JARANGDIH - JAN</item>
+        <item>JARGAON - JRJ</item>
+        <item>JARI - JARI</item>
+        <item>JARTI - JRT</item>
+        <item>JARUDA NARAA - JDW</item>
+        <item>JARWAL ROAD - JLD</item>
+        <item>JASALI - JSI</item>
+        <item>JASIDIH JN - JSME</item>
+        <item>JASRA - JSR</item>
+        <item>JASWANTNAGAR - JGR</item>
+        <item>JATAULA SAMPHKA - JSKA</item>
+        <item>JATINGA - JTG</item>
+        <item>JATKANHAR - JTR</item>
+        <item>JATUSANA - JTS</item>
+        <item>JATWARA - JW</item>
+        <item>JAULKA - JUK</item>
+        <item>JAUNPUR CITY - JOP</item>
+        <item>JAUNPUR JN - JNU</item>
+        <item>JAWAD ROAD - JWO</item>
+        <item>JAWAHARNAGAR - JWHR</item>
+        <item>JAWAI BANDH - JWB</item>
+        <item>JAWALI - JAL</item>
+        <item>JAWLMUKHI ROAD - JMKR</item>
+        <item>JAYASINGPUR - JSP</item>
+        <item>JAYNAGAR - JYG</item>
+        <item>JEHANABAD - JHD</item>
+        <item>JEJURI - JJR</item>
+        <item>JENAL - JNZ</item>
+        <item>JEONATHPUR - JEP</item>
+        <item>JERUWA KHERA - JRK</item>
+        <item>JETALSAR JN - JLR</item>
+        <item>JETALVAD - JTV</item>
+        <item>JETPUR - JTP</item>
+        <item>JEUR - JEUR</item>
+        <item>JEYPORE - JYP</item>
+        <item>JGMBLA KSHNPRM - JBK</item>
+        <item>JHAJHA - JAJ</item>
+        <item>JHALAWAR ROAD - JHW</item>
+        <item>JHALIDA - JAA</item>
+        <item>JHALWARA - JLW</item>
+        <item>JHANJHARPUR - JJP</item>
+        <item>JHANSI JN - JHS</item>
+        <item>JHANTIPAHARI - JPH</item>
+        <item>JHAPATER DHAL - JTL</item>
+        <item>JHAR - JHAR</item>
+        <item>JHARGRAM - JGM</item>
+        <item>JHARIA - JRI</item>
+        <item>JHARILI - JRL</item>
+        <item>JHARRADIH - JDI</item>
+        <item>JHARSUGUDA JN - JSG</item>
+        <item>JHARWASAA - JWS</item>
+        <item>JHILMILI - JLY</item>
+        <item>JHINJHAK - JJK</item>
+        <item>JHIR - JHIR</item>
+        <item>JHULASAN - JUL</item>
+        <item>JHUNJHUNUN - JJN</item>
+        <item>JHUNPA - JUP</item>
+        <item>JIAGANJ - JJG</item>
+        <item>JIMIDIPETA - JMPT</item>
+        <item>JIND JN - JIND</item>
+        <item>JINTI ROAD - JNTR</item>
+        <item>JIRADEI - ZRDE</item>
+        <item>JIRANIA - JRNA</item>
+        <item>JIRAT - JIT</item>
+        <item>JIRON - JRO</item>
+        <item>JITAKHERI - JKZ</item>
+        <item>JIWDHARA - JDR</item>
+        <item>JIYAPURAM - JPM</item>
+        <item>JMLPR SHAIKHAN - JPS</item>
+        <item>JMTRA PARASWARA - JPV</item>
+        <item>JO JAGABOR - JO</item>
+        <item>JOBA - JOBA</item>
+        <item>JODHPUR JN - JU</item>
+        <item>JOGBANI - JBN</item>
+        <item>JOGENDRANAGAR - JGNR</item>
+        <item>JOGI MAGRA - JOM</item>
+        <item>JOGINDER NAGAR - JDNX</item>
+        <item>JOGIWALA - JGW</item>
+        <item>JOLARPETTAI - JTJ</item>
+        <item>JONE KARRANG - JYK</item>
+        <item>JONHA - JON</item>
+        <item>JORAVASAN - JRS</item>
+        <item>JORAWARNAGAR JN - JVN</item>
+        <item>JORHAT - JT</item>
+        <item>JORHAT TOWN - JTTN</item>
+        <item>JOYCHANDI PAHAR - JOC</item>
+        <item>JUGAUR - JRR</item>
+        <item>JUJUMURA - JUJA</item>
+        <item>JUKEHI - JKE</item>
+        <item>JULANA - JNA</item>
+        <item>JUNAGADH JN - JND</item>
+        <item>JUNNOR DEO - JNO</item>
+        <item>JURIAGAON - JRX</item>
+        <item>JUTOGH - JTO</item>
+        <item>JUTTURU - JUR</item>
+        <item>JWALAPUR - JWP</item>
+        <item>KABAKAPUTTUR - KBPR</item>
+        <item>KACHEGUDA - KCG</item>
+        <item>KACHEGUDA DBR - DQR</item>
+        <item>KACHEGUDA J OUS - JOO</item>
+        <item>KACHEWANI - KWN</item>
+        <item>KACHHIA BRIDGE - KCO</item>
+        <item>KACHNARA ROAD - KCNR</item>
+        <item>KADAKAVUR - KVU</item>
+        <item>KADALUNDI - KN</item>
+        <item>KADAMBUR - KDU</item>
+        <item>KADAVAKUDURU - KVDU</item>
+        <item>KADAYNALLUR - KDNL</item>
+        <item>KADIPUR - KDQ</item>
+        <item>KADIYAN - KYM</item>
+        <item>KADUR - DRU</item>
+        <item>KAFURPUR - KFPR</item>
+        <item>KAHALGAON - CLG</item>
+        <item>KAHET - KRAI</item>
+        <item>KAHILIYA - KH</item>
+        <item>KAIALSA - KIV</item>
+        <item>KAIKOLUR - KKLR</item>
+        <item>KAIKORAM - KKRM</item>
+        <item>KAILAHAT - KYT</item>
+        <item>KAILASAPURAM - KLPM</item>
+        <item>KAIRLA - KAI</item>
+        <item>KAJORAGRAM - KJME</item>
+        <item>KAJRA - KJH</item>
+        <item>KAJRAT NAWADIH - KYF</item>
+        <item>KAKARGHATTI - KKHT</item>
+        <item>KAKINADA PORT - COA</item>
+        <item>KAKINADA TOWN - CCT</item>
+        <item>KAKIRIGUMMA - KKGM</item>
+        <item>KAKLUR - KKLU</item>
+        <item>KAKORI - KKJ</item>
+        <item>KALA AKHAR - KQE</item>
+        <item>KALACHAND - KQI</item>
+        <item>KALADEHI - KDHI</item>
+        <item>KALAMALIA - KMH</item>
+        <item>KALAMB ROAD - KMRD</item>
+        <item>KALAMBOLI - KLMC</item>
+        <item>KALAMNA - KAV</item>
+        <item>KALANA - KALN</item>
+        <item>KALANAUR KALAN - KLNK</item>
+        <item>KALANWALI - KNL</item>
+        <item>KALAPIPAL - KPP</item>
+        <item>KALDHARI - KLDI</item>
+        <item>KALGUPUR - KCP</item>
+        <item>KALHAR - KAH</item>
+        <item>KALI SINDH - KSH</item>
+        <item>KALIANPUR - KAP</item>
+        <item>KALINARYNPUR JN - KLNP</item>
+        <item>KALIPAHARI - KPK</item>
+        <item>KALIYANGANJ - KAJ</item>
+        <item>KALKA - KLK</item>
+        <item>KALKUND - KKD</item>
+        <item>KALLAKKUDI PLGH - KKPM</item>
+        <item>KALLAL - KAL</item>
+        <item>KALLIGUDI - KGD</item>
+        <item>KALLURU - KLU</item>
+        <item>KALMITAR - KLTR</item>
+        <item>KALOL - KLL</item>
+        <item>KALPI - KPI</item>
+        <item>KALSUR - KVS</item>
+        <item>KALUNGA - KLG</item>
+        <item>KALUPARA GHAT - KAPG</item>
+        <item>KALYAN JN - KYN</item>
+        <item>KALYANI - KYI</item>
+        <item>KALYANPUR - KYP</item>
+        <item>KALYANPUR ROAD - KPRD</item>
+        <item>KAMAKHYA - KYQ</item>
+        <item>KAMAKHYAGURI - KAMG</item>
+        <item>KAMALAPURAM - KKM</item>
+        <item>KAMALGANJ - KLJ</item>
+        <item>KAMALNAGAR - KMNR</item>
+        <item>KAMALPURGRAM - KLPG</item>
+        <item>KAMALUR - KMLR</item>
+        <item>KAMAREDDI - KMC</item>
+        <item>KAMARKUNDU - KQU</item>
+        <item>KAMASAMUDRAM - KSM</item>
+        <item>KAMATHE - KMAH</item>
+        <item>KAMBRGANVI - KBI</item>
+        <item>KAMLI - KMLI</item>
+        <item>KAMPTEE - KP</item>
+        <item>KAMPUR - KWM</item>
+        <item>KAMSHET - KMST</item>
+        <item>KAMTAUL - KML</item>
+        <item>KANAKOT - KNKT</item>
+        <item>KANAKPURA - KKU</item>
+        <item>KANALAS JN - KNLS</item>
+        <item>KANAMALO PALLE - KNLP</item>
+        <item>KANAS ROAD - KASR</item>
+        <item>KANASAR - KNSR</item>
+        <item>KANAUTA - KUT</item>
+        <item>KANCHIPURAM - CJ</item>
+        <item>KANCHRAPARA - KPA</item>
+        <item>KANDAGHAT - KDZ</item>
+        <item>KANDANUR P VAYA - KNPL</item>
+        <item>KANDARPUR - KDRP</item>
+        <item>KANDEL ROAD - KDLR</item>
+        <item>KANDLA PORT - KDLP</item>
+        <item>KANDRA - KND</item>
+        <item>KANDRORI - KNDI</item>
+        <item>KANGINHAL - KGX</item>
+        <item>KANGRA - KGRA</item>
+        <item>KANGRA MANDIR - KGMR</item>
+        <item>KANHANGAD - KZE</item>
+        <item>KANHARGAON NAKA - KNRG</item>
+        <item>KANHEGAON - KNGN</item>
+        <item>KANIL - KANJ</item>
+        <item>KANINA KHAS - KNNK</item>
+        <item>KANIWARA - KWB</item>
+        <item>KANIYAPURAM - KXP</item>
+        <item>KANJARI BORIYAV - KBRV</item>
+        <item>KANKAHA - KKAH</item>
+        <item>KANKANADI - KNKD</item>
+        <item>KANKATHER - KHE</item>
+        <item>KANKAVALI - KKW</item>
+        <item>KANNAMANGALAM - KMM</item>
+        <item>KANNAPURAM - KPQ</item>
+        <item>KANNAUJ - KJN</item>
+        <item>KANNUR - CAN</item>
+        <item>KANOH - KANO</item>
+        <item>KANPUR ANWRGANJ - CPA</item>
+        <item>KANPUR CENTRAL - CNB</item>
+        <item>KANSHBAHAL - KXN</item>
+        <item>KANSIYA NES - KANS</item>
+        <item>KANSRAO - QSR</item>
+        <item>KANTABANJI - KBJ</item>
+        <item>KANTADIH - KTD</item>
+        <item>KANTAKAPALLE - KPL</item>
+        <item>KANTH - KNT</item>
+        <item>KANTHAN JN - KNHN</item>
+        <item>KANTHI P H - KATI</item>
+        <item>KANTI - KTI</item>
+        <item>KANWALPURA - KIW</item>
+        <item>KANWAT - KAWT</item>
+        <item>KANYAKUMARI - CAPE</item>
+        <item>KAPAN - KPNA</item>
+        <item>KAPARPURA - KVC</item>
+        <item>KAPASAN - KIN</item>
+        <item>KAPILAS ROAD - KIS</item>
+        <item>KAPPIL - KFI</item>
+        <item>KAPREN - KPZ</item>
+        <item>KAPSETI - KEH</item>
+        <item>KAPTANGANJ JN - CPJ</item>
+        <item>KAPURDHA HALT - KPDH</item>
+        <item>KAPURTHALA - KXH</item>
+        <item>KARABOH - KRBO</item>
+        <item>KARAD - KRD</item>
+        <item>KARAGOLA ROAD - CRR</item>
+        <item>KARAIKKUDI JN - KKDI</item>
+        <item>KARAILA ROAD JN - KRLR</item>
+        <item>KARAJGI - KJG</item>
+        <item>KARAK BEL - KKB</item>
+        <item>KARAKAVALASA - KVLS</item>
+        <item>KARAMBELI - KEB</item>
+        <item>KARAMELARAM - CRLM</item>
+        <item>KARAMGARH SDRGH - KRSH</item>
+        <item>KARAMNASA - KMS</item>
+        <item>KARANJADI - KFD</item>
+        <item>KARAUTA - KWO</item>
+        <item>KARAVADI - KRV</item>
+        <item>KARBIGWAN - KBN</item>
+        <item>KARCHHA - KDHA</item>
+        <item>KARELI - KY</item>
+        <item>KARENGI - KEG</item>
+        <item>KAREPALLI - KRA</item>
+        <item>KAREPUR - KRPR</item>
+        <item>KARGI ROAD - KGB</item>
+        <item>KARHIYA BHADELI - KYX</item>
+        <item>KARIGANURU - KGW</item>
+        <item>KARIMGANJ JN - KXJ</item>
+        <item>KARIMUDDIN PUR - KMDR</item>
+        <item>KARISATH - KRS</item>
+        <item>KARJAT - KJT</item>
+        <item>KARJODA - KRJD</item>
+        <item>KARKELI - KKI</item>
+        <item>KARKHELI - KEK</item>
+        <item>KARMAD - KMV</item>
+        <item>KARMALI - KRMI</item>
+        <item>KARNA - KAR</item>
+        <item>KARNAL - KUN</item>
+        <item>KARONDA - KOA</item>
+        <item>KARONJI - KJZ</item>
+        <item>KARPURIGRAM - KPGM</item>
+        <item>KARTARPUR - KRE</item>
+        <item>KARUNAGAPALLI - KPY</item>
+        <item>KARUNGUZHI - KGZ</item>
+        <item>KARUR - KRR</item>
+        <item>KARWAR - KAWR</item>
+        <item>KASARA - KSRA</item>
+        <item>KASARAGOD - KGQ</item>
+        <item>KASGANJ - KSJ</item>
+        <item>KASHI - KEI</item>
+        <item>KASHI CHAK - KSC</item>
+        <item>KASHIPUR - KPV</item>
+        <item>KASHIPURA SARAR - KSPR</item>
+        <item>KASHTI - KSTH</item>
+        <item>KASIMKOTA - KSK</item>
+        <item>KASIMPUR - KCJ</item>
+        <item>KASTHA - KSTA</item>
+        <item>KASU - KASU</item>
+        <item>KATA ROAD - KXX</item>
+        <item>KATAKHAL JN - KTX</item>
+        <item>KATANGI KHURD - KTKD</item>
+        <item>KATAREAH - KTRH</item>
+        <item>KATHAL PUKHURI - KTPR</item>
+        <item>KATHARA ROAD - KTRR</item>
+        <item>KATHGHAR - KGF</item>
+        <item>KATHGODAM - KGM</item>
+        <item>KATHLEEGHAT - KEJ</item>
+        <item>KATHUA - KTHU</item>
+        <item>KATIHAR JN - KIR</item>
+        <item>KATNI - KTE</item>
+        <item>KATNI MURWARA - KMZ</item>
+        <item>KATOL - KATL</item>
+        <item>KATORA - KTO</item>
+        <item>KATPADI JN - KPD</item>
+        <item>KATRA - KEA</item>
+        <item>KATRASGARH - KTH</item>
+        <item>KATWA - KWAE</item>
+        <item>KAUKUNTLA - KQQ</item>
+        <item>KAURHA - KUF</item>
+        <item>KAVALI - KVZ</item>
+        <item>KAVAS - KVA</item>
+        <item>KAVUTARAM - KVM</item>
+        <item>KAWARGAON - KWGN</item>
+        <item>KAYALPATTINAM - KZY</item>
+        <item>KAYAMSAR - QMRS</item>
+        <item>KAYANKULAM JN - KYJ</item>
+        <item>KAYAR - KAYR</item>
+        <item>KAZHAKUTTAM - KZK</item>
+        <item>KAZIPET JN - KZJ</item>
+        <item>KCG FALAKNUMA - FM</item>
+        <item>KEDGAON - KDG</item>
+        <item>KEERANUR - KRUR</item>
+        <item>KEKATUMAR - KKG</item>
+        <item>KELOD - KLOD</item>
+        <item>KELVA ROAD - KLV</item>
+        <item>KEM - KEM</item>
+        <item>KEMRI - KEMR</item>
+        <item>KENDRAPARA ROAD - KNPR</item>
+        <item>KENDUJHARGARH - KDJR</item>
+        <item>KENDUKANA - KDKN</item>
+        <item>KENGERI - KGI</item>
+        <item>KEOLARI - KLZ</item>
+        <item>KESAMUDRAM - KDM</item>
+        <item>KESAVARAM - KSVM</item>
+        <item>KESHAVGANJ - KVJ</item>
+        <item>KESHOD - KSD</item>
+        <item>KESHORAI PATAN - KPTN</item>
+        <item>KESINGA - KSNG</item>
+        <item>KETTI - KXT</item>
+        <item>KEUTGUDA - KTGA</item>
+        <item>KHACHROD - KUH</item>
+        <item>KHADA - KZA</item>
+        <item>KHADKI - KK</item>
+        <item>KHAGA - KGA</item>
+        <item>KHAGARIA JN - KGG</item>
+        <item>KHAGRAGHAT ROAD - KGLE</item>
+        <item>KHAIRAR JN - KID</item>
+        <item>KHAIRATABAD DCN - KQD</item>
+        <item>KHAIRTHAL - KRH</item>
+        <item>KHAJAULI - KJI</item>
+        <item>KHAJRAHA - KHJ</item>
+        <item>KHAJURAHO - KURJ</item>
+        <item>KHAJWANA - KJW</item>
+        <item>KHALARI - KLRE</item>
+        <item>KHALILABAD - KLD</item>
+        <item>KHALILPUR - KIP</item>
+        <item>KHALISPUR - KSF</item>
+        <item>KHALLIKOT - KIT</item>
+        <item>KHALTIPUR - KTJ</item>
+        <item>KHAMARGACHHI - KMAE</item>
+        <item>KHAMBHALIYA - KMBL</item>
+        <item>KHAMGAON - KMN</item>
+        <item>KHAMMAM - KMT</item>
+        <item>KHANA JN - KAN</item>
+        <item>KHANAPUR - KNP</item>
+        <item>KHANDALA - KAD</item>
+        <item>KHANDBAARA - KBH</item>
+        <item>KHANDERI - KHDI</item>
+        <item>KHANDIP - KNDP</item>
+        <item>KHANDWA - KNW</item>
+        <item>KHANNA - KNN</item>
+        <item>KHANNA BANJARI - KHBJ</item>
+        <item>KHAPRI KHEDA - KPKD</item>
+        <item>KHARAGPUR JN - KGP</item>
+        <item>KHARAK - KHRK</item>
+        <item>KHARESHWAR ROAD - KHRS</item>
+        <item>KHARIA KHANGARH - KXG</item>
+        <item>KHARIAR ROAD - KRAR</item>
+        <item>KHARPOKHRA - KPB</item>
+        <item>KHARSALIYA - KRSA</item>
+        <item>KHARSIA - KHS</item>
+        <item>KHARWA - KRW</item>
+        <item>KHARWA CHANDA - KRCD</item>
+        <item>KHAT - KHAT</item>
+        <item>KHATAULI - KAT</item>
+        <item>KHATGAON - KHTG</item>
+        <item>KHATIMA - KHMA</item>
+        <item>KHATIPURA - KWP</item>
+        <item>KHED - KHED</item>
+        <item>KHEDULI - KQW</item>
+        <item>KHEM KARAN - KEMK</item>
+        <item>KHEMLI - KLH</item>
+        <item>KHERA KALAN - KHKN</item>
+        <item>KHERI SALWA - KSW</item>
+        <item>KHERLI - KL</item>
+        <item>KHETA SARAI - KS</item>
+        <item>KHIJADIYA JN - KJV</item>
+        <item>KHILERIYAN - KLYN</item>
+        <item>KHIMEL - KZQ</item>
+        <item>KHINANIYAN - KNNA</item>
+        <item>KHIRKIYA - KKN</item>
+        <item>KHIRSADOH JN - KUX</item>
+        <item>KHODIYAR - KHD</item>
+        <item>KHODRI - KOI</item>
+        <item>KHOIRABARI - KBY</item>
+        <item>KHOJEWALA - KWJ</item>
+        <item>KHONGSARA - KGS</item>
+        <item>KHORANA - KHC</item>
+        <item>KHORASON ROAD - KRND</item>
+        <item>KHUDIRAM B PUSA - KRBP</item>
+        <item>KHUDIRAM B PUSA - PUV</item>
+        <item>KHUMTAI - KUTI</item>
+        <item>KHURAI - KYE</item>
+        <item>KHURDA ROAD JN - KUR</item>
+        <item>KHURDPUR - KUPR</item>
+        <item>KHURHAND - KHU</item>
+        <item>KHURIAL - KWE</item>
+        <item>KHURJA CITY - KJY</item>
+        <item>KHURJA JN - KRJ</item>
+        <item>KHUSHAL NAGAR - KSNR</item>
+        <item>KHUSROPUR - KOO</item>
+        <item>KHUTAHA - KTHA</item>
+        <item>KICHHA - KHH</item>
+        <item>KIDIYANAGA - KYG</item>
+        <item>KIKAKUI ROAD - KKRD</item>
+        <item>KILA RAIPUR - QRP</item>
+        <item>KIM - KIM</item>
+        <item>KINWAT - KNVT</item>
+        <item>KIRANDUL - KRDL</item>
+        <item>KIRAOLI - KLB</item>
+        <item>KIRATGARH - KRTH</item>
+        <item>KIRATPUR SAHIB - KART</item>
+        <item>KIRIHRAPUR - KER</item>
+        <item>KIRLOSKARVADI - KOV</item>
+        <item>KIRODIMALNAGAR - KDTR</item>
+        <item>KISHANGANJ - KNE</item>
+        <item>KISHANGARH - KSG</item>
+        <item>KISHANPUR - KSP</item>
+        <item>KISONI - KONY</item>
+        <item>KISTAMSETTIPALI - KSTE</item>
+        <item>KIUL JN - KIUL</item>
+        <item>KIVARLI - KWI</item>
+        <item>KIWAR KHED - HKR</item>
+        <item>KOCHI - CHTX</item>
+        <item>KOCHUVELI - KCVL</item>
+        <item>KODAGANUR - KAG</item>
+        <item>KODAIKANAL ROAD - KQN</item>
+        <item>KODAVALURU - KJJ</item>
+        <item>KODERMA - KQR</item>
+        <item>KODI - KODI</item>
+        <item>KODIGEHALLI - KDGH</item>
+        <item>KODIKKALPALAIYM - KOM</item>
+        <item>KODIYAR MANDIR - KDMR</item>
+        <item>KODUMUDI - KMD</item>
+        <item>KODURU - KOU</item>
+        <item>KOELWAR - KWR</item>
+        <item>KOHAND - KFU</item>
+        <item>KOHIR DECCAN - KOHR</item>
+        <item>KOIRIPUR - KEPR</item>
+        <item>KOKRAJHAR - KOJ</item>
+        <item>KOLAD - KOL</item>
+        <item>KOLAKALUR - KLX</item>
+        <item>KOLANUKONDA - KAQ</item>
+        <item>KOLARAS - KLRS</item>
+        <item>KOLAYAT - KLYT</item>
+        <item>KOLDA - KFF</item>
+        <item>KOLKATA - CP</item>
+        <item>KOLKATA - KOAA</item>
+        <item>KOLLAM JN - QLN</item>
+        <item>KOLLENGODE - KLGD</item>
+        <item>KOLLIDAM - CLN</item>
+        <item>KOLLIKHUTAHA - KKTA</item>
+        <item>KOLNUR - KOLR</item>
+        <item>KOLVAGRAM - KVGM</item>
+        <item>KOMAKHAN - KMK</item>
+        <item>KOMATIPALLI - KMX</item>
+        <item>KONDAGUNTA - KQA</item>
+        <item>KONDAPALLI - KI</item>
+        <item>KONDAPURAM - KDP</item>
+        <item>KONNUR - KONN</item>
+        <item>KOPA SAMHOTA - KPS</item>
+        <item>KOPAI - KPLE</item>
+        <item>KOPARGAON - KPG</item>
+        <item>KOPARIA - KFA</item>
+        <item>KOPPAL - KBL</item>
+        <item>KORADIH - KRDH</item>
+        <item>KORAHIA - KRHA</item>
+        <item>KORAI HALT - KRIH</item>
+        <item>KORAPUT - KRPU</item>
+        <item>KORBA - KRBA</item>
+        <item>KOREGAON - KRG</item>
+        <item>KORUKONDA - KUK</item>
+        <item>KOSAD - KSE</item>
+        <item>KOSAMBA JN - KSB</item>
+        <item>KOSGI - KO</item>
+        <item>KOSI KALAN - KSV</item>
+        <item>KOSLI - KSI</item>
+        <item>KOT FATTEH - KTF</item>
+        <item>KOT KAPURA - KKP</item>
+        <item>KOTA JN - KOTA</item>
+        <item>KOTABOMMALI - KBM</item>
+        <item>KOTAKADRA - KTKA</item>
+        <item>KOTALA - KEN</item>
+        <item>KOTALPUKUR - KLP</item>
+        <item>KOTANA - KTOA</item>
+        <item>KOTAPAR ROAD - KPRR</item>
+        <item>KOTARLIA - KRL</item>
+        <item>KOTDWARA - KTW</item>
+        <item>KOTHAR - KTR</item>
+        <item>KOTHARI ROAD - KTHD</item>
+        <item>KOTI - KOTI</item>
+        <item>KOTIKULAM - KQK</item>
+        <item>KOTLAKHERI - KTKH</item>
+        <item>KOTLI KALAN - KTKL</item>
+        <item>KOTMA - KTMA</item>
+        <item>KOTMI SONAN HLT - KTSH</item>
+        <item>KOTSHILA - KSX</item>
+        <item>KOTTA PNDLPALLI - KPLL</item>
+        <item>KOTTAIYUR - KTYR</item>
+        <item>KOTTAPALLI - KYOP</item>
+        <item>KOTTAVALASA - KTV</item>
+        <item>KOTTAYAM - KTYM</item>
+        <item>KOVILPATTI - CVP</item>
+        <item>KOVVUR - KVR</item>
+        <item>KOZHIKODE - CLT</item>
+        <item>KRISHANRAJANAGA - KRNR</item>
+        <item>KRISHNA - KSN</item>
+        <item>KRISHNA CANAL - KCC</item>
+        <item>KRISHNAMA KONA - KEF</item>
+        <item>KRISHNAPUR - KRP</item>
+        <item>KRISHNAPURAM - KPU</item>
+        <item>KRISHNARAJAPURM - KJM</item>
+        <item>KRISHNASHILLA - KRSL</item>
+        <item>KRISHNGR CTY JN - KNJ</item>
+        <item>KUCHAMAN CITY - KMNC</item>
+        <item>KUCHMAN - KCA</item>
+        <item>KUDACHI - KUD</item>
+        <item>KUDAL - KALD</item>
+        <item>KUDAL - KUDL</item>
+        <item>KUDALNAGAR - KON</item>
+        <item>KUDATINI - KDN</item>
+        <item>KUDRA - KTQ</item>
+        <item>KUHURI - KUU</item>
+        <item>KUKMA - KEMA</item>
+        <item>KUKRA KHAPA - KFP</item>
+        <item>KULALI - KUI</item>
+        <item>KULEM - QLM</item>
+        <item>KULHARIA - KUA</item>
+        <item>KULITALAI - KLT</item>
+        <item>KULITTHURAI - KZT</item>
+        <item>KULITTURAI WEST - KZTW</item>
+        <item>KULPAHAR - KLAR</item>
+        <item>KULTI - ULT</item>
+        <item>KUMAR SADRA - KMSD</item>
+        <item>KUMARAPURAM - KPM</item>
+        <item>KUMARBAGH - KUMB</item>
+        <item>KUMARDUBI - KMME</item>
+        <item>KUMARGHAT - KUGT</item>
+        <item>KUMARHATTI - KMTI</item>
+        <item>KUMBAKONAM - KMU</item>
+        <item>KUMBHRAJ - KHRJ</item>
+        <item>KUMBLA - KMQ</item>
+        <item>KUMEDPUR - KDPR</item>
+        <item>KUMHARI - KMI</item>
+        <item>KUMRABAD ROHINI - KBQ</item>
+        <item>KUMTA - KT</item>
+        <item>KUMTHA KHURD - KTKR</item>
+        <item>KUND - KUND</item>
+        <item>KUNDA HARNAMGNJ - KHNM</item>
+        <item>KUNDALGARH - KDLG</item>
+        <item>KUNDAPURA - KUDA</item>
+        <item>KUNDARKHI - KD</item>
+        <item>KUNDGOL - KNO</item>
+        <item>KUNDLI - KDI</item>
+        <item>KUNEANGANJ - KVG</item>
+        <item>KUNERU - KNRT</item>
+        <item>KUNKI - KZU</item>
+        <item>KUNTIGHAT - KJU</item>
+        <item>KUP - KUP</item>
+        <item>KUPGAL - KGL</item>
+        <item>KUPPAM - KPN</item>
+        <item>KURALI - KRLI</item>
+        <item>KURANGA - KRGA</item>
+        <item>KURDUVADI - KWV</item>
+        <item>KURGUNTA - KQT</item>
+        <item>KURICHEDU - KCD</item>
+        <item>KURLA JN - CLA</item>
+        <item>KURLAS - KRLS</item>
+        <item>KURNOOL TOWN - KRNT</item>
+        <item>KURSELA - KUE</item>
+        <item>KURSEONG - KGN</item>
+        <item>KURUKSHETRA JN - KKDE</item>
+        <item>KURUMBUR - KZB</item>
+        <item>KURUMURTHI - KXI</item>
+        <item>KURWAI KETHORA - KIKA</item>
+        <item>KUSHAL PURA - KLSP</item>
+        <item>KUSHTALA - KTA</item>
+        <item>KUSHTAUR - KSU</item>
+        <item>KUSMHI - KHM</item>
+        <item>KUSUGALI - KUG</item>
+        <item>KUTRALAM - KTM</item>
+        <item>KUTTIPPURAM - KTU</item>
+        <item>KYARKOP - KRKP</item>
+        <item>KYATANEAKERI RD - KTK</item>
+        <item>KYATSANDRA - KIAT</item>
+        <item>LABAN - LBN</item>
+        <item>LABHA - LAV</item>
+        <item>LACHHIPURA - LAC</item>
+        <item>LACHHMANGARH SK - LNH</item>
+        <item>LACHHMANPUR - LMN</item>
+        <item>LACHYAN - LHN</item>
+        <item>LADDA - LDX</item>
+        <item>LADNUN - LAU</item>
+        <item>LAHABON - LHB</item>
+        <item>LAHERIA SARAI - LSI</item>
+        <item>LAHLI - LHLL</item>
+        <item>LAIMEKURI - LMY</item>
+        <item>LAJPAT NAGAR - LPNR</item>
+        <item>LAKADIYA - LKZ</item>
+        <item>LAKHABAWAL - LKBL</item>
+        <item>LAKHAMANCHI - LMC</item>
+        <item>LAKHERI - LKE</item>
+        <item>LAKHIMPUR - LMP</item>
+        <item>LAKHMAPUR - LKY</item>
+        <item>LAKHMINIA - LKN</item>
+        <item>LAKHNA - LKNA</item>
+        <item>LAKHOLI - LAE</item>
+        <item>LAKHTAR - LTR</item>
+        <item>LAKKADKOT - LKKD</item>
+        <item>LAKKITI - LDY</item>
+        <item>LAKODARA - LKD</item>
+        <item>LAKSAR JN - LRJ</item>
+        <item>LAKSHMIBAI NGR - LMNR</item>
+        <item>LAKSWA - LXA</item>
+        <item>LAL KUAN - LKU</item>
+        <item>LALAGUDA GATE - LGDH</item>
+        <item>LALBAGH CRT RD - LCAE</item>
+        <item>LALGANJ - LLJ</item>
+        <item>LALGARH JN - LGH</item>
+        <item>LALGOLA - LGL</item>
+        <item>LALGOPALGANJ - LGO</item>
+        <item>LALGUDI - LLI</item>
+        <item>LALIT LAKSHMIPR - LLPR</item>
+        <item>LALITPUR - LAR</item>
+        <item>LALPUR JAM - LPJ</item>
+        <item>LALPUR UMRI - LRU</item>
+        <item>LALRU - LLU</item>
+        <item>LAMANA - LNA</item>
+        <item>LAMBHUA - LBA</item>
+        <item>LAMBIYA - LMA</item>
+        <item>LAMTA - LTA</item>
+        <item>LANDAURA - LDR</item>
+        <item>LANGTING - LGT</item>
+        <item>LANJIGARH ROAD - LJR</item>
+        <item>LANKA - LKA</item>
+        <item>LANKALAKODERU - LKDU</item>
+        <item>LAR ROAD - LRD</item>
+        <item>LASALGAON - LS</item>
+        <item>LASERI - LSE</item>
+        <item>LASUR - LSR</item>
+        <item>LATEHAR - LTHR</item>
+        <item>LATHI - LAT</item>
+        <item>LATHIDAD - LTD</item>
+        <item>LATUR - LUR</item>
+        <item>LATUR ROAD - LTRR</item>
+        <item>LAXMIPUR ROAD - LKMR</item>
+        <item>LEDARMER - LDM</item>
+        <item>LEDO - LEDO</item>
+        <item>LEHRA GAGA - LHA</item>
+        <item>LELIGUMA - LLGM</item>
+        <item>LIDHORA KHURD - LDA</item>
+        <item>LILAPUR ROAD - LPR</item>
+        <item>LILIYA MOTA - LMO</item>
+        <item>LIMBDI - LM</item>
+        <item>LIMBGAON - LBG</item>
+        <item>LIMKHEDA - LMK</item>
+        <item>LINGA - LIG</item>
+        <item>LINGAMPALLI - LPI</item>
+        <item>LINGANENIDODDI - LMD</item>
+        <item>LINGTI - LNT</item>
+        <item>LODIPUR BISHNPR - LDP</item>
+        <item>LOHARU - LHU</item>
+        <item>LOHARWARA - LHW</item>
+        <item>LOHGARH ABUB - LGB</item>
+        <item>LOHIAN KHAS JN - LNK</item>
+        <item>LOHOGAD - LHD</item>
+        <item>LOISINGHA - LSX</item>
+        <item>LOKDHIKHERA - LDE</item>
+        <item>LOKMANYA NAGAR - LKMN</item>
+        <item>LOKMANYATILAK T - CLAT</item>
+        <item>LOKMANYATILAK T - LTT</item>
+        <item>LONAND - LNN</item>
+        <item>LONAVALA - LNL</item>
+        <item>LONDA JN - LD</item>
+        <item>LONGRANGAJAO - LJO</item>
+        <item>LONI - LONI</item>
+        <item>LORHA - LOA</item>
+        <item>LORWADA - LW</item>
+        <item>LOTAPAHAR - LPH</item>
+        <item>LOTARVA - LTV</item>
+        <item>LOVEDALE - LOV</item>
+        <item>LOWER HAFLONG - LFG</item>
+        <item>LUCKEESARAI JN - LKR</item>
+        <item>LUCKNOW CITY - LC</item>
+        <item>LUCKNOW NE - LJN</item>
+        <item>LUCKNOW NR - LKO</item>
+        <item>LUDHIANA JN - LDH</item>
+        <item>LUMDING JN - LMG</item>
+        <item>LUNI JN - LUNI</item>
+        <item>LUNI RICHHA - LNR</item>
+        <item>LUNKARANSAR - LKS</item>
+        <item>LUNSERIYA - LXR</item>
+        <item>LUSA - LUSA</item>
+        <item>LUSADIYA - LSD</item>
+        <item>MACHARYA - MCV</item>
+        <item>MACHAVARAM - MCVM</item>
+        <item>MACHELIPATNAM - MTM</item>
+        <item>MACHHAKUNDA - MKRD</item>
+        <item>MADAN MAHAL - MML</item>
+        <item>MADANKATA - MNC</item>
+        <item>MADANPUR - MPJ</item>
+        <item>MADAR - MD</item>
+        <item>MADDIKERA - MKR</item>
+        <item>MADDUR - MAD</item>
+        <item>MADGAON - MAO</item>
+        <item>MADHA - MA</item>
+        <item>MADHAPUR ROAD - MADP</item>
+        <item>MADHAVNAGAR - MDVR</item>
+        <item>MADHI - MID</item>
+        <item>MADHIRA - MDR</item>
+        <item>MADHOPUR PUNJAB - MDPB</item>
+        <item>MADHOSINGH - MBS</item>
+        <item>MADHUBANI - MBI</item>
+        <item>MADHUPUR JN - MDP</item>
+        <item>MADURAI JN - MDU</item>
+        <item>MADURANTAKAM - MMK</item>
+        <item>MADURE - MADR</item>
+        <item>MAGARDAHA - MWF</item>
+        <item>MAGHAR - MHH</item>
+        <item>MAGRA - MUG</item>
+        <item>MAHADANAPURAM - MMH</item>
+        <item>MAHADEVSAL - MXW</item>
+        <item>MAHAJAN - MHJ</item>
+        <item>MAHALAM - MFM</item>
+        <item>MAHALI MARUP - MMV</item>
+        <item>MAHANADI - MHN</item>
+        <item>MAHANAGAR - MANG</item>
+        <item>MAHANSAR - MWR</item>
+        <item>MAHASAMUND - MSMD</item>
+        <item>MAHBUBABAD - MABD</item>
+        <item>MAHBUBNAGAR - MBNR</item>
+        <item>MAHE - MAHE</item>
+        <item>MAHENDRAGARH - MHRG</item>
+        <item>MAHES KHUNT - MSK</item>
+        <item>MAHESANA JN - MSH</item>
+        <item>MAHESHMUNDA - MMD</item>
+        <item>MAHIDPUR ROAD - MEP</item>
+        <item>MAHIPAL ROAD - MPLR</item>
+        <item>MAHMUDABAD AVDH - MMB</item>
+        <item>MAHOBA - MBA</item>
+        <item>MAHOLI - MAHO</item>
+        <item>MAHPUR - MHO</item>
+        <item>MAHROI - MFQ</item>
+        <item>MAHUAWA KHURD - MUUA</item>
+        <item>MAHUDA - MHQ</item>
+        <item>MAHUGARHA - MUGA</item>
+        <item>MAHUR - MXR</item>
+        <item>MAHUVA JN - MHV</item>
+        <item>MAHWA - MWW</item>
+        <item>MAHWAL - MHL</item>
+        <item>MAIBANG - MBG</item>
+        <item>MAIHAR - MYR</item>
+        <item>MAIKALGANJ - MINJ</item>
+        <item>MAILAM - MTL</item>
+        <item>MAILANI - MLN</item>
+        <item>MAILARAM - MWY</item>
+        <item>MAILONGDISA - MGX</item>
+        <item>MAINPURI - MNQ</item>
+        <item>MAIRWA - MW</item>
+        <item>MAJBAT - MJBT</item>
+        <item>MAJHAGAWAN - MJG</item>
+        <item>MAJHOLA PAKARYA - MJZ</item>
+        <item>MAJHOWLIA - MJL</item>
+        <item>MAJORDA - MJO</item>
+        <item>MAJRI JN - MJRI</item>
+        <item>MAKARPURA - MPR</item>
+        <item>MAKHDUMPUR GAYA - MDE</item>
+        <item>MAKHU - MXH</item>
+        <item>MAKLIDRUG - MKL</item>
+        <item>MAKRANA JN - MKN</item>
+        <item>MAKRERA - MKRA</item>
+        <item>MAKRONIA - MKRN</item>
+        <item>MAKSI - MKC</item>
+        <item>MAKUDI - MKDI</item>
+        <item>MAKUM JN - MJN</item>
+        <item>MALAKHERA - MKH</item>
+        <item>MALAKPET KCG - MXT</item>
+        <item>MALANCHA - MLNH</item>
+        <item>MALANPUR - MLAR</item>
+        <item>MALARNA - MLZ</item>
+        <item>MALAVLI - MVL</item>
+        <item>MALDA TOWN - MLDT</item>
+        <item>MALEGAON VYENKU - MGVK</item>
+        <item>MALERKOTLA - MET</item>
+        <item>MALHAR - MAAR</item>
+        <item>MALHARGARH - MLG</item>
+        <item>MALHOUR - ML</item>
+        <item>MALIGURA - MVG</item>
+        <item>MALIHABAD - MLD</item>
+        <item>MALIKPETH - MKPT</item>
+        <item>MALIPUR - MLPR</item>
+        <item>MALIYA - MALX</item>
+        <item>MALIYA HATINA - MLHA</item>
+        <item>MALIYA MIYANA - MALB</item>
+        <item>MALKAJGIRI - MJF</item>
+        <item>MALKAPUR - MKU</item>
+        <item>MALKAPUR ROAD - MALK</item>
+        <item>MALKAPURAM - MLK</item>
+        <item>MALKHAID ROAD - MQR</item>
+        <item>MALKISAR - MLC</item>
+        <item>MALLANWALA KHAS - MWX</item>
+        <item>MALLAPPA GATE - MLGT</item>
+        <item>MALLAPUR - MLP</item>
+        <item>MALLARPUR - MLV</item>
+        <item>MALLESWARAM - MWM</item>
+        <item>MALLICKPUR HAT - MKRH</item>
+        <item>MALLIVIDU - MVW</item>
+        <item>MALLIYALA - MYL</item>
+        <item>MALOUT - MOT</item>
+        <item>MALSAILU - MLSU</item>
+        <item>MALSIAN SHAHKHT - MQS</item>
+        <item>MALTHAN - MLM</item>
+        <item>MALUGUR - MLU</item>
+        <item>MALUR - MLO</item>
+        <item>MALWAN - MWH</item>
+        <item>MALWARA - MBW</item>
+        <item>MAMAN - MOM</item>
+        <item>MAMANDURU - MRM</item>
+        <item>MAMBALAM - MBM</item>
+        <item>MANABAR - MVF</item>
+        <item>MANAKSAR - MNSR</item>
+        <item>MANAMADURAI JN - MNM</item>
+        <item>MANANPUR - MNP</item>
+        <item>MANANWALA - MOW</item>
+        <item>MANAPARAI - MPA</item>
+        <item>MANAURI - MRE</item>
+        <item>MANCHESWAR - MCS</item>
+        <item>MANCHIRYAL - MCI</item>
+        <item>MANDA ROAD - MNF</item>
+        <item>MANDAGERE - MGF</item>
+        <item>MANDAL - MDL</item>
+        <item>MANDALGARH - MLGH</item>
+        <item>MANDAMARI - MMZ</item>
+        <item>MANDAPAM - MMM</item>
+        <item>MANDASA ROAD - MMS</item>
+        <item>MANDASOR - MDS</item>
+        <item>MANDAVALLI - MDVL</item>
+        <item>MANDAWAR M RD - MURD</item>
+        <item>MANDERDISA - MYD</item>
+        <item>MANDHANA JN - MDA</item>
+        <item>MANDHAR - MDH</item>
+        <item>MANDI ADAMPUR - ADR</item>
+        <item>MANDI BAMORA - MABA</item>
+        <item>MANDI DABWALI - MBY</item>
+        <item>MANDI DHANAURA - MNDR</item>
+        <item>MANDI DIP - MDDP</item>
+        <item>MANDIR HASAUD - MNDH</item>
+        <item>MANDRAK - MXK</item>
+        <item>MANDUADIH - MUV</item>
+        <item>MANDYA - MYA</item>
+        <item>MANENDRAGARH - MDGR</item>
+        <item>MANGAL MAHUDI - MAM</item>
+        <item>MANGALAGIRI - MAG</item>
+        <item>MANGALIYAWAS - MLI</item>
+        <item>MANGALORE CNTL - MAQ</item>
+        <item>MANGALORE JN - MAJN</item>
+        <item>MANGANALLUR - MNX</item>
+        <item>MANGAON - MNI</item>
+        <item>MANGAPATNAM - MUM</item>
+        <item>MANGLIYA GAON - MGG</item>
+        <item>MANGOLPURI - MGLP</item>
+        <item>MANGROLLA - MGRL</item>
+        <item>MANHERU - MHU</item>
+        <item>MANI NAGAR - MANI</item>
+        <item>MANIGRAM - MGLE</item>
+        <item>MANIKGARH - MAGH</item>
+        <item>MANIKPUR JN - MKP</item>
+        <item>MANIKUL - MIK</item>
+        <item>MANINAGAR - MAN</item>
+        <item>MANIYACHCHI JN - MEJ</item>
+        <item>MANJESHWAR - MJS</item>
+        <item>MANJHI - MHT</item>
+        <item>MANKAPUR JN - MUR</item>
+        <item>MANKAR - MNAE</item>
+        <item>MANKARAI - MNY</item>
+        <item>MANKATHA - MKB</item>
+        <item>MANKI - MANK</item>
+        <item>MANMAD JN - MMR</item>
+        <item>MANNANUR - MNUR</item>
+        <item>MANOHARABAD - MOB</item>
+        <item>MANOHARGANJ - MNJ</item>
+        <item>MANOHARPUR - MOU</item>
+        <item>MANOPAD - MOA</item>
+        <item>MANSA - MSZ</item>
+        <item>MANSI JN - MNE</item>
+        <item>MANSURPUR - MSP</item>
+        <item>MANTAPAMPALLE - MMPL</item>
+        <item>MANTATTI - MVH</item>
+        <item>MANTHRALAYAM RD - MALM</item>
+        <item>MANUBOLU - MBL</item>
+        <item>MANUGURU - MUGR</item>
+        <item>MANWATH ROAD - MVO</item>
+        <item>MANYAMKONDA - MQN</item>
+        <item>MANZURGARHI - MZGI</item>
+        <item>MARAHRA - MH</item>
+        <item>MARAMJHIRI - MJY</item>
+        <item>MARAMPALLI - MRPL</item>
+        <item>MARARIKULAM - MAKM</item>
+        <item>MARENGA - MEZ</item>
+        <item>MARGHERITA - MRG</item>
+        <item>MARIAHU - MAY</item>
+        <item>MARIANI JN - MXN</item>
+        <item>MARKAHANDI U HT - MQQ</item>
+        <item>MARKAPUR ROAD - MRK</item>
+        <item>MARKONA - MKO</item>
+        <item>MARKUNDI - MKD</item>
+        <item>MARMAGAO - MRH</item>
+        <item>MAROLI - MRL</item>
+        <item>MARPALLI - MRF</item>
+        <item>MARSUL - MRV</item>
+        <item>MARTHIPALAYAM - MPLM</item>
+        <item>MARTUR - MR</item>
+        <item>MARWAR BAGRA - MBGA</item>
+        <item>MARWAR BHINMAL - MBNL</item>
+        <item>MARWAR CHAPRI - MCPE</item>
+        <item>MARWAR JN - MJ</item>
+        <item>MARWAR KORI - KOF</item>
+        <item>MARWAR LOHWAT - MWT</item>
+        <item>MARWAR MATHANYA - MMY</item>
+        <item>MARWAR MUNDWA - MDW</item>
+        <item>MARWAR RATANPRA - MSQ</item>
+        <item>MARWASGRAM - MWJ</item>
+        <item>MASAIPET - ME</item>
+        <item>MASIT - MST</item>
+        <item>MASKANWA - MSW</item>
+        <item>MASUDAN - MSDN</item>
+        <item>MASUR - MSR</item>
+        <item>MATANA BUZURG - MABG</item>
+        <item>MATHERAN - MAE</item>
+        <item>MATHURA CANT - MRT</item>
+        <item>MATHURA JN - MTJ</item>
+        <item>MATHURAPUR - MUW</item>
+        <item>MATLABPUR - MTB</item>
+        <item>MATMARI - MTU</item>
+        <item>MAU AIMMA - MEM</item>
+        <item>MAU JN - MAU</item>
+        <item>MAU RANIPUR - MRPR</item>
+        <item>MAUHARI - MZH</item>
+        <item>MAULA ALI - MLY</item>
+        <item>MAUR - MAUR</item>
+        <item>MAVAL - MAA</item>
+        <item>MAVELIKARA - MVLK</item>
+        <item>MAVLI JN - MVJ</item>
+        <item>MAVUR ROAD - MARD</item>
+        <item>MAYAKONDA - MYK</item>
+        <item>MAYILADUTURAI J - MV</item>
+        <item>MAYYANAD - MYY</item>
+        <item>MCCLUSKIEGANJ - MGME</item>
+        <item>MECHEDA - MCA</item>
+        <item>MECHERI ROAD - MCRD</item>
+        <item>MEDAPADU - MPU</item>
+        <item>MEDCHAL - MED</item>
+        <item>MEERUT CANT - MUT</item>
+        <item>MEERUT CITY - MTC</item>
+        <item>MEGHNAGAR - MGN</item>
+        <item>MEHNAR ROAD - MNO</item>
+        <item>MEHSI - MAI</item>
+        <item>MEJA ROAD - MJA</item>
+        <item>MELAKKONNAKKULM - MEKM</item>
+        <item>MELMARUVATTUR - MLMR</item>
+        <item>MELUSAR - MELH</item>
+        <item>MEMARI - MYM</item>
+        <item>MERALGRAM - MQX</item>
+        <item>MERTA ROAD JN - MTD</item>
+        <item>METUPALAIYAM - MTP</item>
+        <item>METUR DAM - MTDM</item>
+        <item>METYAL SOHAR - MYX</item>
+        <item>MHMDVD KHEDA RD - MHD</item>
+        <item>MHOW - MHOW</item>
+        <item>MIDNAPORE - MDN</item>
+        <item>MIGRENDISA - MGE</item>
+        <item>MIHINPURWA - MIN</item>
+        <item>MIHRAWAN - MIH</item>
+        <item>MILAK - MIL</item>
+        <item>MILAVITTAN - MVN</item>
+        <item>MINCHNAL - MNL</item>
+        <item>MIRAJ JN - MRJ</item>
+        <item>MIRANPUR KATRA - MK</item>
+        <item>MIRCHADHORI - MCQ</item>
+        <item>MIRHAKUR - MIQ</item>
+        <item>MIRKHAL - MQL</item>
+        <item>MIRTHAL - MRTL</item>
+        <item>MIRYALAGUDA - MRGA</item>
+        <item>MIRZA CHEUKI - MZC</item>
+        <item>MIRZAPALI - MZL</item>
+        <item>MIRZAPUR - MZP</item>
+        <item>MISAMARI - MSMI</item>
+        <item>MISRAULI - MFL</item>
+        <item>MISROD - MSO</item>
+        <item>MITHA - MITA</item>
+        <item>MITHAPUR - MTHP</item>
+        <item>MIYAGAM KARJAN - MYG</item>
+        <item>MIYANA - MINA</item>
+        <item>MIYANA - MYN</item>
+        <item>MODINAGAR - MDNR</item>
+        <item>MODNIMB - MLB</item>
+        <item>MODPUR - MDPR</item>
+        <item>MODRAN - MON</item>
+        <item>MODUKURU - MDKU</item>
+        <item>MOGA - MOGA</item>
+        <item>MOHADI PRGN LNG - MHAD</item>
+        <item>MOHAMMADKHERA - MQE</item>
+        <item>MOHANLALGANJ - MLJ</item>
+        <item>MOHIBULLAPUR - MBP</item>
+        <item>MOHITNAGAR - MOP</item>
+        <item>MOHIUDDINNAGAR - MOG</item>
+        <item>MOHIUDDINPUR - MUZ</item>
+        <item>MOHOL - MO</item>
+        <item>MOHRI - MOY</item>
+        <item>MOKALSAR - MKSR</item>
+        <item>MOKAMEH JN - MKA</item>
+        <item>MOKHOLI - MXL</item>
+        <item>MOLAKALMURU - MOMU</item>
+        <item>MONABARI - MFC</item>
+        <item>MONDH - MOF</item>
+        <item>MONGHYR - MGR</item>
+        <item>MONU - MANU</item>
+        <item>MOOKAMBIKA ROAD - BYNR</item>
+        <item>MOR - MOR</item>
+        <item>MORADABAD - MB</item>
+        <item>MORAK - MKX</item>
+        <item>MORAPPUR - MAP</item>
+        <item>MORBI - MVI</item>
+        <item>MORDAD TANDA - MWK</item>
+        <item>MORDAR - MRDD</item>
+        <item>MORENA - MRA</item>
+        <item>MORGRAM - MGAE</item>
+        <item>MORI BERA - MOI</item>
+        <item>MORINDA - MRND</item>
+        <item>MORKADHANA - MKDN</item>
+        <item>MORTHALA - MXO</item>
+        <item>MORWANI - MRN</item>
+        <item>MOTH - MOTH</item>
+        <item>MOTICHUR - MOTC</item>
+        <item>MOTIHARI COURT - MCO</item>
+        <item>MOTIPUR - MTR</item>
+        <item>MOTIPURA CHAUKI - MTPC</item>
+        <item>MOTURU - OTR</item>
+        <item>MUDDANURU - MOO</item>
+        <item>MUDKHED - MUE</item>
+        <item>MUGAD - MGD</item>
+        <item>MUGAT - MGC</item>
+        <item>MUGHAL SARAI JN - MGS</item>
+        <item>MUHAMMADABAD - MMA</item>
+        <item>MUHAMMADGANJ - MDJ</item>
+        <item>MUKERIAN - MEX</item>
+        <item>MUKHTIAR BALWAR - MKT</item>
+        <item>MUKTAPUR - MKPR</item>
+        <item>MUKUNDARAYAPURM - MCN</item>
+        <item>MUL MARORA - MME</item>
+        <item>MULANTURUTTI - MNTT</item>
+        <item>MULANUR - MAR</item>
+        <item>MULI ROAD - MOL</item>
+        <item>MULKI - MULK</item>
+        <item>MULTAI - MTY</item>
+        <item>MUMBAI CENTRAL - BCT</item>
+        <item>MUMBAI CST - CSTM</item>
+        <item>MUNABAO - MBF</item>
+        <item>MUNDALARAM - MDLM</item>
+        <item>MUNDERWA - MND</item>
+        <item>MUNDHA PANDE - MPH</item>
+        <item>MUNDHEWADI - MVE</item>
+        <item>MUNDIKOTA - MNU</item>
+        <item>MUNDILYAMPAKKAM - MYP</item>
+        <item>MUNGAIAKAMI - MGKM</item>
+        <item>MUNGAOLI - MNV</item>
+        <item>MUNIGUDA - MNGD</item>
+        <item>MUNIRABAD - MRB</item>
+        <item>MUNROTURUTTU - MQO</item>
+        <item>MUNUMAKA - MUK</item>
+        <item>MUPA - MUPA</item>
+        <item>MURADNAGAR - MUD</item>
+        <item>MURAGACHA - MGM</item>
+        <item>MURARAI - MRR</item>
+        <item>MURARPUR - MPY</item>
+        <item>MURDESHWAR - MDRW</item>
+        <item>MURDESHWAR - MRDW</item>
+        <item>MURHIPAR - MUP</item>
+        <item>MURI - MURI</item>
+        <item>MURIBAHAL - MRBL</item>
+        <item>MURKEONGSELEK - MZS</item>
+        <item>MURLIGANJ - MRIJ</item>
+        <item>MURSAN - MSN</item>
+        <item>MURSHADPUR - MSDR</item>
+        <item>MURSHIDABAD - MBB</item>
+        <item>MURTAJAPUR - MZR</item>
+        <item>MURUD - MRX</item>
+        <item>MURUKKAMPUZHA - MQU</item>
+        <item>MUSAFIR KHANA - MFKA</item>
+        <item>MUSRA - MUA</item>
+        <item>MUSTABADA - MBD</item>
+        <item>MUSTAFABAD - MFB</item>
+        <item>MUTHALAMADA - MMDA</item>
+        <item>MUTUPET - MTT</item>
+        <item>MUZAFFARNAGAR - MOZ</item>
+        <item>MUZAFFARPUR JN - MFP</item>
+        <item>MUZZAMPUR NRYN - MZM</item>
+        <item>MYSORE JN - MYS</item>
+        <item>N GHAZIABAD - GZN</item>
+        <item>N J RAMANAL - NJM</item>
+        <item>NABADWIP DHAM - NDAE</item>
+        <item>NABENAGAR ROAD - NBG</item>
+        <item>NABHA - NBA</item>
+        <item>NABIPUR - NIU</item>
+        <item>NADAUJ - NDU</item>
+        <item>NADBAI - NBI</item>
+        <item>NADIAD JN - ND</item>
+        <item>NADIKODE - NDKD</item>
+        <item>NADWAN - NDW</item>
+        <item>NAGAL - NGL</item>
+        <item>NAGALAPALLE - NPL</item>
+        <item>NAGANAHALLI - NHY</item>
+        <item>NAGANSUR - NGS</item>
+        <item>NAGAPPATTINAM - NGT</item>
+        <item>NAGAR - NGE</item>
+        <item>NAGAR UNTARI - NUQ</item>
+        <item>NAGARI - NG</item>
+        <item>NAGARI - NGI</item>
+        <item>NAGARIA SADAT - NRS</item>
+        <item>NAGARSOL - NSL</item>
+        <item>NAGARUR - NRR</item>
+        <item>NAGARWARA - NWA</item>
+        <item>NAGAUR - NGO</item>
+        <item>NAGBHIR JN - NAB</item>
+        <item>NAGDA JN - NAD</item>
+        <item>NAGER COIL TOWN - NJT</item>
+        <item>NAGERCOIL JN - NCJ</item>
+        <item>NAGERCOIL O A - NGK</item>
+        <item>NAGINA - NGG</item>
+        <item>NAGIREDDIPALLI - NRDP</item>
+        <item>NAGLATULA - NGLT</item>
+        <item>NAGORE - NCR</item>
+        <item>NAGOTHANE - NGTN</item>
+        <item>NAGPUR - NGP</item>
+        <item>NAGPUR ROAD - NPRD</item>
+        <item>NAHARKATIYA - NHK</item>
+        <item>NAIHATI JN - NH</item>
+        <item>NAIKHERI - NKI</item>
+        <item>NAILA - NIA</item>
+        <item>NAINI - NYN</item>
+        <item>NAINPUR JN - NIR</item>
+        <item>NAJIBABAD JN - NBD</item>
+        <item>NAKKANADODDI - NKDO</item>
+        <item>NAKODAR JN - NRO</item>
+        <item>NAL HALT - NAL</item>
+        <item>NALANDA - NLD</item>
+        <item>NALBARI - NLV</item>
+        <item>NALGONDA - NLDA</item>
+        <item>NALHATI JN - NHT</item>
+        <item>NALIYA - NLY</item>
+        <item>NALIYA CANTT - NLC</item>
+        <item>NALLAPADU - NLPD</item>
+        <item>NALOI BARWA - BVZ</item>
+        <item>NALWAR - NW</item>
+        <item>NAMBURU - NBR</item>
+        <item>NAMKON - NKM</item>
+        <item>NAMLI - NLI</item>
+        <item>NAMRUP - NAM</item>
+        <item>NANA - NANA</item>
+        <item>NANDALUR - NRE</item>
+        <item>NANDAPUR - NDPR</item>
+        <item>NANDESARI - NDR</item>
+        <item>NANDGANJ - NDJ</item>
+        <item>NANDGAON - NGN</item>
+        <item>NANDGAON ROAD - NAN</item>
+        <item>NANDOL DEHEGAM - NHM</item>
+        <item>NANDRE - NDE</item>
+        <item>NANDURA - NN</item>
+        <item>NANDURBAR - NDB</item>
+        <item>NANDYAL - NDL</item>
+        <item>NANGAL DAM - NLDM</item>
+        <item>NANGAL DEGROTA - NDRT</item>
+        <item>NANGAL MUNDI - NNU</item>
+        <item>NANGLOI - NNO</item>
+        <item>NANGUNERI - NNN</item>
+        <item>NANNILAM - NNM</item>
+        <item>NANPARA JN - NNP</item>
+        <item>NANWAN - NWN</item>
+        <item>NAPASAR - NPS</item>
+        <item>NARAIKKINAR - NRK</item>
+        <item>NARAINA - NRI</item>
+        <item>NARANGI - NNGE</item>
+        <item>NARANJIPUR - NRGR</item>
+        <item>NARANPUR - NANR</item>
+        <item>NARASAPUR - NS</item>
+        <item>NARASARAOPET - NRT</item>
+        <item>NARASINGAPALLI - NASP</item>
+        <item>NARAYANAPURAM - NRYP</item>
+        <item>NARAYANPET ROAD - NRPD</item>
+        <item>NARAYANPUR - NNR</item>
+        <item>NARAYNPUR ANANT - NRPA</item>
+        <item>NARDANA - NDN</item>
+        <item>NARELA - NUR</item>
+        <item>NARHAN - NRN</item>
+        <item>NARI ROAD - NROD</item>
+        <item>NARIAOLI - NOI</item>
+        <item>NARIYAR - NRV</item>
+        <item>NARKATIAGANJ JN - NKE</item>
+        <item>NARKHER - NRKR</item>
+        <item>NARNAUL - NNL</item>
+        <item>NARODA - NRD</item>
+        <item>NARSINGHPUR - NU</item>
+        <item>NARSIPATNAM RD - NRP</item>
+        <item>NARWANA JN - NRW</item>
+        <item>NARWASI - NRWI</item>
+        <item>NASIK ROAD - NK</item>
+        <item>NASIRABAD - NSD</item>
+        <item>NASRALA - NAS</item>
+        <item>NATHNAGAR - NAT</item>
+        <item>NATHWANA - NTZ</item>
+        <item>NAUGACHIA - NNA</item>
+        <item>NAUGANWAN - NGW</item>
+        <item>NAUPADA JN - NWP</item>
+        <item>NAUTANWA - NTV</item>
+        <item>NAVABPALEM - NBM</item>
+        <item>NAVADE ROAD - NVRD</item>
+        <item>NAVAGADH - NUD</item>
+        <item>NAVALUR - NVU</item>
+        <item>NAVAPUR - NWU</item>
+        <item>NAVIPET - NVT</item>
+        <item>NAVSARI - NVS</item>
+        <item>NAWA CITY - NAC</item>
+        <item>NAWADAH - NWD</item>
+        <item>NAWAGAON - NVG</item>
+        <item>NAWALGARH - NWH</item>
+        <item>NAWALGOHAN - NVLN</item>
+        <item>NAWAN - NAWN</item>
+        <item>NAWANDGI - NAW</item>
+        <item>NAWAPARA ROAD - NPD</item>
+        <item>NAYA AZADPUR - NDAZ</item>
+        <item>NAYA KHARADIA - NYK</item>
+        <item>NAYA NANGAL - NNGL</item>
+        <item>NAYADUPETA - NYP</item>
+        <item>NAYAGAON - NYO</item>
+        <item>NAYANDAHALLI - NYH</item>
+        <item>NAZARETH - NZT</item>
+        <item>NAZIRGANJ - NAZJ</item>
+        <item>NEKONDA - NKD</item>
+        <item>NELLIKUPPAN - NPM</item>
+        <item>NELLIMARIA - NML</item>
+        <item>NELLORE - NLR</item>
+        <item>NELLORE SOUTH - NLS</item>
+        <item>NENPUR - NEP</item>
+        <item>NEORA - NEO</item>
+        <item>NEPANAGAR - NPNR</item>
+        <item>NERAL - NRL</item>
+        <item>NERGUNDI - NRG</item>
+        <item>NEW ALIPURDAUR - NOQ</item>
+        <item>NEW BHUJ - NBVJ</item>
+        <item>NEW BONGAIGAON - NBQ</item>
+        <item>NEW COOCH BEHAR - NCB</item>
+        <item>NEW DELHI - NDLS</item>
+        <item>NEW FARAKKA JN - NFK</item>
+        <item>NEW GUNTUR - NGNT</item>
+        <item>NEW JALPAIGURI - NJP</item>
+        <item>NEW MAL JN - NMZ</item>
+        <item>NEW MAYNAGURI - NMX</item>
+        <item>NEW MISAMARI - NMM</item>
+        <item>NEW TINSUKIA JN - NTSK</item>
+        <item>NEYVELI - NVL</item>
+        <item>NEYYATTINKARA - NYY</item>
+        <item>NIBHAPUR - NBP</item>
+        <item>NIDADAVOLU JN - NDD</item>
+        <item>NIDIGALLU - NDZ</item>
+        <item>NIDUBROLU - NDO</item>
+        <item>NIDUR - NID</item>
+        <item>NIGAURA - NIQ</item>
+        <item>NIGOHAN - NHN</item>
+        <item>NIHALGARH - NHH</item>
+        <item>NILAJE - NILD</item>
+        <item>NILESHWAR - NLE</item>
+        <item>NILOKHERI - NLKR</item>
+        <item>NIM KA THANA - NMK</item>
+        <item>NIMACH - NMH</item>
+        <item>NIMAR KHERI - NKR</item>
+        <item>NIMBAHERA - NBH</item>
+        <item>NIMBAL - NBL</item>
+        <item>NIMBHORA - NB</item>
+        <item>NIMDIH - NIM</item>
+        <item>NIMPURA - NMP</item>
+        <item>NIMTITA - NILE</item>
+        <item>NINDHAR BENAR - NDH</item>
+        <item>NINGALA JN - NGA</item>
+        <item>NIPANI VADGAON - NPW</item>
+        <item>NIPANIA - NPI</item>
+        <item>NIPHAD - NR</item>
+        <item>NIRA - NIRA</item>
+        <item>NIRAKARPUR - NKP</item>
+        <item>NIRMALI - NMA</item>
+        <item>NISUI - NSU</item>
+        <item>NIVARI - NEW</item>
+        <item>NIVASAR - NIV</item>
+        <item>NIWAR - NWR</item>
+        <item>NIWAS ROAD - NWB</item>
+        <item>NIYOL - NOL</item>
+        <item>NIZAMABAD - NZB</item>
+        <item>NIZAMPUR - NIP</item>
+        <item>NIZBARGANJ - NBX</item>
+        <item>NIZCHATIA - NCA</item>
+        <item>NOADAR DHAL - NRX</item>
+        <item>NOAMUNDI - NOMD</item>
+        <item>NOHAR - NHR</item>
+        <item>NOKHA - NOK</item>
+        <item>NOKHRA - NKRA</item>
+        <item>NOMODA - NMD</item>
+        <item>NONERA - NNE</item>
+        <item>NORLA ROAD - NRLR</item>
+        <item>NORTH LAKHIMPUR - NLP</item>
+        <item>NOSARIA - NOA</item>
+        <item>NOWROZABAD - NRZB</item>
+        <item>NRYNPUR TATWAR - NNW</item>
+        <item>NSC BOSE J GOMO - GMO</item>
+        <item>NUA - NUA</item>
+        <item>NUAGAON - NXN</item>
+        <item>NUDURUPADU - NDPU</item>
+        <item>NUJELLA - NUJ</item>
+        <item>NUMALIGARH - NMGY</item>
+        <item>NUNKHAR - NRA</item>
+        <item>NURMAHAL - NRM</item>
+        <item>NUZVID - NZD</item>
+        <item>OBAIDULLA GANJ - ODG</item>
+        <item>OBRA DAM - OBR</item>
+        <item>OBULAVARIPALLI - OBVP</item>
+        <item>ODDAM HATRAM - ODC</item>
+        <item>ODDARAHALLI - ORH</item>
+        <item>ODELA - OEA</item>
+        <item>ODHA - ODHA</item>
+        <item>OKHA - OKHA</item>
+        <item>OKHA MADHI - OKD</item>
+        <item>OKHLA - OKA</item>
+        <item>OLAKUR - OLA</item>
+        <item>OLD MALDA - OMLF</item>
+        <item>OMALUR - OML</item>
+        <item>OMKARESHWAR RD - OM</item>
+        <item>ONDAGRAM - ODM</item>
+        <item>ONGOLE - OGL</item>
+        <item>ONTIMITTA - VNM</item>
+        <item>ORAI - ORAI</item>
+        <item>ORGA - ORGA</item>
+        <item>ORR - ORR</item>
+        <item>OSIYAN - OSN</item>
+        <item>OSRA - OSRA</item>
+        <item>OTIVAKKAM - OV</item>
+        <item>OTTAPPALAM - OTP</item>
+        <item>PABAI - PAI</item>
+        <item>PABLI KHAS - PQY</item>
+        <item>PACHHAPUR - PCH</item>
+        <item>PACHOR ROAD - PFR</item>
+        <item>PACHORA JN - PC</item>
+        <item>PACHWAN - PNWN</item>
+        <item>PADADHARI - PDH</item>
+        <item>PADALAM - PTM</item>
+        <item>PADHEGAON - PDGN</item>
+        <item>PADLA - PDQ</item>
+        <item>PADNUR - PDNR</item>
+        <item>PADRIGANJ - PNJ</item>
+        <item>PADSE - PDP</item>
+        <item>PADUA - PFU</item>
+        <item>PADUBIDRI - PDD</item>
+        <item>PADUGUPADU - PGU</item>
+        <item>PAGARA - PGA</item>
+        <item>PAGLA CHANDI - PCX</item>
+        <item>PAHARPUR - PRP</item>
+        <item>PAHARSAR - PRSR</item>
+        <item>PAJIAN - PJA</item>
+        <item>PAKALA JN - PAK</item>
+        <item>PAKKAM - PQM</item>
+        <item>PAKKI - PKK</item>
+        <item>PAKNI - PK</item>
+        <item>PAKUR - PKR</item>
+        <item>PALACHAURI - PCLI</item>
+        <item>PALAIYAM - PALM</item>
+        <item>PALAKKAD - PGT</item>
+        <item>PALAKKODU - PCV</item>
+        <item>PALAKOLLU - PKO</item>
+        <item>PALAM - PM</item>
+        <item>PALAMPUR HMCHL - PLMX</item>
+        <item>PALANA - PAE</item>
+        <item>PALANI - PLNI</item>
+        <item>PALANPUR JN - PNU</item>
+        <item>PALAPPURAM - PLPM</item>
+        <item>PALARI - PUE</item>
+        <item>PALASA - PSA</item>
+        <item>PALDHI - PLD</item>
+        <item>PALEJ - PLJ</item>
+        <item>PALGHAR - PLG</item>
+        <item>PALGHAT TOWN - PGTN</item>
+        <item>PALI MARWAR - PMY</item>
+        <item>PALIA - PLA</item>
+        <item>PALIA KALAN - PLK</item>
+        <item>PALIBA - PBV</item>
+        <item>PALIKONA - POA</item>
+        <item>PALLIKERE - PKP</item>
+        <item>PALLIYADI - PYD</item>
+        <item>PALSANA - PLSN</item>
+        <item>PALWAL - PWL</item>
+        <item>PAMAN - PMN</item>
+        <item>PAMBAN JN - PBM</item>
+        <item>PANAGARH - PAN</item>
+        <item>PANANGUDI - PNGI</item>
+        <item>PANAPAKAM - PAM</item>
+        <item>PANCH PIPILA - PCN</item>
+        <item>PANCHALAM - PCLM</item>
+        <item>PANCHGRAM - PNGM</item>
+        <item>PANCHRA - PCR</item>
+        <item>PANDABESWAR - PAW</item>
+        <item>PANDAUL - PDW</item>
+        <item>PANDAVAPURA - PANP</item>
+        <item>PANDHARPUR - PVR</item>
+        <item>PANDHURNA - PAR</item>
+        <item>PANDOLI - PMO</item>
+        <item>PANGAON - PNF</item>
+        <item>PANGRI - PJR</item>
+        <item>PANIAHWA - PNYA</item>
+        <item>PANIAJOB - PJB</item>
+        <item>PANIPAT JN - PNP</item>
+        <item>PANKI - PNK</item>
+        <item>PANOLI - PAO</item>
+        <item>PANPALI - PNPL</item>
+        <item>PANPOSH - PPO</item>
+        <item>PANRUTI - PRT</item>
+        <item>PANSAR - PN</item>
+        <item>PANSKURA - PKU</item>
+        <item>PANTNAGAR - PBW</item>
+        <item>PANVEL - PNVL</item>
+        <item>PANYAM - PNM</item>
+        <item>PAPANASAM - PML</item>
+        <item>PAPINAYAKNAHALI - PKL</item>
+        <item>PARADGAON - PDG</item>
+        <item>PARADIP - PRDP</item>
+        <item>PARADOL - PRDL</item>
+        <item>PARADSINGA HALT - PSK</item>
+        <item>PARAIYA - PRY</item>
+        <item>PARAMAKKUDI - PMK</item>
+        <item>PARANGIPETTAI - PO</item>
+        <item>PARAS - PS</item>
+        <item>PARASHSHALA - PASA</item>
+        <item>PARASIA - PUX</item>
+        <item>PARASNATH - PNME</item>
+        <item>PARAVUR - PVU</item>
+        <item>PARBATI - PRB</item>
+        <item>PARBHANI JN - PBN</item>
+        <item>PARDI - PAD</item>
+        <item>PAREWADI - PRWD</item>
+        <item>PARISAL - PSL</item>
+        <item>PARKANHATTI - PRKH</item>
+        <item>PARLI - PLL</item>
+        <item>PARLI VAIJNATH - PRLI</item>
+        <item>PARLU - PRU</item>
+        <item>PARMANANDPUR - PMU</item>
+        <item>PARPANANGADI - PGI</item>
+        <item>PARSA KHERA - PKRA</item>
+        <item>PARSABAD - PSB</item>
+        <item>PARSIPUR - PRF</item>
+        <item>PARSODA - PSD</item>
+        <item>PARSOLI - PSLI</item>
+        <item>PARTAPGARH JN - PBH</item>
+        <item>PARTAPUR - PRTP</item>
+        <item>PARTUR - PTU</item>
+        <item>PARVATIPURAM - PVP</item>
+        <item>PARVATIPURAM TN - PVPT</item>
+        <item>PARVEZPUR - PVZ</item>
+        <item>PASIVEDALA - PSDA</item>
+        <item>PASRAHA - PSR</item>
+        <item>PATAKOTTACHERU - PLU</item>
+        <item>PATAL PANI - PTP</item>
+        <item>PATANSAONGI - PTS</item>
+        <item>PATARA - PTRE</item>
+        <item>PATAS - PAA</item>
+        <item>PATAUDI ROAD - PTRD</item>
+        <item>PATCHUR - PU</item>
+        <item>PATELNAGAR - PTNR</item>
+        <item>PATHANKOT - PTK</item>
+        <item>PATHARDIH JN - PEH</item>
+        <item>PATHARIA - PHA</item>
+        <item>PATHARKANDI - PTKD</item>
+        <item>PATHAULI - PTLI</item>
+        <item>PATHRAD - PARD</item>
+        <item>PATHRALA - PTRL</item>
+        <item>PATHRI - PRI</item>
+        <item>PATHSALA - PBL</item>
+        <item>PATIALA - PTA</item>
+        <item>PATNA JN - PNBE</item>
+        <item>PATNA SAHEB - PNC</item>
+        <item>PATRANGA - PTH</item>
+        <item>PATRATU - PTRU</item>
+        <item>PATSUL - PTZ</item>
+        <item>PATTAMBI - PTB</item>
+        <item>PATTI - PAX</item>
+        <item>PATTUKOTTAI - PKT</item>
+        <item>PAWAPURI ROAD - PQE</item>
+        <item>PAYAGPUR - PDR</item>
+        <item>PAYANGADI - PAZ</item>
+        <item>PAYYANUR - PAY</item>
+        <item>PAYYOLI - PYOL</item>
+        <item>PEDABRAMADVAM - PBD</item>
+        <item>PEDANA - PAV</item>
+        <item>PEDDA AVUTAPALE - PAVP</item>
+        <item>PEDDAKURAPADU - PKPU</item>
+        <item>PEDDAPALLI - PDPL</item>
+        <item>PEDDAVADIAPUDI - PVD</item>
+        <item>PEDDEMPET - PPZ</item>
+        <item>PEMBARTI - PBP</item>
+        <item>PEN - PEN</item>
+        <item>PENDEKALLU - PDL</item>
+        <item>PENDRA ROAD - PND</item>
+        <item>PENDURTI - PDT</item>
+        <item>PENGANGA - PGG</item>
+        <item>PENNADA AGRHRM - PAGM</item>
+        <item>PENNADAM - PNDM</item>
+        <item>PENUKONDA - PKD</item>
+        <item>PENUMARRU - PUMU</item>
+        <item>PERALAM JN - PEM</item>
+        <item>PERAMBUR - PER</item>
+        <item>PERANI - PEI</item>
+        <item>PERAVURANI - PVI</item>
+        <item>PERECHERLA - PRCA</item>
+        <item>PERGAON - PG</item>
+        <item>PERNEM - PERN</item>
+        <item>PERUNGUZHI - PGZ</item>
+        <item>PETTAIVAYATALAI - PLI</item>
+        <item>PEYANAPALLI - PYX</item>
+        <item>PHAGWARA JN - PGW</item>
+        <item>PHALODI - PLC</item>
+        <item>PHANDA - PUD</item>
+        <item>PHAPHAMAU JN - PFM</item>
+        <item>PHAPHUND - PHD</item>
+        <item>PHEPHNA JN - PEP</item>
+        <item>PHESAR - PES</item>
+        <item>PHIDING - PDJ</item>
+        <item>PHILLAUR JN - PHR</item>
+        <item>PHIRANGIPURAM - PPM</item>
+        <item>PHULERA JN - FL</item>
+        <item>PHULESWAR - FLR</item>
+        <item>PHULPUR - PLP</item>
+        <item>PHULWARI SHARIF - PWS</item>
+        <item>PHULWARTANR - PLJE</item>
+        <item>PHUSRO - PUS</item>
+        <item>PIARDOBA - PBA</item>
+        <item>PICHKURIRDHAL - PCQ</item>
+        <item>PIDUGURALLA - PGRL</item>
+        <item>PILAMEDU - PLMD</item>
+        <item>PILI BANGAN - PGK</item>
+        <item>PILIBHIT JN - PBE</item>
+        <item>PILIODA - PDZ</item>
+        <item>PILKHUA - PKW</item>
+        <item>PIMPALKHUTI - PMKT</item>
+        <item>PIMPRI - PMP</item>
+        <item>PINDLAI - PQL</item>
+        <item>PINDRA ROAD - PDRD</item>
+        <item>PINDRAI - PDE</item>
+        <item>PINGLESHWAR - PLW</item>
+        <item>PINGLI - PIZ</item>
+        <item>PIPALDA ROAD - POR</item>
+        <item>PIPALSANA - PLS</item>
+        <item>PIPAR ROAD JN - PPR</item>
+        <item>PIPARAHAN HALT - PPRH</item>
+        <item>PIPARDAHI - PED</item>
+        <item>PIPARIYA - PPI</item>
+        <item>PIPARSAND - POF</item>
+        <item>PIPLA HALT - PQA</item>
+        <item>PIPLAJ - PPF</item>
+        <item>PIPLEE - PLE</item>
+        <item>PIPLI - PPLI</item>
+        <item>PIPLIA - PIP</item>
+        <item>PIPLOD JN - PPD</item>
+        <item>PIPLODA BAGLA - PPG</item>
+        <item>PIPRA - PPA</item>
+        <item>PIPRAICH - PPC</item>
+        <item>PIPRAIGAON - PIA</item>
+        <item>PIPRALA - PFL</item>
+        <item>PIPRI DIH - PPH</item>
+        <item>PIR UMROD - PUO</item>
+        <item>PIRAVAM ROAD - PVRD</item>
+        <item>PIRDULESHA HALT - PRDH</item>
+        <item>PIRJHALAR - PJH</item>
+        <item>PIRPAINTI - PPT</item>
+        <item>PIRTALA - PRTL</item>
+        <item>PIRTHIGANJ - PHV</item>
+        <item>PIRUMADARA - PRM</item>
+        <item>PITAMBARPUR - PMR</item>
+        <item>PITHAPURAM - PAP</item>
+        <item>PLASSEY - PLY</item>
+        <item>PMBAKVL SHANDY - PBKS</item>
+        <item>POCHARAM - PCZ</item>
+        <item>PODANUR JN - PTJ</item>
+        <item>POKHARNI NRSNHA - PKNS</item>
+        <item>POKHRAYAN - PHN</item>
+        <item>POKLA - PKF</item>
+        <item>POKRAN - POK</item>
+        <item>POLLACHI JN - POY</item>
+        <item>POLUR - PRL</item>
+        <item>PONDURU - PDU</item>
+        <item>PONMLAI GLD RCK - GOC</item>
+        <item>POPHLAJ - PPJ</item>
+        <item>PORBANDAR - PBR</item>
+        <item>POSOTIA - PST</item>
+        <item>POTHAHI - PFT</item>
+        <item>POTKAPALLI - PTKP</item>
+        <item>POTLAPADU - POO</item>
+        <item>POTUL - POZ</item>
+        <item>POWERKHEDA - PRKD</item>
+        <item>POWERPET - PRH</item>
+        <item>PRADHANKHUNTA - PKA</item>
+        <item>PRANTIJ - PRJ</item>
+        <item>PRANTIK - PNE</item>
+        <item>PRATTIAPADU - PTPU</item>
+        <item>PRAYAG - PRG</item>
+        <item>PRITAM NAGAR - PRNG</item>
+        <item>PRSHTAMPATNAM - PRPT</item>
+        <item>PTNSNGI TWN HLT - PSX</item>
+        <item>PUDUCHERRY - PDY</item>
+        <item>PUDUKAD - PUK</item>
+        <item>PUDUKKOTTAI - PDKT</item>
+        <item>PUDUNAGARAM - PDGM</item>
+        <item>PUGALUR - PGR</item>
+        <item>PULGAON JN - PLO</item>
+        <item>PULLA - PUA</item>
+        <item>PULLAMPET - PMT</item>
+        <item>PUNALUR - PUU</item>
+        <item>PUNARAKH - PHK</item>
+        <item>PUNDHAG - PNW</item>
+        <item>PUNDI - PUN</item>
+        <item>PUNDOOAH - PDA</item>
+        <item>PUNE JN - PUNE</item>
+        <item>PUNKUNNAM - PNQ</item>
+        <item>PUNPUN - PPN</item>
+        <item>PUNSIA - PNSA</item>
+        <item>PUNTAMBA - PB</item>
+        <item>PUNTHOTTAM - POM</item>
+        <item>PURAINI - PNI</item>
+        <item>PURANPUR - PP</item>
+        <item>PURI - PURI</item>
+        <item>PURNA JN - PAU</item>
+        <item>PURNIA COURT - PRNC</item>
+        <item>PURNIA JN - PRNA</item>
+        <item>PURUA KHERA - PRKE</item>
+        <item>PURULIA JN - PRR</item>
+        <item>PUTALAPATTU - PTT</item>
+        <item>PUTLACHERUVU - PCU</item>
+        <item>PUTTUR - PUT</item>
+        <item>PWN KLAKNDER RD - PQN</item>
+        <item>QUILANDI - QLD</item>
+        <item>QUILON - QLNN</item>
+        <item>RACHAGUNNARI - RCG</item>
+        <item>RADHAKISHOREPUR - RQP</item>
+        <item>RADHANPUR - RDHP</item>
+        <item>RADHIKAPUR - RDP</item>
+        <item>RAE BARELI JN - RBL</item>
+        <item>RAFIGANJ - RFJ</item>
+        <item>RAGAUL - RGU</item>
+        <item>RAGHAVAPURAM - RGPM</item>
+        <item>RAGHUNATHPALLI - RGP</item>
+        <item>RAGHUNATHPUR - RCTC</item>
+        <item>RAGHUNATHPUR - RPR</item>
+        <item>RAHAMA - RHMA</item>
+        <item>RAHENBATA - RNBT</item>
+        <item>RAHIMABAD - RBD</item>
+        <item>RAHIMATPUR - RMP</item>
+        <item>RAHURI - RRI</item>
+        <item>RAICHUR - RC</item>
+        <item>RAIGADH ROAD - RGQ</item>
+        <item>RAIGANJ - RGJ</item>
+        <item>RAIGARH - RIG</item>
+        <item>RAIGIR - RAG</item>
+        <item>RAIKA BAGH - RKB</item>
+        <item>RAILA ROAD - RLR</item>
+        <item>RAIMEHATPUR - MTPR</item>
+        <item>RAIPUR JN - R</item>
+        <item>RAIRAKHOL - RAIR</item>
+        <item>RAISI - RSI</item>
+        <item>RAIWALA - RWL</item>
+        <item>RAJ GANGPUR - GP</item>
+        <item>RAJ NANDGAON - RJN</item>
+        <item>RAJA KA SAHASPR - RJK</item>
+        <item>RAJA KI MANDI - RKM</item>
+        <item>RAJALDESAR - RJR</item>
+        <item>RAJAMUNDRY - RJY</item>
+        <item>RAJANAGAR - RJA</item>
+        <item>RAJANKUNTI - RNN</item>
+        <item>RAJAPALAYAM - RJPM</item>
+        <item>RAJAPUR - RJAP</item>
+        <item>RAJAPUR ROAD - RAJP</item>
+        <item>RAJAWARI - RJI</item>
+        <item>RAJENDRA PUL - RJO</item>
+        <item>RAJENDRANAGAR - RJQ</item>
+        <item>RAJGARH - RHG</item>
+        <item>RAJGHAT NARORA - RG</item>
+        <item>RAJGIR - RGD</item>
+        <item>RAJGRAM - RJG</item>
+        <item>RAJIYASAR - RJS</item>
+        <item>RAJKHARSAWAN JN - RKSN</item>
+        <item>RAJKIAWAS - RKZ</item>
+        <item>RAJKOT JN - RJT</item>
+        <item>RAJLU GARHI - RUG</item>
+        <item>RAJMANE - RM</item>
+        <item>RAJOSI - ROS</item>
+        <item>RAJPURA JN - RPJ</item>
+        <item>RAJULA JN - RLA</item>
+        <item>RAKHA MINES - RHE</item>
+        <item>RAKHI - RHI</item>
+        <item>RAKHIYAL - RKH</item>
+        <item>RAM CHAURA ROAD - RMC</item>
+        <item>RAM NAGAR J K - RMJK</item>
+        <item>RAMAKONA - RMO</item>
+        <item>RAMAN - RMN</item>
+        <item>RAMANAGARAM - RMGM</item>
+        <item>RAMANATHAPURAM - RMD</item>
+        <item>RAMANNAPET - RMNP</item>
+        <item>RAMAPURAM - RAM</item>
+        <item>RAMARAJU PALLI - RRJ</item>
+        <item>RAMBHA - RBA</item>
+        <item>RAMBHADDARPUR - RBZ</item>
+        <item>RAMDEVRA - RDRA</item>
+        <item>RAMESWARAM - RMM</item>
+        <item>RAMGANGA - RGB</item>
+        <item>RAMGANJ MANDI - RMA</item>
+        <item>RAMGARH CANT - RMT</item>
+        <item>RAMGARHWA - RGH</item>
+        <item>RAMGIRI - RGI</item>
+        <item>RAMGUNDAM - RDM</item>
+        <item>RAMNA - RMF</item>
+        <item>RAMNAGAR - RMR</item>
+        <item>RAMNAGAR BENGAL - RMRB</item>
+        <item>RAMPARDA - RA</item>
+        <item>RAMPUR - RMU</item>
+        <item>RAMPUR BAZAR - RMPB</item>
+        <item>RAMPUR DUMRA - RDUM</item>
+        <item>RAMPUR HAT - RPH</item>
+        <item>RAMPURA BERI - RMB</item>
+        <item>RAMPURA PHUL - PUL</item>
+        <item>RAMSAGAR - RSG</item>
+        <item>RAMSAN - RXN</item>
+        <item>RAMTEK - RTK</item>
+        <item>RANAGHAT JN - RHA</item>
+        <item>RANALA - RNL</item>
+        <item>RANAPRATAPNAGAR - RPZ</item>
+        <item>RANAVAV - RWO</item>
+        <item>RANCHI - RNC</item>
+        <item>RANCHI ROAD - RRME</item>
+        <item>RANGALITING - RNGG</item>
+        <item>RANGAPARA NORTH - RPAN</item>
+        <item>RANGAPURAM - RGM</item>
+        <item>RANGAREDDY GUDA - RRGA</item>
+        <item>RANGIYA JN - RNY</item>
+        <item>RANGMAHAL - RMH</item>
+        <item>RANGTONG - RTG</item>
+        <item>RANI - RANI</item>
+        <item>RANIBENNUR - RNR</item>
+        <item>RANIGANJ - RNG</item>
+        <item>RANIWARA - RNV</item>
+        <item>RANJANGAON RD - RNJD</item>
+        <item>RANJANI - RNE</item>
+        <item>RANOLI - RNO</item>
+        <item>RANOLISHISHU - RNIS</item>
+        <item>RANPUR - RUR</item>
+        <item>RANTHAMBHORE - RNT</item>
+        <item>RAOTI - RTI</item>
+        <item>RASANA - RSNA</item>
+        <item>RASAYANI - RSYI</item>
+        <item>RASRA - RSR</item>
+        <item>RASULABAD - RUB</item>
+        <item>RASULL - RES</item>
+        <item>RASURIYA - RYS</item>
+        <item>RATAN SHAHR - RSH</item>
+        <item>RATANGARH JN - RTGH</item>
+        <item>RATANGARH WEST - RXW</item>
+        <item>RATANPUR - RPUR</item>
+        <item>RATANPURA - RTP</item>
+        <item>RATHDHANA - RDDE</item>
+        <item>RATLAM JN - RTM</item>
+        <item>RATNAGIRI - RN</item>
+        <item>RATNAL - RUT</item>
+        <item>RAU - RAU</item>
+        <item>RAULI - RUL</item>
+        <item>RAUZAGAON - RZN</item>
+        <item>RAVER - RV</item>
+        <item>RAVIKAMPADU - RVD</item>
+        <item>RAVINDRAKHANI - RVKH</item>
+        <item>RAVTHA ROAD - RDT</item>
+        <item>RAWANIA DUNGAR - RWJ</item>
+        <item>RAWATPUR - RPO</item>
+        <item>RAXAUL JN - RXL</item>
+        <item>RAY - RAY</item>
+        <item>RAYA - RAYA</item>
+        <item>RAYADRUG - RDG</item>
+        <item>RAYAGADA - RGDA</item>
+        <item>RAYAKA - RY</item>
+        <item>RAYALCHERUVU - RLO</item>
+        <item>RAYANAPAD - RYP</item>
+        <item>RAYBAG - RBG</item>
+        <item>RAZAMPETA - RJP</item>
+        <item>RECHNI ROAD - RECH</item>
+        <item>REDDIPALLE - RPL</item>
+        <item>REGADIPALLI - RLL</item>
+        <item>REGUPALEM - REG</item>
+        <item>REJINAGAR - REJ</item>
+        <item>REN - REN</item>
+        <item>RENGALI - RGL</item>
+        <item>RENIGUNTA JN - RU</item>
+        <item>RENUKUT - RNQ</item>
+        <item>RENWAL - RNW</item>
+        <item>REOTI - ROI</item>
+        <item>REOTI B KHERA - RBK</item>
+        <item>REPALLE - RAL</item>
+        <item>RETHORAKALAN - RAKL</item>
+        <item>REWA - REWA</item>
+        <item>REWARI - RE</item>
+        <item>REWRAL - RRL</item>
+        <item>RICHHA ROAD - RR</item>
+        <item>RIKHABDEV ROAD - RDD</item>
+        <item>RINGAS JN - RGS</item>
+        <item>RISHIKESH - RKSH</item>
+        <item>RISIA - RS</item>
+        <item>RITHI - REI</item>
+        <item>RJNDR NGR BIHAR - RJPB</item>
+        <item>RMGRH SHEKHWATI - RSWT</item>
+        <item>RMKRSHNAPRM GTE - RKO</item>
+        <item>RNINGR JLPAIGRI - RQJ</item>
+        <item>ROBERTS GANJ - RBGJ</item>
+        <item>ROBERTSON - ROB</item>
+        <item>ROHA - ROHA</item>
+        <item>ROHANA KALAN - RNA</item>
+        <item>ROHAT - RT</item>
+        <item>ROHTAK JN - ROK</item>
+        <item>ROORKEE - RK</item>
+        <item>ROSHANPUR - RHN</item>
+        <item>ROTEGAON - RGO</item>
+        <item>ROURKELA - ROU</item>
+        <item>ROWRIAH SDG - RWH</item>
+        <item>ROWTA BAGAN - RWTB</item>
+        <item>ROZA JN - ROZA</item>
+        <item>RUDAULI - RDL</item>
+        <item>RUDRAPUR CITY - RUPC</item>
+        <item>RUKADI - RKD</item>
+        <item>RUKMAPUR - RMY</item>
+        <item>RUKNI - RUI</item>
+        <item>RUNIJA - RNJ</item>
+        <item>RUNKHERA - RNH</item>
+        <item>RUPAHELI - RPI</item>
+        <item>RUPAMAU - RUM</item>
+        <item>RUPAUND - RPD</item>
+        <item>RUPBAS - RBS</item>
+        <item>RUPNAGAR - RPAR</item>
+        <item>RUPNARAYANPUR - RNPR</item>
+        <item>RUPRA ROAD - RPRD</item>
+        <item>RUPSA JN - ROP</item>
+        <item>RURA - RURA</item>
+        <item>RUSERA GHAT - ROA</item>
+        <item>RUTHIYAI - RTA</item>
+        <item>S BHAKHTIYARPUR - SBV</item>
+        <item>S K PARA - SKAP</item>
+        <item>S VENKTESWRPALM - SVPM</item>
+        <item>SABARMATI JN - SBI</item>
+        <item>SABAUR - SBO</item>
+        <item>SABLI ROAD - SR</item>
+        <item>SACHIN - SCH</item>
+        <item>SADAR BAZAR - DSB</item>
+        <item>SADASHIVAPET RD - SSPD</item>
+        <item>SADAT - SDT</item>
+        <item>SADISOPUR - SDE</item>
+        <item>SADULPUR JN - SDLP</item>
+        <item>SADULSHAHR - SDS</item>
+        <item>SAFDARGANJ - SGJ</item>
+        <item>SAFEDABAD - SFH</item>
+        <item>SAFILGUDA - SFX</item>
+        <item>SAGARDIGHI - SDI</item>
+        <item>SAGAULI JN - SGL</item>
+        <item>SAGONI - SAO</item>
+        <item>SAHARANPUR - SRE</item>
+        <item>SAHARSA JN - SHC</item>
+        <item>SAHARSRAKUND - SHSK</item>
+        <item>SAHATWAR - STW</item>
+        <item>SAHIBABAD - SBB</item>
+        <item>SAHIBGANJ JN - SBG</item>
+        <item>SAHIBPUR KML JN - SKJ</item>
+        <item>SAHIBZADA ASNGR - SASN</item>
+        <item>SAHJANWA - SWA</item>
+        <item>SAI P NILAYAM - SSPN</item>
+        <item>SAIDKHANPUR - SYK</item>
+        <item>SAIDRAJA - SYJ</item>
+        <item>SAIJ SERTHA RD - SHRD</item>
+        <item>SAINAGAR SHIRDI - SNSI</item>
+        <item>SAINTALA - SFC</item>
+        <item>SAINTHIA - SNT</item>
+        <item>SAIYID SARAWAN - SYWN</item>
+        <item>SAJIYAVADAR - SVJ</item>
+        <item>SAKALDIHA - SLD</item>
+        <item>SAKHI GOPAL - SIL</item>
+        <item>SAKHOTI TANDA - SKF</item>
+        <item>SAKHPUR - SKR</item>
+        <item>SAKHUN - SK</item>
+        <item>SAKLESHPUR - SKLR</item>
+        <item>SAKRI JN - SKI</item>
+        <item>SAKRIGALI JN - SLJ</item>
+        <item>SAKTESGARH - SKGH</item>
+        <item>SAKTI - SKT</item>
+        <item>SALAGAON - SQQ</item>
+        <item>SALAIA - SYA</item>
+        <item>SALAMATPUR - SMT</item>
+        <item>SALANPUR - SLS</item>
+        <item>SALAR - SALE</item>
+        <item>SALARPUR - SLRP</item>
+        <item>SALAUNA - SLNA</item>
+        <item>SALAWAS - SZ</item>
+        <item>SALBONI - SLB</item>
+        <item>SALCHAPRA - SCA</item>
+        <item>SALEKASA - SKS</item>
+        <item>SALEM JN - SA</item>
+        <item>SALEM TOWN - SXT</item>
+        <item>SALEMGARHMASANI - SJSM</item>
+        <item>SALEMPUR JN - SRU</item>
+        <item>SALHANA - SLHA</item>
+        <item>SALI - SALI</item>
+        <item>SALICHAUKA ROAD - SCKR</item>
+        <item>SALKAROAD - SLKR</item>
+        <item>SALOGRA - SLR</item>
+        <item>SALPURA - SYL</item>
+        <item>SALWA - SAL</item>
+        <item>SAMAKHIALI - SIO</item>
+        <item>SAMAKHIALI B G - SIOB</item>
+        <item>SAMALKHA - SMK</item>
+        <item>SAMALKOT JN - SLO</item>
+        <item>SAMALPATTI - SLY</item>
+        <item>SAMASTIPUR JN - SPJ</item>
+        <item>SAMASWARA - SMSR</item>
+        <item>SAMAYANALLUR - SER</item>
+        <item>SAMBA - SMBX</item>
+        <item>SAMBALPUR - SBP</item>
+        <item>SAMBALPUR CITY - SBPY</item>
+        <item>SAMBALPUR ROAD - SBPD</item>
+        <item>SAMBHAR LAKE - SBR</item>
+        <item>SAMBRE - SXB</item>
+        <item>SAMDHARI JN - SMR</item>
+        <item>SAMLAYA JN - SMLA</item>
+        <item>SAMNAPUR - SMC</item>
+        <item>SAMPLA - SPZ</item>
+        <item>SAMSI - SM</item>
+        <item>SAMUDRAGARH - SMAE</item>
+        <item>SAMUKTALA ROAD - SMTA</item>
+        <item>SANAHWAL - SNL</item>
+        <item>SANAND - SAU</item>
+        <item>SANAT NAGAR - SNF</item>
+        <item>SANAWAD - SWD</item>
+        <item>SANCHI - SCI</item>
+        <item>SANDAL KALAN - SLKN</item>
+        <item>SANDILA - SAN</item>
+        <item>SANEH ROAD - SNX</item>
+        <item>SANGANAPUR - SNGR</item>
+        <item>SANGANER - SNGN</item>
+        <item>SANGARIA - SGRA</item>
+        <item>SANGAT - SGF</item>
+        <item>SANGLI - SLI</item>
+        <item>SANGMESHWAR - SGR</item>
+        <item>SANGRANA SAHIB - SBS</item>
+        <item>SANGRUR - SAG</item>
+        <item>SANICHARA - SAC</item>
+        <item>SANJAN - SJN</item>
+        <item>SANK - SANK</item>
+        <item>SANKA - SNKR</item>
+        <item>SANKARANKOVIL - SNKL</item>
+        <item>SANKARIDRUG - SGE</item>
+        <item>SANKARPUR - SNQ</item>
+        <item>SANKOPARA - SXP</item>
+        <item>SANOSRA - SOA</item>
+        <item>SANSARPUR - SNRR</item>
+        <item>SANT ROAD - SAT</item>
+        <item>SANTALDIH - SNTD</item>
+        <item>SANTALPUR - SNLR</item>
+        <item>SANTAMAGULUR - SAB</item>
+        <item>SANTRAGACHI JN - SRC</item>
+        <item>SANVATSAR - SNVR</item>
+        <item>SANVERDAM CHUCH - SVM</item>
+        <item>SAONER JN - SONR</item>
+        <item>SAONGA HALT - SZH</item>
+        <item>SAPE WAMNE - SAPE</item>
+        <item>SAPEKHATI - SPK</item>
+        <item>SAPHALE - SAH</item>
+        <item>SARADHNA - SDH</item>
+        <item>SARAGBUNDIA - SRBA</item>
+        <item>SARAGCHNI - SGV</item>
+        <item>SARAI - SAI</item>
+        <item>SARAI CHANDI - SYC</item>
+        <item>SARAI KANSRAI - SQN</item>
+        <item>SARAI MIR - SMZ</item>
+        <item>SARANGPUR - SFW</item>
+        <item>SARANGPUR ROAD - SAPR</item>
+        <item>SARASWATINAGAR - SRWN</item>
+        <item>SARAYAN - SYU</item>
+        <item>SARBAHARA - SBRA</item>
+        <item>SARDARGRAM - SDGM</item>
+        <item>SARDARNAGAR - SANR</item>
+        <item>SARDARSHAHR - SRDR</item>
+        <item>SARDIHA - SUA</item>
+        <item>SAREIGRAM - SGAM</item>
+        <item>SARERI - SSR</item>
+        <item>SARKHEJ - SEJ</item>
+        <item>SARKONI - SIQ</item>
+        <item>SARNATH - SRNT</item>
+        <item>SAROLA - SRL</item>
+        <item>SAROTRA ROAD - SZA</item>
+        <item>SARSAWA - SSW</item>
+        <item>SARSI - SRSI</item>
+        <item>SARUPATHAR - SZR</item>
+        <item>SARWARI - SVD</item>
+        <item>SASAN GIR - SASG</item>
+        <item>SASARAM - SSM</item>
+        <item>SASON - SSN</item>
+        <item>SASTHANKOTTA - STKT</item>
+        <item>SATADHAR - STDR</item>
+        <item>SATARA - STR</item>
+        <item>SATHAJAGAT - STJT</item>
+        <item>SATHI - SAHI</item>
+        <item>SATHIAON - SAA</item>
+        <item>SATHIN ROAD - SWF</item>
+        <item>SATNA - STA</item>
+        <item>SATNALI - STNL</item>
+        <item>SATROD - STD</item>
+        <item>SATTENAPALLE - SAP</item>
+        <item>SATTIRAKKUDI - SQD</item>
+        <item>SATULUR - STUR</item>
+        <item>SATUNA - SCO</item>
+        <item>SATUR - SRT</item>
+        <item>SAUGOR - SGO</item>
+        <item>SAUNSHI - SNH</item>
+        <item>SAUSAR - SASR</item>
+        <item>SAVALYAPURAM - SYM</item>
+        <item>SAVANUR - SVNR</item>
+        <item>SAVARDA - SVX</item>
+        <item>SAVARKUNDLA - SVKD</item>
+        <item>SAVDA - SAV</item>
+        <item>SAVNI - SVB</item>
+        <item>SAWAI MADHOPUR - SWM</item>
+        <item>SAWALGI - SVG</item>
+        <item>SAWANTWADI ROAD - SWV</item>
+        <item>SAYAN - SYN</item>
+        <item>SBEWBABUDIH - SBW</item>
+        <item>SEALDAH - SDAH</item>
+        <item>SEC BAD TWN CB - SCTN</item>
+        <item>SECUNDERABAD JN - SC</item>
+        <item>SEHORE - SEH</item>
+        <item>SELOO ROAD - SLOR</item>
+        <item>SELU - SELU</item>
+        <item>SEMAPUR - SMO</item>
+        <item>SEMARI - SES</item>
+        <item>SEMARKHERI - SRKI</item>
+        <item>SEMRA - SRA</item>
+        <item>SENAPURA - SEN</item>
+        <item>SENDRA - SEU</item>
+        <item>SENGOTTAI - SCT</item>
+        <item>SEOHARA - SEO</item>
+        <item>SEONI - SEY</item>
+        <item>SEORAPHULI - SHE</item>
+        <item>SERAM - SEM</item>
+        <item>SERAMPORE - SRP</item>
+        <item>SETTIGUNTA - SF</item>
+        <item>SETTIHALLY - SET</item>
+        <item>SEVAGRAM - SEGM</item>
+        <item>SEWAPURI - SWPR</item>
+        <item>SEYDUNGANALLUR - SDNR</item>
+        <item>SGM JAGARLAMUDI - SJL</item>
+        <item>SHADHORAGAON - SHDR</item>
+        <item>SHADNAGAR - SHNR</item>
+        <item>SHAHABAD - SDB</item>
+        <item>SHAHBAD MARKNDA - SHDM</item>
+        <item>SHAHDOL - SDL</item>
+        <item>SHAHGANJ JN - SHG</item>
+        <item>SHAHJEHANPUR - SPN</item>
+        <item>SHAHPUR PATOREE - SPP</item>
+        <item>SHAHZAD NAGAR - SAR</item>
+        <item>SHAITANSINGHNGR - STSN</item>
+        <item>SHAJAPUR - SFY</item>
+        <item>SHAKTI NAGAR - SKTN</item>
+        <item>SHAKURBASTI - SSB</item>
+        <item>SHALASHAH THANA - SHLT</item>
+        <item>SHALIMAR - SHM</item>
+        <item>SHAM CHAURASI - SCQ</item>
+        <item>SHAMBHUPURA - SMP</item>
+        <item>SHAMGARH - SGZ</item>
+        <item>SHAMLAJI ROAD - SJS</item>
+        <item>SHANKARGARH - SRJ</item>
+        <item>SHANKARPALLI - SKP</item>
+        <item>SHAPUR JN - SHH</item>
+        <item>SHDSPRA PADMPRA - SAS</item>
+        <item>SHEDBAL - SED</item>
+        <item>SHEGAON - SEG</item>
+        <item>SHEIKPURA - SHK</item>
+        <item>SHELGOAN H - SLGH</item>
+        <item>SHENDRI - SEI</item>
+        <item>SHEO SINGH PURA - SHNX</item>
+        <item>SHEOPRASADNAGER - SPDR</item>
+        <item>SHEREKAN - SRKN</item>
+        <item>SHERTALAI - SRTL</item>
+        <item>SHERTALLAI OA - SHTA</item>
+        <item>SHIKARA - SKY</item>
+        <item>SHIKOHABAD JN - SKB</item>
+        <item>SHIMILIAGUDA - SMLG</item>
+        <item>SHIMOGA - SME</item>
+        <item>SHIMOGA TOWN - SMET</item>
+        <item>SHIROOR - SHMI</item>
+        <item>SHIRRAVDE - SIW</item>
+        <item>SHIRUD - SHF</item>
+        <item>SHIUPUR - SOP</item>
+        <item>SHIVAJI BRIDGE - CSB</item>
+        <item>SHIVALINGAPURAM - SLPM</item>
+        <item>SHIVANARAYANPUR - SVRP</item>
+        <item>SHIVANI - SHV</item>
+        <item>SHIVNAGAR - SHNG</item>
+        <item>SHIVNI SHIVAPUR - SVW</item>
+        <item>SHIVPURA - SVT</item>
+        <item>SHIVPURI - SVPI</item>
+        <item>SHIVRAMPUR - SWC</item>
+        <item>SHOGHI - SGS</item>
+        <item>SHOLAVANDAN - SDN</item>
+        <item>SHOLINGHUR - SHU</item>
+        <item>SHORANUR JN - SRR</item>
+        <item>SHRAVANBELAGOLA - SBGA</item>
+        <item>SHRI AMIRGADH - SIM</item>
+        <item>SHRI BHAVNATH - SBHN</item>
+        <item>SHRI GANGANAGAR - SGNR</item>
+        <item>SHRI MADHOPUR - SMPR</item>
+        <item>SHRI MAHABIRJI - SMBJ</item>
+        <item>SHRIBDRYA LATHI - SBLT</item>
+        <item>SHRIDHAM - SRID</item>
+        <item>SHRIGONDA ROAD - SGND</item>
+        <item>SHRIKALYANPURA - SKPA</item>
+        <item>SHRIRAJNAGAR - SAGR</item>
+        <item>SHRIRANGAPATNA - S</item>
+        <item>SHRUNGAVARPUKTA - SUP</item>
+        <item>SHUJAATPUR - SJT</item>
+        <item>SHUJALPUR - SJP</item>
+        <item>SHYAMPURI - SMPA</item>
+        <item>SIDDAMPALLI - SIE</item>
+        <item>SIDDHPUR - SID</item>
+        <item>SIDHAULI - SD</item>
+        <item>SIDMUKH - SDMK</item>
+        <item>SIGADAM - SGDM</item>
+        <item>SIHAPAR - SIPR</item>
+        <item>SIHO - SIHO</item>
+        <item>SIHOR GUJARAT - SOJN</item>
+        <item>SIHORA ROAD - SHR</item>
+        <item>SIKANDRA RAO - SKA</item>
+        <item>SIKAR JN - SIKR</item>
+        <item>SIKARPAI - SKPI</item>
+        <item>SILAK JHORI - SZY</item>
+        <item>SILANIBARI - SOB</item>
+        <item>SILAO - SILO</item>
+        <item>SILAPATHAR - SPTR</item>
+        <item>SILAUT - SLT</item>
+        <item>SILCHAR - SCL</item>
+        <item>SILIARI - SLH</item>
+        <item>SILIGURI JN - SGUJ</item>
+        <item>SILIGURU TOWN - SGUT</item>
+        <item>SILLI - SLF</item>
+        <item>SIMALUGURI JN - SLGR</item>
+        <item>SIMARIA - SAE</item>
+        <item>SIMBHOOLI - SMBL</item>
+        <item>SIMHACHALAM - SCM</item>
+        <item>SIMLA - SML</item>
+        <item>SIMULTALA - STL</item>
+        <item>SIMURALI - SMX</item>
+        <item>SINDHAWADAR - SDD</item>
+        <item>SINDHUDURG - SNDD</item>
+        <item>SINDI - SNI</item>
+        <item>SINDKHEDA - SNK</item>
+        <item>SINDPAN - SDPN</item>
+        <item>SINDRIBLOCK HUT - SDBH</item>
+        <item>SINDURWA - SYW</item>
+        <item>SINGAPURAM ROAD - SPRD</item>
+        <item>SINGARAM - SGRM</item>
+        <item>SINGARAYAKONDA - SKM</item>
+        <item>SINGARPUR - SNPR</item>
+        <item>SINGHPUR - SNGP</item>
+        <item>SINGRAULI - SGRL</item>
+        <item>SINGWAL - SGW</item>
+        <item>SINHAN - SYQ</item>
+        <item>SINI JN - SINI</item>
+        <item>SIRARI - SRY</item>
+        <item>SIRAS - SRAS</item>
+        <item>SIRATHU - SRO</item>
+        <item>SIRD - SIRD</item>
+        <item>SIRHIND JN - SIR</item>
+        <item>SIRIPURAM - SRPM</item>
+        <item>SIRJAM - SRJM</item>
+        <item>SIRKAZHI - SY</item>
+        <item>SIRLI - SIF</item>
+        <item>SIRNAPALLI - SCP</item>
+        <item>SIROHI ROAD - SOH</item>
+        <item>SIRPUR KAGAZNGR - SKZR</item>
+        <item>SIRPUR TOWN - SRUR</item>
+        <item>SIRRAN - SIRN</item>
+        <item>SIRSA - SSA</item>
+        <item>SISARKA - SSKA</item>
+        <item>SISVINHALLI - SVHE</item>
+        <item>SISWA BAZAR - SBZ</item>
+        <item>SITABINJ - STBJ</item>
+        <item>SITAFAL MANDI - STPD</item>
+        <item>SITALPUR - STLR</item>
+        <item>SITAMARHI - SMI</item>
+        <item>SITAMPET - STPT</item>
+        <item>SITANAGARAM - SNM</item>
+        <item>SITAPUR - STP</item>
+        <item>SITAPUR CANT - SCC</item>
+        <item>SITAPUR CITY - SPC</item>
+        <item>SITARAMPUR - STN</item>
+        <item>SIURI - SURI</item>
+        <item>SIVAGANGA - SVGA</item>
+        <item>SIVAJINAGAR - SVJR</item>
+        <item>SIVAKASI - SVKS</item>
+        <item>SIVUNGAON - SVN</item>
+        <item>SIWAITH - SWE</item>
+        <item>SIWAN JN - SV</item>
+        <item>SIWANI - SWNI</item>
+        <item>SLEEMANABAD RD - SBD</item>
+        <item>SODPUR - SEP</item>
+        <item>SOGRA - SOGR</item>
+        <item>SOHAGPUR - SGP</item>
+        <item>SOHANSRA - SAWN</item>
+        <item>SOHWAL - SLW</item>
+        <item>SOJAT ROAD - SOD</item>
+        <item>SOLAN - SOL</item>
+        <item>SOLAN BREWERY - SBY</item>
+        <item>SOLAPUR JN - SUR</item>
+        <item>SOMALAPURAM - SLM</item>
+        <item>SOMANAYAKKANPTI - SKPT</item>
+        <item>SOMESAR - SOS</item>
+        <item>SOMIDEVIPALLE - SDV</item>
+        <item>SOMNATH - SMNH</item>
+        <item>SOMPETA - SPT</item>
+        <item>SOMPUR ROAD - SOQ</item>
+        <item>SOMRA BAZAR - SOAE</item>
+        <item>SON NAGAR - SEB</item>
+        <item>SONADA - SAD</item>
+        <item>SONADANGA - SVH</item>
+        <item>SONAGIR - SOR</item>
+        <item>SONAI - SYZ</item>
+        <item>SONAKHAN - SXN</item>
+        <item>SONASAN - SNSN</item>
+        <item>SONBARSA KCHERI - SBM</item>
+        <item>SONDAD - SNV</item>
+        <item>SONDHA ROAD - SCN</item>
+        <item>SONEGAON - SNN</item>
+        <item>SONGADH - SGD</item>
+        <item>SONI - SONI</item>
+        <item>SONIK - SIC</item>
+        <item>SONIPAT - SNP</item>
+        <item>SONPUR JN - SEE</item>
+        <item>SONSHELU - SNSL</item>
+        <item>SONTALAI - SQL</item>
+        <item>SONUA - SWR</item>
+        <item>SONWARA - SWO</item>
+        <item>SORBHOG JN - SBE</item>
+        <item>SORO - SORO</item>
+        <item>SORON - SRN</item>
+        <item>SORON - SRNK</item>
+        <item>SRI DUNGARGARH - SDGH</item>
+        <item>SRI KALAHASTI - KHT</item>
+        <item>SRIKAKULAM ROAD - CHE</item>
+        <item>SRIKRISHN NAGAR - SKN</item>
+        <item>SRINAGAR - SINA</item>
+        <item>SRIRAMNAGAR - SRNR</item>
+        <item>SRIRANGAM - SRGM</item>
+        <item>SRIVAIKUNTAM - SVV</item>
+        <item>SRIVILLIPUTTUR - SVPR</item>
+        <item>SRUNGAVRUKSHAM - SGKM</item>
+        <item>STUARTPURAM - SPF</item>
+        <item>SUBANSIRI - SUZ</item>
+        <item>SUBARNAMRIGI - SBNM</item>
+        <item>SUBEDARGANJ - SFG</item>
+        <item>SUBRAHMANYA ROA - SBHR</item>
+        <item>SUBZI MANDI - SZM</item>
+        <item>SUDAMDIH - SDMD</item>
+        <item>SUDHANI - SUD</item>
+        <item>SUDIYUR - SUX</item>
+        <item>SUDSAR - SDF</item>
+        <item>SUHSARAI - SOW</item>
+        <item>SUISA - SSIA</item>
+        <item>SUJANGARH - SUJH</item>
+        <item>SUJANPUR - SJNP</item>
+        <item>SUJNIPARA - SPLE</item>
+        <item>SUKHISEWANIYAN - SUW</item>
+        <item>SUKINDA ROAD - SKND</item>
+        <item>SUKNA - SN</item>
+        <item>SUKRIMANGELA - SOY</item>
+        <item>SUKRITIPUR - SQF</item>
+        <item>SUKU - SXV</item>
+        <item>SULADHAL - SUL</item>
+        <item>SULEBHAVI - SBH</item>
+        <item>SULEHALLI - SUH</item>
+        <item>SULERJAVALGE - SLGE</item>
+        <item>SULGARE - SGRD</item>
+        <item>SULLURUPETA - SPE</item>
+        <item>SULTANGANJ - SGG</item>
+        <item>SULTANPUR - SLN</item>
+        <item>SULTANPUR LODI - SQR</item>
+        <item>SUMER - SUMR</item>
+        <item>SUMMER HILL - SHZ</item>
+        <item>SUMRERI - SMRR</item>
+        <item>SUNAK - SUC</item>
+        <item>SUNAM - SFM</item>
+        <item>SUNDERABAD - SNBD</item>
+        <item>SUNDLAK - SDLK</item>
+        <item>SUPAUL - SOU</item>
+        <item>SUR KHAND KA KH - SZK</item>
+        <item>SURA NUSSI - SRX</item>
+        <item>SURAIMANPUR - SIP</item>
+        <item>SURAJGARH - SRGH</item>
+        <item>SURAJPUR - SUPR</item>
+        <item>SURAJPUR ROAD - SJQ</item>
+        <item>SURAREDDIPALEM - SDM</item>
+        <item>SURAT - ST</item>
+        <item>SURATGARH JN - SOG</item>
+        <item>SURATHKAL - SL</item>
+        <item>SURATPURA - SURP</item>
+        <item>SURELI - SURL</item>
+        <item>SURENDRANAGAR - SUNR</item>
+        <item>SURENDRANAGAR G - SRGT</item>
+        <item>SURIAWAN - SAW</item>
+        <item>SURPURA - SPO</item>
+        <item>SUWANSA - SWS</item>
+        <item>SUWASRA - SVA</item>
+        <item>SWARUPGANJ - SRPJ</item>
+        <item>TADAKALPUDI - TPY</item>
+        <item>TADALI - TAE</item>
+        <item>TADEPALLIGUDEM - TDD</item>
+        <item>TADIPATRI - TU</item>
+        <item>TADWAL - TVL</item>
+        <item>TAHERPUR - THP</item>
+        <item>TAHSIL BHADRA - TSD</item>
+        <item>TAHSIL FATEHPUR - TSF</item>
+        <item>TAJPUR - TJP</item>
+        <item>TAJPUR DEHMA - TJD</item>
+        <item>TAKAL - TAKL</item>
+        <item>TAKARI - TKR</item>
+        <item>TAKARKHEDE - TKHE</item>
+        <item>TAKIA - TQA</item>
+        <item>TAKLI BHANSALI - TKLB</item>
+        <item>TAKLIMIYA - TKMY</item>
+        <item>TAKSAL - TSL</item>
+        <item>TAKU - TAKU</item>
+        <item>TALAIYUTHU - TAY</item>
+        <item>TALAKHAJURI - TLKH</item>
+        <item>TALALA JN - TAV</item>
+        <item>TALAMANCHI - TMC</item>
+        <item>TALBAHAT - TBT</item>
+        <item>TALCHER - TLHR</item>
+        <item>TALCHER ROAD - TLHD</item>
+        <item>TALEGAON - TGN</item>
+        <item>TALGARIA - TLE</item>
+        <item>TALHERI BUZURG - THJ</item>
+        <item>TALIT - TIT</item>
+        <item>TALJHARI - TLJ</item>
+        <item>TALLI SAIDASAHU - TSS</item>
+        <item>TALMADLA - TMD</item>
+        <item>TALOD - TOD</item>
+        <item>TALOJA PANCHAND - TPND</item>
+        <item>TALVADYA - TLV</item>
+        <item>TALWANDI - TWB</item>
+        <item>TAMBARAM - TBM</item>
+        <item>TAMLUK - TMZ</item>
+        <item>TAMNA - TAO</item>
+        <item>TANAKPUR - TPU</item>
+        <item>TANDA URMAR - TDO</item>
+        <item>TANDUR - TDU</item>
+        <item>TANGARMUNDA - TGM</item>
+        <item>TANGLA - TNL</item>
+        <item>TANGRA - TRA</item>
+        <item>TANGUTURU - TNR</item>
+        <item>TANKUPPA - TKN</item>
+        <item>TANUKU - TNKU</item>
+        <item>TANUR - TA</item>
+        <item>TAPA - TAPA</item>
+        <item>TAPRI - TPZ</item>
+        <item>TARADEVI - TVI</item>
+        <item>TARANA ROAD - TAN</item>
+        <item>TARAORI - TRR</item>
+        <item>TARAPITH ROAD - TPF</item>
+        <item>TAREGNA - TEA</item>
+        <item>TARGAON - TAZ</item>
+        <item>TARIGOPPULA - TGU</item>
+        <item>TARIKERE JN - TKE</item>
+        <item>TARLUPADU - TLU</item>
+        <item>TARN TARAN - TTO</item>
+        <item>TARSARAI - TRS</item>
+        <item>TARU - TR</item>
+        <item>TATANAGAR JN - TATA</item>
+        <item>TATIBAHAR - TBH</item>
+        <item>TATISILWAI - TIS</item>
+        <item>TAVARGATTI - TVG</item>
+        <item>TEGHRA - TGA</item>
+        <item>TELAM - TQM</item>
+        <item>TELAPROLU - TOU</item>
+        <item>TELIAMURA - TLMR</item>
+        <item>TELO - TELO</item>
+        <item>TELTA - TETA</item>
+        <item>TENALI JN - TEL</item>
+        <item>TENGANMADA - TGQ</item>
+        <item>TENKASI JN - TSI</item>
+        <item>TETTU - TTU</item>
+        <item>TETULMARI - TET</item>
+        <item>TEZPORE - TZTB</item>
+        <item>THADI - THY</item>
+        <item>THALASSERY - TLY</item>
+        <item>THALLAK - THKU</item>
+        <item>THALWARA - TLWA</item>
+        <item>THAN JN - THAN</item>
+        <item>THANA BIHPUR JN - THB</item>
+        <item>THANDLA RD - THDR</item>
+        <item>THANE - TNA</item>
+        <item>THANJAVUR - TJ</item>
+        <item>THARSA - TAR</item>
+        <item>THATHANA MITHRI - THMR</item>
+        <item>THAWE JN - THE</item>
+        <item>THERUBALI - THV</item>
+        <item>THIRUVARUR JN - TVR</item>
+        <item>THIVIM - THVM</item>
+        <item>THOKUR - TOK</item>
+        <item>THONDEBHAVI - TDV</item>
+        <item>THRISUR - TCR</item>
+        <item>THURIA - THUR</item>
+        <item>TIBI - TIBI</item>
+        <item>TIHU - TIHU</item>
+        <item>TIKARIA - TKYR</item>
+        <item>TIKEKARWADI - TKWD</item>
+        <item>TIKIRI - TKRI</item>
+        <item>TIKUNIA - TQN</item>
+        <item>TILAIVILAGAM - TAM</item>
+        <item>TILAK BRIDGE - TKJ</item>
+        <item>TILARU - TIU</item>
+        <item>TILATI - TLT</item>
+        <item>TILAYA - TIA</item>
+        <item>TILDA - TLD</item>
+        <item>TILDANGA - TDLE</item>
+        <item>TILHAR - TLH</item>
+        <item>TILONIYA - TL</item>
+        <item>TILWARA - TWL</item>
+        <item>TIMARNI - TBN</item>
+        <item>TIMBARVA - TBV</item>
+        <item>TIMMANACHERLA - TIM</item>
+        <item>TIMMAPUR - TMX</item>
+        <item>TINDHARIA - TDH</item>
+        <item>TINDIVANAM - TMV</item>
+        <item>TINPAHAR JN - TPH</item>
+        <item>TINSUKIA JN - TSK</item>
+        <item>TIPTUR - TTR</item>
+        <item>TIRALDIH - TUL</item>
+        <item>TIRCHRPALI FORT - TP</item>
+        <item>TIRORA - TRO</item>
+        <item>TIRUCHCHIRAPALI - TPJ</item>
+        <item>TIRUCHENDUR - TCN</item>
+        <item>TIRUCHRPALI TWN - TPTN</item>
+        <item>TIRUCHRPLI PLKI - TPE</item>
+        <item>TIRUKOILUR - TRK</item>
+        <item>TIRUMANGALAM - TMQ</item>
+        <item>TIRUNELLIKAVAL - TNK</item>
+        <item>TIRUNELVELI - TEN</item>
+        <item>TIRUNNAVAYA - TUA</item>
+        <item>TIRUPADRIPULYUR - TDPR</item>
+        <item>TIRUPARANKNDRM - TDN</item>
+        <item>TIRUPATI - TPTY</item>
+        <item>TIRUPATI W HLT - TPW</item>
+        <item>TIRUPATTUR JN - TPT</item>
+        <item>TIRUPPUR - TUP</item>
+        <item>TIRUPPUVANAM - TVN</item>
+        <item>TIRUR - TIR</item>
+        <item>TIRUTTANGAL - TTL</item>
+        <item>TIRUTTANI - TRT</item>
+        <item>TIRUTURAIPDI JN - TTP</item>
+        <item>TIRUVALLA - TRVL</item>
+        <item>TIRUVANNAMALAI - TNM</item>
+        <item>TIRUVERUMBUR - TRB</item>
+        <item>TISI - TISI</item>
+        <item>TISUA - TSA</item>
+        <item>TITABAR - TTB</item>
+        <item>TITLAGARH - TIG</item>
+        <item>TITWA - TTW</item>
+        <item>TO DARJEELING - DJRZ</item>
+        <item>TODARPUR - TDP</item>
+        <item>TOHANA - TUN</item>
+        <item>TOMKA - TMKA</item>
+        <item>TOPOKAL - TPQ</item>
+        <item>TORANAGALLU - TNGL</item>
+        <item>TORANG - TRAN</item>
+        <item>TORI - TORI</item>
+        <item>TOVALAI - THX</item>
+        <item>TOZHUPPEDU - TZD</item>
+        <item>TRIBENI - TBAE</item>
+        <item>TRIKARPUR - TKQ</item>
+        <item>TRILOCHAN MAHDO - TLMD</item>
+        <item>TRIUPUNITTURA - TRTR</item>
+        <item>TRIVANDRUM CNTL - TVC</item>
+        <item>TRIVANDRUM PETT - TVP</item>
+        <item>TRIVELLORE - TRL</item>
+        <item>TSUNDURU - TSR</item>
+        <item>TUGGALI - TGL</item>
+        <item>TUGLAKABAD - TKD</item>
+        <item>TUKAITHAD - TTZ</item>
+        <item>TULJAPUR - TGP</item>
+        <item>TULWARA JHIL - TLI</item>
+        <item>TUMKUR - TK</item>
+        <item>TUMSAR ROAD - TMR</item>
+        <item>TUNDLA JN - TDL</item>
+        <item>TUNG - TUNG</item>
+        <item>TUNI - TUNI</item>
+        <item>TUNIA - TUX</item>
+        <item>TUPKADIH - TKB</item>
+        <item>TURAVUR - TUVR</item>
+        <item>TUREKALA ROAD - TRKR</item>
+        <item>TURKI - TUR</item>
+        <item>TURKI ROAD - TZR</item>
+        <item>TURTIPAR - TTI</item>
+        <item>TUTI MELUR - TME</item>
+        <item>TUTICORIN - TN</item>
+        <item>TWINING GANJ - TWG</item>
+        <item>TYADA - TXD</item>
+        <item>UCHANA - UCA</item>
+        <item>UCHIPPULI - UCP</item>
+        <item>UDAGAMANDALAM - UAM</item>
+        <item>UDAIPUR CITY - UDZ</item>
+        <item>UDALGURI - ULG</item>
+        <item>UDALKACHAR - UKR</item>
+        <item>UDASAR - UDS</item>
+        <item>UDGIR - UDGR</item>
+        <item>UDHAMPUR - UHP</item>
+        <item>UDHNA JN - UDN</item>
+        <item>UDRAMSAR - UMS</item>
+        <item>UDUMALAIPPETTAI - UDT</item>
+        <item>UDUPI - UD</item>
+        <item>UDVADA - UVD</item>
+        <item>UGAR KHURD - UGR</item>
+        <item>UGNA HALT - UGNA</item>
+        <item>UGRASENPUR - URPR</item>
+        <item>UGWE - UGWE</item>
+        <item>UJALVAV - UJ</item>
+        <item>UJHANI - UJH</item>
+        <item>UJIARPUR - UJP</item>
+        <item>UJJAIN JN - UJN</item>
+        <item>UKAI SONGADH - USD</item>
+        <item>UKHALI - UKH</item>
+        <item>UKHRA - UKA</item>
+        <item>UKLANA - UKN</item>
+        <item>UKSHI - UKC</item>
+        <item>ULAVAPADU - UPD</item>
+        <item>ULHASNAGAR - ULNR</item>
+        <item>ULINDAKONDA - UKD</item>
+        <item>ULLAL - ULL</item>
+        <item>ULUBARIA - ULB</item>
+        <item>UMAR TALI - UTA</item>
+        <item>UMARDASHI - UM</item>
+        <item>UMARIA - UMR</item>
+        <item>UMARIA ISPA HLT - UIH</item>
+        <item>UMBARGAM ROAD - UBR</item>
+        <item>UMDANAGAR - UR</item>
+        <item>UMED - UMED</item>
+        <item>UMRA - UMRA</item>
+        <item>UMRA NALA - ULA</item>
+        <item>UMRI - UMRI</item>
+        <item>UNA HIMACHAL - UHL</item>
+        <item>UNAULA - UNLA</item>
+        <item>UNAWA AITHOR - UAR</item>
+        <item>UNCHAHAR JN - UCR</item>
+        <item>UNCHHERA - UHR</item>
+        <item>UNCHI BASSI - UCB</item>
+        <item>UNDASA MADHAWPU - UDM</item>
+        <item>UNDI - UNDI</item>
+        <item>UNGUTURU - VGT</item>
+        <item>UNHEL - UNL</item>
+        <item>UNJALUR - URL</item>
+        <item>UNJHA - UJA</item>
+        <item>UNKAL - UNK</item>
+        <item>UNNAO JN - ON</item>
+        <item>UNTARE ROAD - URD</item>
+        <item>UPPAL - OPL</item>
+        <item>UPPALA - UAA</item>
+        <item>UPPALAVAI - UPW</item>
+        <item>UPPUGUNDURU - UGD</item>
+        <item>UREN - UREN</item>
+        <item>URKURA - URK</item>
+        <item>URMA - URMA</item>
+        <item>URULI - URI</item>
+        <item>USALAPUR - USL</item>
+        <item>USMANABAD - UMD</item>
+        <item>USMANPUR - UPR</item>
+        <item>UTARLAI - UTL</item>
+        <item>UTARSANDA - UTD</item>
+        <item>UTRAHTIA - UTR</item>
+        <item>UTRAN - URN</item>
+        <item>UTTUKULI - UKL</item>
+        <item>VADAKANNIKAPURM - VDK</item>
+        <item>VADAKARA - BDJ</item>
+        <item>VADAL - VAL</item>
+        <item>VADAMADURA - VDM</item>
+        <item>VADGAON - VDN</item>
+        <item>VADGAON NILA - VDGN</item>
+        <item>VADLAMANNADU - VMD</item>
+        <item>VADOD - VXD</item>
+        <item>VADODARA JN - BRC</item>
+        <item>VAGDIYA - VD</item>
+        <item>VAGHPURA - VU</item>
+        <item>VAIBHAVWADI RD - VBW</item>
+        <item>VAIKAM ROAD - VARD</item>
+        <item>VAITARNA - VTN</item>
+        <item>VAKAV - WKA</item>
+        <item>VALANTARAVAL - VTV</item>
+        <item>VALAPATTANAM - VAPM</item>
+        <item>VALAPPADI G HLT - VGE</item>
+        <item>VALIVADE - VV</item>
+        <item>VALIVERU - VRU</item>
+        <item>VALLIKUNNU - VLI</item>
+        <item>VALLIYUR - VLY</item>
+        <item>VALMIKINAGAR RD - VKNR</item>
+        <item>VALSAD - BL</item>
+        <item>VAMBORI - VBR</item>
+        <item>VANGANI - VGI</item>
+        <item>VANGANUR - VRN</item>
+        <item>VANGAON - VGN</item>
+        <item>VANI ROAD - VNRD</item>
+        <item>VANIYAMBADI - VN</item>
+        <item>VAPI - VAPI</item>
+        <item>VARAHI - VRX</item>
+        <item>VARANASI CITY - BCY</item>
+        <item>VARANASI JN - BSB</item>
+        <item>VARANGAON - VNA</item>
+        <item>VAREDIYA - VRE</item>
+        <item>VARKALA - VAK</item>
+        <item>VARNAMA - VRM</item>
+        <item>VARTEJ - VTJ</item>
+        <item>VARVALA - VVA</item>
+        <item>VASAD JN - VDA</item>
+        <item>VASAI ROAD - BSR</item>
+        <item>VASAN IYAWA - WSE</item>
+        <item>VASCO DA GAMA - VSG</item>
+        <item>VASTRAPUR - VTP</item>
+        <item>VATLUR - VAT</item>
+        <item>VATVA - VTA</item>
+        <item>VEDAYAPALEM - VDE</item>
+        <item>VEDCHHA - VDH</item>
+        <item>VEER - VEER</item>
+        <item>VEJANDLA - VJA</item>
+        <item>VELDURTI - VDI</item>
+        <item>VELI - VELI</item>
+        <item>VELLANUR - VEL</item>
+        <item>VELLORE CANT - VLR</item>
+        <item>VELPURU ROAD - VEP</item>
+        <item>VEMURU - VMU</item>
+        <item>VENDODU - VDD</item>
+        <item>VENDRA - VND</item>
+        <item>VENKATACHALAM - VKT</item>
+        <item>VENKATAGIRI - VKI</item>
+        <item>VENKATNAGRA - VKR</item>
+        <item>VERAVAL - VRL</item>
+        <item>VERKA JN - VKA</item>
+        <item>VERNA - VEN</item>
+        <item>VETAPALEMU - VTM</item>
+        <item>VIDISHA - BHS</item>
+        <item>VIDURASWATTHA - VWA</item>
+        <item>VIDYANAGAR - VAR</item>
+        <item>VIDYAPATINAGAR - VPN</item>
+        <item>VIDYASAGAR - VDS</item>
+        <item>VIJAPUR - VJF</item>
+        <item>VIJAY PUR - VJP</item>
+        <item>VIJAYANAGAR - VJR</item>
+        <item>VIJAYAWADA JN - BZA</item>
+        <item>VIJIYPUR JAMMU - VJPJ</item>
+        <item>VIKARABAD JN - VKB</item>
+        <item>VIKHRAN ROAD - VKH</item>
+        <item>VIKRAMGARH ALOT - VMA</item>
+        <item>VIKRAMNAGAR - VRG</item>
+        <item>VIKRAVANDI - VVN</item>
+        <item>VILAD - VL</item>
+        <item>VILAVADE - VID</item>
+        <item>VILAYATKALAN RD - VYK</item>
+        <item>VILLUPARAM JN - VM</item>
+        <item>VINDHYACHAL - BDL</item>
+        <item>VINUKONDA - VKN</item>
+        <item>VIRAMDAD - VQD</item>
+        <item>VIRAMGAM JN - VG</item>
+        <item>VIRAPUR - VP</item>
+        <item>VIRAR - VR</item>
+        <item>VIRAVADA - VRV</item>
+        <item>VIRAVALLI - VRVL</item>
+        <item>VIRAVASARAM - VVM</item>
+        <item>VIRBHADRA - VRH</item>
+        <item>VIRDEL ROAD - VRD</item>
+        <item>VIROCHANNAGAR - VCN</item>
+        <item>VIRPUR - VRR</item>
+        <item>VIRUDUNAGAR JN - VPT</item>
+        <item>VISAPUR - VPR</item>
+        <item>VISAVADAR - VSW</item>
+        <item>VISHAKAPATNAM - VSKP</item>
+        <item>VISHNUPURAM - VNUP</item>
+        <item>VISHRAMBAG - VRB</item>
+        <item>VISHVAMITRI - VS</item>
+        <item>VISHVAMITRI - VSI</item>
+        <item>VISWANATH CHRLI - VNE</item>
+        <item>VITHISVARANKOL - VDL</item>
+        <item>VIVEKA VIHAR - VVB</item>
+        <item>VIZIANAGRAM JN - VZM</item>
+        <item>VRIDHACHALAM JN - VRI</item>
+        <item>VYARA - VYA</item>
+        <item>VYASNAGAR - VYN</item>
+        <item>W R S COLONY PH - WRC</item>
+        <item>WADAKANCHERI - WKI</item>
+        <item>WADHWAN CITY - WC</item>
+        <item>WADI - WADI</item>
+        <item>WADIARAM - WDR</item>
+        <item>WADRENGDISA - WDA</item>
+        <item>WADSA - WSA</item>
+        <item>WADSINGE - WDS</item>
+        <item>WADWAL NAGNATH - WDLN</item>
+        <item>WALAJAH ROAD JN - WJR</item>
+        <item>WAN ROAD - WND</item>
+        <item>WANEGAON - WNG</item>
+        <item>WANI - WANI</item>
+        <item>WANKANER JN - WKR</item>
+        <item>WANPARTI ROAD - WPR</item>
+        <item>WANSJALIYA - WSJ</item>
+        <item>WARANGAL - WL</item>
+        <item>WARDHA EAST - WRE</item>
+        <item>WARDHA JN - WR</item>
+        <item>WARIA - OYR</item>
+        <item>WARIS ALEGANJ - WRS</item>
+        <item>WARORA - WRR</item>
+        <item>WASHERMANPET - WST</item>
+        <item>WASHIM - WHM</item>
+        <item>WASHIMBE - WSB</item>
+        <item>WATHAR - WTR</item>
+        <item>WAZERGANJ - WZJ</item>
+        <item>WELLINGTON - WEL</item>
+        <item>WENA - WENA</item>
+        <item>WHITEFIELD - WFD</item>
+        <item>WIHIRGAON - VHGN</item>
+        <item>WIRUR - WIRR</item>
+        <item>WYNDHAMGANJ - WDM</item>
+        <item>YADGIR - YG</item>
+        <item>YAKUTPURA KCG - YKA</item>
+        <item>YALVIGI - YLG</item>
+        <item>YAMUNA BDG AGRA - JAB</item>
+        <item>YATALURU - YAL</item>
+        <item>YEDSHI - YSI</item>
+        <item>YELHANKA JN - YNK</item>
+        <item>YELIYUR - Y</item>
+        <item>YELLAKARU - YLK</item>
+        <item>YEOLA - YL</item>
+        <item>YERMARAS - YS</item>
+        <item>YERPEDU - YPD</item>
+        <item>YERRAGUDIPAD - YGD</item>
+        <item>YERRAGUNTLA - YA</item>
+        <item>YESVANTPUR JN - YPR</item>
+        <item>YEVAT - YT</item>
+        <item>YUSUFPUR - YFP</item>
+        <item>ZAFARABAD JN - ZBD</item>
+        <item>ZAHIRABAD - ZB</item>
+        <item>ZAMANIA - ZNA</item>
+        <item>ZAMPINI - ZPI</item>
+        <item>ZANGALAPALLE - ZPL</item>
+        <item>ZAWAR - ZW</item>
+        <item>ZERPUR PALI - ZP</item>
+    </string-array>
+</resources>
